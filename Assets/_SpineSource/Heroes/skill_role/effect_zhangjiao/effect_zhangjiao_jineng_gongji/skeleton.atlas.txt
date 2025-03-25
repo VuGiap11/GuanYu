@@ -1,0 +1,244 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/skill/dilie_08_00
+  rotate: true
+  xy: 1916, 1012
+  size: 296, 97
+  orig: 329, 123
+  offset: 18, 14
+  index: -1
+TX/skill/gongjishandian/gsd_00
+  rotate: true
+  xy: 0, 687
+  size: 141, 432
+  orig: 192, 450
+  offset: 16, 0
+  index: -1
+TX/skill/gongjishandian/gsd_02
+  rotate: true
+  xy: 1497, 1195
+  size: 113, 417
+  orig: 192, 450
+  offset: 31, 6
+  index: -1
+TX/skill/gongjishandian/gsd_04
+  rotate: false
+  xy: 445, 614
+  size: 151, 438
+  orig: 192, 450
+  offset: 0, 0
+  index: -1
+TX/skill/gongjishandian/gsd_06
+  rotate: true
+  xy: 0, 830
+  size: 149, 438
+  orig: 192, 450
+  offset: 0, 0
+  index: -1
+TX/skill/gongjishandian/gsd_08
+  rotate: true
+  xy: 0, 981
+  size: 186, 443
+  orig: 192, 450
+  offset: 0, 0
+  index: -1
+TX/skill/gongjishandian/gsd_10
+  rotate: true
+  xy: 1045, 1135
+  size: 181, 450
+  orig: 192, 450
+  offset: 2, 0
+  index: -1
+TX/skill/gongjishandian/gsd_12
+  rotate: false
+  xy: 852, 725
+  size: 157, 445
+  orig: 192, 450
+  offset: 6, 2
+  index: -1
+TX/skill/gongjishandian/gsd_14
+  rotate: false
+  xy: 852, 725
+  size: 157, 445
+  orig: 192, 450
+  offset: 6, 2
+  index: -1
+TX/skill/gongjishandian/gsd_16
+  rotate: false
+  xy: 919, 1172
+  size: 124, 417
+  orig: 192, 450
+  offset: 27, 15
+  index: -1
+TX/skill/gongjishandian/gsd_18
+  rotate: true
+  xy: 0, 561
+  size: 124, 417
+  orig: 192, 450
+  offset: 27, 15
+  index: -1
+TX/skill/shouji/shj_00
+  rotate: false
+  xy: 1497, 1019
+  size: 261, 174
+  orig: 621, 482
+  offset: 182, 84
+  index: -1
+TX/skill/shouji/shj_02
+  rotate: false
+  xy: 1514, 1653
+  size: 505, 394
+  orig: 621, 482
+  offset: 52, 25
+  index: -1
+TX/skill/shouji/shj_04
+  rotate: false
+  xy: 0, 1628
+  size: 555, 419
+  orig: 621, 482
+  offset: 27, 21
+  index: -1
+TX/skill/shouji/shj_06
+  rotate: false
+  xy: 1049, 1605
+  size: 463, 442
+  orig: 621, 482
+  offset: 73, 17
+  index: -1
+TX/skill/shouji/shj_08
+  rotate: false
+  xy: 0, 1169
+  size: 471, 457
+  orig: 621, 482
+  offset: 68, 14
+  index: -1
+TX/skill/shouji/shj_10
+  rotate: false
+  xy: 557, 1591
+  size: 490, 456
+  orig: 621, 482
+  offset: 52, 14
+  index: -1
+TX/skill/shouji/shj_12
+  rotate: false
+  xy: 1514, 1310
+  size: 451, 341
+  orig: 621, 482
+  offset: 81, 33
+  index: -1
+TX/skill/shouji/shj_14
+  rotate: false
+  xy: 1049, 1318
+  size: 389, 285
+  orig: 621, 482
+  offset: 109, 79
+  index: -1
+TX/skill/shouji/shj_16
+  rotate: false
+  xy: 535, 1317
+  size: 382, 272
+  orig: 621, 482
+  offset: 109, 79
+  index: -1
+TX/skill/shouji/shj_18
+  rotate: false
+  xy: 473, 1054
+  size: 377, 261
+  orig: 621, 482
+  offset: 115, 93
+  index: -1
+TX/skill/shouji/shj_20
+  rotate: true
+  xy: 598, 710
+  size: 342, 193
+  orig: 621, 482
+  offset: 141, 162
+  index: -1
+TX/skill/shoujiyanwu/yanwu_00
+  rotate: false
+  xy: 1967, 1561
+  size: 79, 90
+  orig: 169, 173
+  offset: 45, 45
+  index: -1
+TX/skill/shoujiyanwu/yanwu_02
+  rotate: false
+  xy: 1429, 906
+  size: 115, 111
+  orig: 169, 173
+  offset: 27, 29
+  index: -1
+TX/skill/shoujiyanwu/yanwu_04
+  rotate: true
+  xy: 1301, 1012
+  size: 121, 126
+  orig: 169, 173
+  offset: 24, 24
+  index: -1
+TX/skill/shoujiyanwu/yanwu_06
+  rotate: true
+  xy: 1158, 1006
+  size: 127, 141
+  orig: 169, 173
+  offset: 22, 14
+  index: -1
+TX/skill/shoujiyanwu/yanwu_08
+  rotate: true
+  xy: 1011, 1004
+  size: 129, 145
+  orig: 169, 173
+  offset: 22, 12
+  index: -1
+TX/skill/shoujiyanwu/yanwu_10
+  rotate: true
+  xy: 1760, 1058
+  size: 135, 149
+  orig: 169, 173
+  offset: 20, 11
+  index: -1
+TX/skill/shoujiyanwu/yanwu_12
+  rotate: true
+  xy: 1760, 922
+  size: 134, 150
+  orig: 169, 173
+  offset: 24, 11
+  index: -1
+TX/skill/shoujiyanwu/yanwu_14
+  rotate: false
+  xy: 1912, 860
+  size: 132, 150
+  orig: 169, 173
+  offset: 27, 11
+  index: -1
+TX/skill/shoujiyanwu/yanwu_16
+  rotate: true
+  xy: 473, 1494
+  size: 132, 60
+  orig: 169, 173
+  offset: 27, 37
+  index: -1
+TX/skill/shoujiyanwu/yanwu_18
+  rotate: true
+  xy: 1967, 1463
+  size: 96, 42
+  orig: 169, 173
+  offset: 33, 55
+  index: -1
+TX/skill/shoujiyanwu/yanwu_20
+  rotate: false
+  xy: 2021, 2014
+  size: 26, 33
+  orig: 169, 173
+  offset: 74, 63
+  index: -1
+TX/skill/shoujiyanwu/yanwu_22
+  rotate: true
+  xy: 535, 1620
+  size: 6, 13
+  orig: 169, 173
+  offset: 75, 69
+  index: -1

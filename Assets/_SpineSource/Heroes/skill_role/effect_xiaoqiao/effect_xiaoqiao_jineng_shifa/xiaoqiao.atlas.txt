@@ -1,0 +1,146 @@
+
+xiaoqiao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk/sf/s/0_00000
+  rotate: true
+  xy: 234, 163
+  size: 128, 208
+  orig: 256, 256
+  offset: 56, 0
+  index: -1
+effect/atk/sf/s/0_00001
+  rotate: false
+  xy: 468, 322
+  size: 186, 224
+  orig: 256, 256
+  offset: 33, 0
+  index: -1
+effect/atk/sf/s/0_00003
+  rotate: false
+  xy: 0, 290
+  size: 232, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/atk/sf/s/0_00004
+  rotate: false
+  xy: 234, 293
+  size: 232, 253
+  orig: 256, 256
+  offset: 0, 3
+  index: -1
+effect/atk/sf/s/0_00006
+  rotate: true
+  xy: 656, 146
+  size: 176, 204
+  orig: 256, 256
+  offset: 46, 52
+  index: -1
+effect/atk/sf/y/0_00000
+  rotate: false
+  xy: 656, 326
+  size: 45, 20
+  orig: 280, 80
+  offset: 84, 4
+  index: -1
+effect/atk/sf/y/0_00002
+  rotate: false
+  xy: 550, 79
+  size: 78, 50
+  orig: 280, 80
+  offset: 46, 4
+  index: -1
+effect/atk/sf/y/0_00004
+  rotate: false
+  xy: 794, 5
+  size: 197, 63
+  orig: 280, 80
+  offset: 20, 1
+  index: -1
+effect/atk/sf/y/0_00006
+  rotate: false
+  xy: 550, 0
+  size: 242, 68
+  orig: 280, 80
+  offset: 11, 2
+  index: -1
+effect/atk/sf/y/0_00008
+  rotate: false
+  xy: 0, 15
+  size: 263, 71
+  orig: 280, 80
+  offset: 8, 3
+  index: -1
+effect/atk/sf/y/0_00010
+  rotate: false
+  xy: 642, 70
+  size: 269, 74
+  orig: 280, 80
+  offset: 6, 2
+  index: -1
+effect/atk/sf/y/0_00012
+  rotate: false
+  xy: 0, 88
+  size: 273, 73
+  orig: 280, 80
+  offset: 5, 3
+  index: -1
+effect/atk/sf/y/0_00014
+  rotate: false
+  xy: 275, 57
+  size: 273, 72
+  orig: 280, 80
+  offset: 6, 3
+  index: -1
+effect/gd_00000
+  rotate: false
+  xy: 171, 234
+  size: 52, 54
+  orig: 64, 64
+  offset: 6, 5
+  index: -1
+effect/sk1/f/js/0_00000
+  rotate: false
+  xy: 913, 76
+  size: 73, 84
+  orig: 230, 200
+  offset: 71, 5
+  index: -1
+effect/sk1/f/js/0_00002
+  rotate: true
+  xy: 0, 182
+  size: 106, 169
+  orig: 230, 200
+  offset: 55, 3
+  index: -1
+effect/sk1/f/js/0_00004
+  rotate: false
+  xy: 468, 131
+  size: 172, 189
+  orig: 230, 200
+  offset: 30, 3
+  index: -1
+effect/sk1/f/js/0_00006
+  rotate: true
+  xy: 656, 348
+  size: 198, 193
+  orig: 230, 200
+  offset: 21, 7
+  index: -1
+effect/sk1/f/js/0_00008
+  rotate: true
+  xy: 851, 324
+  size: 222, 172
+  orig: 230, 200
+  offset: 4, 12
+  index: -1
+effect/sk1/f/js/0_00010
+  rotate: false
+  xy: 862, 162
+  size: 147, 160
+  orig: 230, 200
+  offset: 79, 22
+  index: -1

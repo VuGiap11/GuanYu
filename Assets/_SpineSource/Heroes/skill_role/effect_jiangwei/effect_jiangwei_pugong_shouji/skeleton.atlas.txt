@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 770,770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/sjg_00000
+  rotate: false
+  xy: 521, 11
+  size: 135, 117
+  orig: 333, 333
+  offset: 46, 106
+  index: -1
+effect/sjg_00001
+  rotate: true
+  xy: 378, 0
+  size: 160, 141
+  orig: 333, 333
+  offset: 35, 90
+  index: -1
+effect/sjg_00002
+  rotate: false
+  xy: 536, 423
+  size: 194, 155
+  orig: 333, 333
+  offset: 28, 82
+  index: -1
+effect/sjg_00003
+  rotate: false
+  xy: 499, 580
+  size: 232, 190
+  orig: 333, 333
+  offset: 15, 62
+  index: -1
+effect/sjg_00004
+  rotate: false
+  xy: 536, 276
+  size: 187, 145
+  orig: 333, 333
+  offset: 69, 88
+  index: -1
+effect/sjg_00005
+  rotate: true
+  xy: 378, 162
+  size: 198, 150
+  orig: 333, 333
+  offset: 62, 85
+  index: -1
+effect/sjg_00006
+  rotate: true
+  xy: 373, 362
+  size: 214, 161
+  orig: 333, 333
+  offset: 56, 83
+  index: -1
+effect/sjg_00007
+  rotate: true
+  xy: 199, 83
+  size: 234, 177
+  orig: 333, 333
+  offset: 49, 76
+  index: -1
+effect/sjg_00008
+  rotate: true
+  xy: 0, 43
+  size: 249, 197
+  orig: 333, 333
+  offset: 43, 65
+  index: -1
+effect/sjg_00009
+  rotate: false
+  xy: 0, 556
+  size: 239, 214
+  orig: 333, 333
+  offset: 38, 56
+  index: -1
+effect/sjg_00010
+  rotate: true
+  xy: 195, 319
+  size: 235, 176
+  orig: 333, 333
+  offset: 63, 90
+  index: -1
+effect/sjg_00011
+  rotate: false
+  xy: 241, 578
+  size: 256, 192
+  orig: 333, 333
+  offset: 60, 85
+  index: -1
+effect/sjg_00012
+  rotate: true
+  xy: 0, 294
+  size: 260, 193
+  orig: 333, 333
+  offset: 59, 83
+  index: -1
+effect/sjg_00013
+  rotate: true
+  xy: 530, 130
+  size: 144, 173
+  orig: 333, 333
+  offset: 174, 102
+  index: -1
+effect/sjg_00014
+  rotate: false
+  xy: 199, 12
+  size: 125, 69
+  orig: 333, 333
+  offset: 190, 105
+  index: -1

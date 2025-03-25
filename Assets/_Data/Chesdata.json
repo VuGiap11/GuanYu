@@ -1,0 +1,28 @@
+{
+	"ChestDatas":[
+		{
+			"Id":0,
+			"skin":1,
+			"name":"Common",
+			"type":0
+		},
+		{
+			"Id":1,
+			"skin":2,
+			"name":"Prenium",
+			"type":1
+		},
+		{
+			"Id":2,
+			"skin":3,
+			"name":"Rare",
+			"type":2
+		},
+		{
+			"Id":3,
+			"skin":4,
+			"name":"Epic",
+			"type":3
+		}
+	]
+}

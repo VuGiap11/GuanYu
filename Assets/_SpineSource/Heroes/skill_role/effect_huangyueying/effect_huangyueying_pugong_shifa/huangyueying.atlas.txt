@@ -1,0 +1,153 @@
+
+huangyueying.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/glow_00000
+  rotate: true
+  xy: 463, 397
+  size: 45, 44
+  orig: 50, 50
+  offset: 2, 3
+  index: -1
+atk/hui/1_00016
+  rotate: false
+  xy: 127, 61
+  size: 76, 80
+  orig: 205, 125
+  offset: 118, 37
+  index: -1
+atk/hui/1_00018
+  rotate: true
+  xy: 293, 152
+  size: 128, 99
+  orig: 205, 125
+  offset: 66, 13
+  index: -1
+atk/hui/1_00020
+  rotate: false
+  xy: 127, 143
+  size: 164, 94
+  orig: 205, 125
+  offset: 24, 11
+  index: -1
+atk/hui/1_00022
+  rotate: false
+  xy: 0, 353
+  size: 170, 89
+  orig: 205, 125
+  offset: 12, 8
+  index: -1
+atk/hui/1_00024
+  rotate: false
+  xy: 318, 378
+  size: 143, 64
+  orig: 205, 125
+  offset: 20, 9
+  index: -1
+atk/hui/1_00026
+  rotate: true
+  xy: 127, 239
+  size: 112, 40
+  orig: 205, 125
+  offset: 35, 17
+  index: -1
+atk/hui/1_00028
+  rotate: false
+  xy: 169, 266
+  size: 43, 14
+  orig: 205, 125
+  offset: 54, 29
+  index: -1
+atk/sg/1_00002
+  rotate: false
+  xy: 278, 1
+  size: 53, 59
+  orig: 106, 106
+  offset: 15, 30
+  index: -1
+atk/sg/1_00004
+  rotate: true
+  xy: 370, 67
+  size: 83, 66
+  orig: 106, 106
+  offset: 11, 25
+  index: -1
+atk/sg/1_00006
+  rotate: true
+  xy: 205, 61
+  size: 80, 71
+  orig: 106, 106
+  offset: 13, 18
+  index: -1
+atk/sg/1_00008
+  rotate: false
+  xy: 0, 7
+  size: 74, 76
+  orig: 106, 106
+  offset: 10, 11
+  index: -1
+atk/sg/1_00010
+  rotate: false
+  xy: 293, 62
+  size: 75, 88
+  orig: 106, 106
+  offset: 8, 7
+  index: -1
+atk/sg/1_00012
+  rotate: false
+  xy: 394, 205
+  size: 66, 82
+  orig: 106, 106
+  offset: 13, 11
+  index: -1
+atk/sg/1_00014
+  rotate: false
+  xy: 417, 310
+  size: 69, 66
+  orig: 106, 106
+  offset: 11, 19
+  index: -1
+atk/sg/1_00016
+  rotate: false
+  xy: 370, 0
+  size: 72, 65
+  orig: 106, 106
+  offset: 9, 19
+  index: -1
+atk/sg2/1_00015
+  rotate: true
+  xy: 172, 282
+  size: 160, 144
+  orig: 197, 179
+  offset: 19, 17
+  index: -1
+atk/sg2/1_00017
+  rotate: true
+  xy: 0, 212
+  size: 139, 125
+  orig: 197, 179
+  offset: 30, 27
+  index: -1
+atk/sg2/1_00019
+  rotate: false
+  xy: 0, 85
+  size: 125, 125
+  orig: 197, 179
+  offset: 37, 27
+  index: -1
+atk/sg2/1_00021
+  rotate: true
+  xy: 318, 289
+  size: 87, 97
+  orig: 197, 179
+  offset: 56, 41
+  index: -1
+atk/sg2/1_00023
+  rotate: false
+  xy: 76, 30
+  size: 48, 53
+  orig: 197, 179
+  offset: 75, 63
+  index: -1

@@ -1,0 +1,55 @@
+
+yuanshao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill0/guangdan/guangdan_00034
+  rotate: false
+  xy: 557, 374
+  size: 132, 132
+  orig: 147, 142
+  offset: 8, 5
+  index: -1
+skill0/shouji/shouji_00034
+  rotate: false
+  xy: 371, 257
+  size: 184, 249
+  orig: 200, 370
+  offset: 3, 60
+  index: -1
+skill0/shouji/shouji_00036
+  rotate: true
+  xy: 0, 0
+  size: 163, 323
+  orig: 200, 370
+  offset: 20, 23
+  index: -1
+skill0/shouji/shouji_00038
+  rotate: false
+  xy: 0, 165
+  size: 179, 341
+  orig: 200, 370
+  offset: 9, 14
+  index: -1
+skill0/shouji/shouji_00040
+  rotate: false
+  xy: 181, 171
+  size: 188, 335
+  orig: 200, 370
+  offset: 6, 17
+  index: -1
+skill0/shouji/shouji_00042
+  rotate: true
+  xy: 325, 17
+  size: 152, 312
+  orig: 200, 370
+  offset: 1, 28
+  index: -1
+skill0/shouji/shouji_00044
+  rotate: false
+  xy: 371, 210
+  size: 42, 45
+  orig: 200, 370
+  offset: 70, 223
+  index: -1

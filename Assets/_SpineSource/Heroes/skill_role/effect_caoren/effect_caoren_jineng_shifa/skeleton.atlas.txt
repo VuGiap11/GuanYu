@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/skill/fashequan/gub_00
+  rotate: false
+  xy: 1068, 320
+  size: 278, 282
+  orig: 306, 291
+  offset: 20, 0
+  index: -1
+TX/skill/fashequan/qua_00
+  rotate: false
+  xy: 1068, 64
+  size: 264, 254
+  orig: 745, 704
+  offset: 232, 201
+  index: -1
+TX/skill/fashequan/qua_01
+  rotate: false
+  xy: 1, 1183
+  size: 675, 639
+  orig: 745, 704
+  offset: 24, 13
+  index: -1
+TX/skill/fashequan/qua_03
+  rotate: true
+  xy: 1, 633
+  size: 548, 605
+  orig: 745, 704
+  offset: 107, 35
+  index: -1
+TX/skill/fashequan/qua_05
+  rotate: true
+  xy: 1193, 612
+  size: 557, 586
+  orig: 745, 704
+  offset: 55, 43
+  index: -1
+TX/skill/fashequan/qua_07
+  rotate: false
+  xy: 1336, 1171
+  size: 625, 651
+  orig: 745, 704
+  offset: 25, 36
+  index: -1
+TX/skill/fashequan/qua_09
+  rotate: true
+  xy: 678, 1171
+  size: 651, 656
+  orig: 745, 704
+  offset: 18, 20
+  index: -1
+TX/skill/fashequan/qua_11
+  rotate: true
+  xy: 608, 604
+  size: 565, 583
+  orig: 745, 704
+  offset: 101, 75
+  index: -1
+TX/skill/fashequan/qua_13
+  rotate: false
+  xy: 573, 61
+  size: 493, 541
+  orig: 745, 704
+  offset: 155, 88
+  index: -1
+TX/skill/huichen/huc_00
+  rotate: false
+  xy: 1702, 1
+  size: 244, 63
+  orig: 540, 208
+  offset: 272, 26
+  index: -1
+TX/skill/huichen/huc_02
+  rotate: false
+  xy: 1334, 21
+  size: 366, 125
+  orig: 540, 208
+  offset: 129, 15
+  index: -1
+TX/skill/huichen/huc_04
+  rotate: true
+  xy: 1726, 222
+  size: 388, 161
+  orig: 540, 208
+  offset: 76, 14
+  index: -1
+TX/skill/huichen/huc_06
+  rotate: false
+  xy: 1334, 148
+  size: 390, 170
+  orig: 540, 208
+  offset: 58, 14
+  index: -1
+TX/skill/huichen/huc_08
+  rotate: true
+  xy: 1781, 835
+  size: 334, 172
+  orig: 540, 208
+  offset: 45, 13
+  index: -1
+TX/skill/huichen/huc_10
+  rotate: false
+  xy: 1726, 66
+  size: 222, 154
+  orig: 540, 208
+  offset: 33, 16
+  index: -1
+TX/skill/quan_00
+  rotate: false
+  xy: 1, 61
+  size: 570, 570
+  orig: 616, 640
+  offset: 27, 37
+  index: -1

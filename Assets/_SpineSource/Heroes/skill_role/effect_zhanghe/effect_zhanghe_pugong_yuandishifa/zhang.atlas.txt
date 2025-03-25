@@ -1,0 +1,69 @@
+
+zhang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/qitiaoshang/0_00000
+  rotate: true
+  xy: 347, 27
+  size: 149, 145
+  orig: 200, 200
+  offset: 27, 35
+  index: -1
+eff/qitiaoshang/0_00001
+  rotate: false
+  xy: 0, 345
+  size: 186, 167
+  orig: 200, 200
+  offset: 0, 32
+  index: -1
+eff/qitiaoshang/0_00002
+  rotate: true
+  xy: 188, 337
+  size: 175, 169
+  orig: 200, 200
+  offset: 13, 31
+  index: -1
+eff/qitiaoshang/0_00003
+  rotate: false
+  xy: 0, 175
+  size: 167, 168
+  orig: 200, 200
+  offset: 15, 32
+  index: -1
+eff/qitiaoshang/0_00004
+  rotate: false
+  xy: 418, 441
+  size: 53, 71
+  orig: 200, 200
+  offset: 114, 91
+  index: -1
+eff/qitiaoxia/0_00000
+  rotate: false
+  xy: 347, 178
+  size: 152, 157
+  orig: 200, 200
+  offset: 27, 21
+  index: -1
+eff/qitiaoxia/0_00001
+  rotate: true
+  xy: 0, 0
+  size: 173, 166
+  orig: 200, 200
+  offset: 10, 21
+  index: -1
+eff/qitiaoxia/0_00002
+  rotate: false
+  xy: 169, 171
+  size: 176, 164
+  orig: 200, 200
+  offset: 8, 22
+  index: -1
+eff/qitiaoxia/0_00003
+  rotate: true
+  xy: 359, 341
+  size: 171, 57
+  orig: 200, 200
+  offset: 9, 23
+  index: -1

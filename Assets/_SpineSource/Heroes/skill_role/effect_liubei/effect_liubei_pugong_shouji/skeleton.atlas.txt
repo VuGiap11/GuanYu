@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/attack/baozha/0_00
+  rotate: true
+  xy: 897, 838
+  size: 186, 81
+  orig: 380, 250
+  offset: 100, 84
+  index: -1
+eff/attack/baozha/0_01
+  rotate: false
+  xy: 686, 3
+  size: 338, 144
+  orig: 380, 250
+  offset: 24, 52
+  index: -1
+eff/attack/baozha/0_02
+  rotate: true
+  xy: 863, 440
+  size: 344, 149
+  orig: 380, 250
+  offset: 21, 50
+  index: -1
+eff/attack/baozha/0_03
+  rotate: true
+  xy: 518, 24
+  size: 289, 166
+  orig: 380, 250
+  offset: 68, 42
+  index: -1
+eff/attack/baozha/0_04
+  rotate: true
+  xy: 806, 149
+  size: 289, 180
+  orig: 380, 250
+  offset: 77, 36
+  index: -1
+eff/attack/baozha/0_05
+  rotate: true
+  xy: 663, 503
+  size: 295, 198
+  orig: 380, 250
+  offset: 75, 25
+  index: -1
+eff/attack/baozha/0_06
+  rotate: false
+  xy: 217, 296
+  size: 299, 209
+  orig: 380, 250
+  offset: 71, 20
+  index: -1
+eff/attack/baozha/0_07
+  rotate: true
+  xy: 445, 521
+  size: 277, 216
+  orig: 380, 250
+  offset: 68, 16
+  index: -1
+eff/attack/baozha/0_08
+  rotate: true
+  xy: 224, 514
+  size: 284, 219
+  orig: 380, 250
+  offset: 66, 15
+  index: -1
+eff/attack/baozha/0_09
+  rotate: true
+  xy: 0, 507
+  size: 291, 222
+  orig: 380, 250
+  offset: 64, 13
+  index: -1
+eff/attack/baozha/0_10
+  rotate: false
+  xy: 600, 800
+  size: 295, 224
+  orig: 380, 250
+  offset: 63, 12
+  index: -1
+eff/attack/baozha/0_11
+  rotate: false
+  xy: 301, 800
+  size: 297, 224
+  orig: 380, 250
+  offset: 63, 13
+  index: -1
+eff/attack/baozha/0_12
+  rotate: false
+  xy: 0, 800
+  size: 299, 224
+  orig: 380, 250
+  offset: 63, 12
+  index: -1
+eff/attack/baozha/0_13
+  rotate: true
+  xy: 0, 207
+  size: 298, 215
+  orig: 380, 250
+  offset: 64, 14
+  index: -1
+eff/attack/baozha/0_14
+  rotate: false
+  xy: 0, 4
+  size: 296, 201
+  orig: 380, 250
+  offset: 66, 20
+  index: -1
+eff/attack/baozha/0_15
+  rotate: false
+  xy: 518, 315
+  size: 286, 186
+  orig: 380, 250
+  offset: 77, 34
+  index: -1
+eff/attack/baozha/0_16
+  rotate: true
+  xy: 298, 11
+  size: 283, 167
+  orig: 380, 250
+  offset: 81, 40
+  index: -1
+eff/attack/guangdian1/0_00
+  rotate: false
+  xy: 897, 786
+  size: 50, 50
+  orig: 64, 64
+  offset: 7, 7
+  index: -1

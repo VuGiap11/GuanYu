@@ -1,0 +1,244 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/attack/shouji/dilie_29
+  rotate: false
+  xy: 251, 78
+  size: 301, 112
+  orig: 311, 121
+  offset: 6, 4
+  index: -1
+TX/attack/shouji/gaoguang_51
+  rotate: true
+  xy: 1809, 772
+  size: 236, 237
+  orig: 250, 250
+  offset: 6, 5
+  index: -1
+TX/attack/shouji/huichen/huic_-10
+  rotate: true
+  xy: 98, 244
+  size: 390, 125
+  orig: 414, 140
+  offset: 13, 10
+  index: -1
+TX/attack/shouji/huichen/huic_-12
+  rotate: true
+  xy: 2, 636
+  size: 384, 121
+  orig: 414, 140
+  offset: 18, 12
+  index: -1
+TX/attack/shouji/huichen/huic_-14
+  rotate: true
+  xy: 125, 643
+  size: 377, 120
+  orig: 414, 140
+  offset: 22, 13
+  index: -1
+TX/attack/shouji/huichen/huic_-16
+  rotate: false
+  xy: 1438, 957
+  size: 369, 116
+  orig: 414, 140
+  offset: 26, 15
+  index: -1
+TX/attack/shouji/huichen/huic_-18
+  rotate: true
+  xy: 664, 258
+  size: 317, 100
+  orig: 414, 140
+  offset: 51, 20
+  index: -1
+TX/attack/shouji/huichen/huic_-2
+  rotate: true
+  xy: 821, 1139
+  size: 379, 85
+  orig: 414, 140
+  offset: 14, 22
+  index: -1
+TX/attack/shouji/huichen/huic_-4
+  rotate: true
+  xy: 2, 246
+  size: 385, 94
+  orig: 414, 140
+  offset: 6, 11
+  index: -1
+TX/attack/shouji/huichen/huic_-6
+  rotate: false
+  xy: 554, 83
+  size: 390, 107
+  orig: 414, 140
+  offset: 7, 12
+  index: -1
+TX/attack/shouji/huichen/huic_-8
+  rotate: true
+  xy: 727, 577
+  size: 393, 126
+  orig: 414, 140
+  offset: 9, 10
+  index: -1
+TX/attack/shouji/jians/jians_00
+  rotate: false
+  xy: 908, 1162
+  size: 551, 346
+  orig: 930, 588
+  offset: 112, 40
+  index: -1
+TX/attack/shouji/jians/jians_02
+  rotate: false
+  xy: 2, 1022
+  size: 817, 496
+  orig: 930, 588
+  offset: 28, 13
+  index: -1
+TX/attack/shouji/jians/jians_04
+  rotate: false
+  xy: 2, 1520
+  size: 906, 526
+  orig: 930, 588
+  offset: 12, 13
+  index: -1
+TX/attack/shouji/jians/jians_06
+  rotate: false
+  xy: 910, 1510
+  size: 905, 536
+  orig: 930, 588
+  offset: 15, 16
+  index: -1
+TX/attack/shouji/jians/jians_08
+  rotate: true
+  xy: 908, 633
+  size: 527, 528
+  orig: 930, 588
+  offset: 120, 16
+  index: -1
+TX/attack/shouji/jians/jians_10
+  rotate: false
+  xy: 1438, 242
+  size: 528, 435
+  orig: 930, 588
+  offset: 110, 61
+  index: -1
+TX/attack/shouji/jians/jians_12
+  rotate: false
+  xy: 247, 590
+  size: 478, 430
+  orig: 930, 588
+  offset: 163, 70
+  index: -1
+TX/attack/shouji/jians/jians_14
+  rotate: true
+  xy: 855, 199
+  size: 432, 398
+  orig: 930, 588
+  offset: 160, 83
+  index: -1
+TX/attack/shouji/jians/jians_16
+  rotate: false
+  xy: 225, 192
+  size: 437, 396
+  orig: 930, 588
+  offset: 164, 84
+  index: -1
+TX/attack/shouji/jians/jians_18
+  rotate: true
+  xy: 1461, 1075
+  size: 433, 351
+  orig: 930, 588
+  offset: 176, 126
+  index: -1
+TX/attack/shouji/jians/jians_20
+  rotate: false
+  xy: 1438, 679
+  size: 333, 276
+  orig: 930, 588
+  offset: 282, 128
+  index: -1
+TX/attack/shouji/yanwu/yanw_00
+  rotate: false
+  xy: 138, 77
+  size: 111, 113
+  orig: 203, 195
+  offset: 43, 47
+  index: -1
+TX/attack/shouji/yanwu/yanw_02
+  rotate: true
+  xy: 2, 87
+  size: 153, 134
+  orig: 203, 195
+  offset: 21, 32
+  index: -1
+TX/attack/shouji/yanwu/yanw_04
+  rotate: false
+  xy: 1814, 1010
+  size: 164, 156
+  orig: 203, 195
+  offset: 17, 22
+  index: -1
+TX/attack/shouji/yanwu/yanw_06
+  rotate: true
+  xy: 1814, 1168
+  size: 171, 174
+  orig: 203, 195
+  offset: 14, 10
+  index: -1
+TX/attack/shouji/yanwu/yanw_08
+  rotate: true
+  xy: 1817, 1514
+  size: 174, 178
+  orig: 203, 195
+  offset: 14, 8
+  index: -1
+TX/attack/shouji/yanwu/yanw_10
+  rotate: true
+  xy: 1817, 1690
+  size: 179, 183
+  orig: 203, 195
+  offset: 13, 7
+  index: -1
+TX/attack/shouji/yanwu/yanw_12
+  rotate: true
+  xy: 1817, 1871
+  size: 175, 184
+  orig: 203, 195
+  offset: 17, 6
+  index: -1
+TX/attack/shouji/yanwu/yanw_14
+  rotate: true
+  xy: 1817, 1341
+  size: 171, 178
+  orig: 203, 195
+  offset: 21, 8
+  index: -1
+TX/attack/shouji/yanwu/yanw_16
+  rotate: true
+  xy: 821, 972
+  size: 165, 74
+  orig: 203, 195
+  offset: 26, 42
+  index: -1
+TX/attack/shouji/yanwu/yanw_18
+  rotate: true
+  xy: 1990, 1217
+  size: 122, 52
+  orig: 203, 195
+  offset: 36, 63
+  index: -1
+TX/attack/shouji/yanwu/yanw_20
+  rotate: true
+  xy: 2003, 2005
+  size: 41, 43
+  orig: 203, 195
+  offset: 79, 69
+  index: -1
+TX/attack/shouji/yanwu/yanw_22
+  rotate: true
+  xy: 2003, 1992
+  size: 11, 15
+  orig: 203, 195
+  offset: 85, 79
+  index: -1

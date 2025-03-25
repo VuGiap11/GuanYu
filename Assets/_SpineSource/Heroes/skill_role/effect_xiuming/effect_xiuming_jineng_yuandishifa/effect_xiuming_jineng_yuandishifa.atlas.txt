@@ -1,0 +1,20 @@
+
+effect_xiuming_jineng_yuandishifa.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/skill1/xingguanglizi/0_00008
+  rotate: false
+  xy: 0, 0
+  size: 228, 213
+  orig: 243, 243
+  offset: 4, 13
+  index: -1
+eff/skill1/xingkongliudong/0_00000_00000
+  rotate: false
+  xy: 0, 215
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1

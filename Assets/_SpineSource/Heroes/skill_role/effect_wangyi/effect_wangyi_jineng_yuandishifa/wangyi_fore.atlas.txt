@@ -1,0 +1,279 @@
+
+wangyi_fore.png
+size: 591,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack/1/1_00007
+  rotate: false
+  xy: 483, 365
+  size: 102, 34
+  orig: 126, 48
+  offset: 12, 8
+  index: -1
+effect/attack/1/1_00008
+  rotate: true
+  xy: 490, 173
+  size: 102, 42
+  orig: 126, 48
+  offset: 12, 6
+  index: -1
+effect/attack/1/1_00010
+  rotate: false
+  xy: 483, 480
+  size: 106, 44
+  orig: 126, 48
+  offset: 10, 4
+  index: -1
+effect/attack/1/1_00012
+  rotate: false
+  xy: 312, 350
+  size: 107, 44
+  orig: 126, 48
+  offset: 10, 4
+  index: -1
+effect/attack/1/1_00014
+  rotate: true
+  xy: 534, 171
+  size: 105, 41
+  orig: 126, 48
+  offset: 10, 6
+  index: -1
+effect/skill/11/11_00020
+  rotate: false
+  xy: 527, 18
+  size: 50, 51
+  orig: 53, 53
+  offset: 1, 0
+  index: -1
+effect/skill/3_0.5/3_00007
+  rotate: true
+  xy: 134, 404
+  size: 120, 178
+  orig: 144, 195
+  offset: 11, 9
+  index: -1
+effect/skill/3_0.5/3_00008
+  rotate: false
+  xy: 2, 167
+  size: 126, 179
+  orig: 144, 195
+  offset: 8, 8
+  index: -1
+effect/skill/3_0.5/3_00009
+  rotate: false
+  xy: 2, 348
+  size: 130, 176
+  orig: 144, 195
+  offset: 5, 16
+  index: -1
+effect/skill/3_0.5/3_00010
+  rotate: true
+  xy: 314, 396
+  size: 128, 167
+  orig: 144, 195
+  offset: 9, 22
+  index: -1
+effect/skill/4_0.5/4_00003
+  rotate: false
+  xy: 326, 180
+  size: 89, 95
+  orig: 110, 97
+  offset: 4, 1
+  index: -1
+effect/skill/4_0.5/4_00005
+  rotate: false
+  xy: 2, 77
+  size: 108, 88
+  orig: 110, 97
+  offset: 2, 5
+  index: -1
+effect/skill/4_0.5/4_00007
+  rotate: false
+  xy: 130, 85
+  size: 108, 83
+  orig: 110, 97
+  offset: 2, 6
+  index: -1
+effect/skill/4_0.5/4_00009
+  rotate: false
+  xy: 483, 401
+  size: 102, 77
+  orig: 110, 97
+  offset: 8, 7
+  index: -1
+effect/skill/5_0.5/5_00001
+  rotate: false
+  xy: 134, 337
+  size: 176, 65
+  orig: 205, 83
+  offset: 4, 9
+  index: -1
+effect/skill/5_0.5/5_00008
+  rotate: false
+  xy: 134, 337
+  size: 176, 65
+  orig: 205, 83
+  offset: 4, 9
+  index: -1
+effect/skill/5_0.5/5_00003
+  rotate: false
+  xy: 130, 268
+  size: 186, 67
+  orig: 205, 83
+  offset: 4, 8
+  index: -1
+effect/skill/5_0.5/5_00005
+  rotate: false
+  xy: 130, 170
+  size: 182, 42
+  orig: 205, 83
+  offset: 3, 20
+  index: -1
+effect/skill/5_0.5/5_00007
+  rotate: false
+  xy: 130, 214
+  size: 194, 52
+  orig: 205, 83
+  offset: 7, 15
+  index: -1
+effect/skill/6/6_00002
+  rotate: true
+  xy: 234, 9
+  size: 67, 85
+  orig: 84, 95
+  offset: 9, 2
+  index: -1
+effect/skill/6/6_00004
+  rotate: true
+  xy: 321, 11
+  size: 65, 89
+  orig: 84, 95
+  offset: 11, 2
+  index: -1
+effect/skill/6/6_00006
+  rotate: false
+  xy: 380, 93
+  size: 64, 85
+  orig: 84, 95
+  offset: 10, 2
+  index: -1
+effect/skill/6/6_00008
+  rotate: false
+  xy: 313, 78
+  size: 65, 90
+  orig: 84, 95
+  offset: 10, 1
+  index: -1
+effect/skill/6/6_00010
+  rotate: false
+  xy: 509, 278
+  size: 67, 85
+  orig: 84, 95
+  offset: 9, 1
+  index: -1
+effect/skill/6/6_00012
+  rotate: true
+  xy: 421, 349
+  size: 45, 58
+  orig: 84, 95
+  offset: 19, 9
+  index: -1
+effect/skill/7/7_00001
+  rotate: true
+  xy: 66, 4
+  size: 71, 93
+  orig: 83, 94
+  offset: 6, 0
+  index: -1
+effect/skill/7/7_00003
+  rotate: true
+  xy: 414, 277
+  size: 70, 93
+  orig: 83, 94
+  offset: 7, 0
+  index: -1
+effect/skill/7/7_00005
+  rotate: false
+  xy: 240, 78
+  size: 71, 90
+  orig: 83, 94
+  offset: 5, 0
+  index: -1
+effect/skill/7/7_00007
+  rotate: true
+  xy: 318, 277
+  size: 71, 94
+  orig: 83, 94
+  offset: 6, 0
+  index: -1
+effect/skill/7/7_00009
+  rotate: false
+  xy: 417, 182
+  size: 71, 93
+  orig: 83, 94
+  offset: 6, 0
+  index: -1
+effect/skill/7/7_00011
+  rotate: true
+  xy: 525, 122
+  size: 47, 50
+  orig: 83, 94
+  offset: 19, 8
+  index: -1
+effect/skill/8/8_00006
+  rotate: true
+  xy: 2, 2
+  size: 73, 62
+  orig: 94, 84
+  offset: 10, 16
+  index: -1
+effect/skill/8/8_00008
+  rotate: true
+  xy: 446, 118
+  size: 62, 39
+  orig: 94, 84
+  offset: 32, 19
+  index: -1
+effect/skill/8/8_00014
+  rotate: false
+  xy: 412, 16
+  size: 49, 75
+  orig: 94, 84
+  offset: 27, 8
+  index: -1
+effect/skill/8/8_00015
+  rotate: false
+  xy: 487, 122
+  size: 36, 49
+  orig: 94, 84
+  offset: 4, 20
+  index: -1
+effect/skill/8/8_00016
+  rotate: false
+  xy: 487, 71
+  size: 62, 49
+  orig: 94, 84
+  offset: 0, 19
+  index: -1
+effect/skill/8/8_00018
+  rotate: false
+  xy: 161, 16
+  size: 71, 67
+  orig: 94, 84
+  offset: 0, 1
+  index: -1
+effect/skill/8/8_00019
+  rotate: true
+  xy: 551, 84
+  size: 36, 28
+  orig: 94, 84
+  offset: 26, 39
+  index: -1
+effect/skill/8/8_00020
+  rotate: true
+  xy: 463, 8
+  size: 61, 62
+  orig: 94, 84
+  offset: 27, 3
+  index: -1

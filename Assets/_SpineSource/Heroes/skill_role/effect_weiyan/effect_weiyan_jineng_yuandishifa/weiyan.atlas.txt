@@ -1,0 +1,125 @@
+
+weiyan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/sk1/chushiyan/1_00000
+  rotate: true
+  xy: 1, 10
+  size: 126, 128
+  orig: 128, 128
+  offset: 2, 0
+  index: -1
+eff/sk1/chushiyan/1_00001
+  rotate: false
+  xy: 387, 162
+  size: 123, 120
+  orig: 128, 128
+  offset: 5, 0
+  index: -1
+eff/sk1/chushiyan/1_00002
+  rotate: false
+  xy: 131, 1
+  size: 127, 124
+  orig: 128, 128
+  offset: 1, 0
+  index: -1
+eff/sk1/chushiyan/1_00003
+  rotate: false
+  xy: 260, 1
+  size: 119, 124
+  orig: 128, 128
+  offset: 1, 4
+  index: -1
+eff/sk1/piaodai/1_00000
+  rotate: false
+  xy: 387, 80
+  size: 232, 77
+  orig: 256, 128
+  offset: 0, 22
+  index: -1
+eff/sk1/piaodai/1_00001
+  rotate: true
+  xy: 911, 281
+  size: 256, 86
+  orig: 256, 128
+  offset: 0, 21
+  index: -1
+eff/sk1/piaodai/1_00002
+  rotate: false
+  xy: 683, 105
+  size: 256, 70
+  orig: 256, 128
+  offset: 0, 22
+  index: -1
+eff/sk1/piaodai/1_00003
+  rotate: false
+  xy: 621, 54
+  size: 200, 49
+  orig: 256, 128
+  offset: 44, 26
+  index: -1
+eff/sk1/xuli/1_00002
+  rotate: false
+  xy: 823, 24
+  size: 115, 79
+  orig: 256, 256
+  offset: 53, 55
+  index: -1
+eff/sk1/xuli/1_00003
+  rotate: false
+  xy: 212, 127
+  size: 173, 155
+  orig: 256, 256
+  offset: 43, 34
+  index: -1
+eff/sk1/xuli/1_00004
+  rotate: false
+  xy: 513, 159
+  size: 168, 175
+  orig: 256, 256
+  offset: 50, 40
+  index: -1
+eff/sk1/xuli/1_00005
+  rotate: true
+  xy: 706, 338
+  size: 199, 169
+  orig: 256, 256
+  offset: 15, 46
+  index: -1
+eff/sk1/xuli/1_00006
+  rotate: false
+  xy: 706, 177
+  size: 203, 159
+  orig: 256, 256
+  offset: 8, 51
+  index: -1
+eff/sk1/xuli/1_00007
+  rotate: false
+  xy: 1, 138
+  size: 209, 145
+  orig: 256, 256
+  offset: 12, 56
+  index: -1
+eff/sk1/xuli/1_00008
+  rotate: true
+  xy: 513, 336
+  size: 201, 191
+  orig: 256, 256
+  offset: 18, 44
+  index: -1
+eff/sk1/xuli/1_00009
+  rotate: false
+  xy: 1, 285
+  size: 255, 252
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+eff/sk1/xuli/1_00010
+  rotate: false
+  xy: 258, 284
+  size: 253, 253
+  orig: 256, 256
+  offset: 1, 0
+  index: -1

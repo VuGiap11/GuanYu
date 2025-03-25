@@ -1,0 +1,132 @@
+
+zhurong.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/dizha/dizha_00066
+  rotate: true
+  xy: 172, 46
+  size: 127, 152
+  orig: 185, 195
+  offset: 33, 7
+  index: -1
+attack/dizha/dizha_00068
+  rotate: true
+  xy: 339, 187
+  size: 163, 156
+  orig: 185, 195
+  offset: 14, 9
+  index: -1
+attack/dizha/dizha_00070
+  rotate: false
+  xy: 172, 175
+  size: 165, 175
+  orig: 185, 195
+  offset: 12, 8
+  index: -1
+attack/dizha/dizha_00072
+  rotate: false
+  xy: 1, 166
+  size: 169, 184
+  orig: 185, 195
+  offset: 3, 11
+  index: -1
+attack/dizha/dizha_00074
+  rotate: false
+  xy: 839, 60
+  size: 169, 120
+  orig: 185, 195
+  offset: 0, 13
+  index: -1
+attack/dizha/dizha_00076
+  rotate: false
+  xy: 1, 49
+  size: 132, 115
+  orig: 185, 195
+  offset: 31, 16
+  index: -1
+attack/dizha/dizha_00078
+  rotate: true
+  xy: 908, 227
+  size: 123, 92
+  orig: 185, 195
+  offset: 42, 26
+  index: -1
+attack/guangdan/guangdan_00041
+  rotate: true
+  xy: 497, 196
+  size: 154, 153
+  orig: 187, 185
+  offset: 18, 15
+  index: -1
+attack/jianshe/jianshe_00039
+  rotate: true
+  xy: 652, 182
+  size: 168, 126
+  orig: 173, 126
+  offset: 0, 0
+  index: -1
+attack/jianshe/jianshe_00041
+  rotate: true
+  xy: 780, 182
+  size: 168, 126
+  orig: 173, 126
+  offset: 0, 0
+  index: -1
+attack/jianshe/jianshe_00043
+  rotate: false
+  xy: 339, 59
+  size: 168, 126
+  orig: 173, 126
+  offset: 5, 0
+  index: -1
+attack/jianshe/jianshe_00045
+  rotate: false
+  xy: 509, 54
+  size: 163, 126
+  orig: 173, 126
+  offset: 3, 0
+  index: -1
+attack/jianshe/jianshe_00046
+  rotate: false
+  xy: 674, 54
+  size: 163, 126
+  orig: 173, 126
+  offset: 1, 0
+  index: -1
+attack/jianshe2/jianshe2_00039
+  rotate: false
+  xy: 908, 196
+  size: 65, 29
+  orig: 134, 59
+  offset: 1, 4
+  index: -1
+attack/jianshe2/jianshe2_00041
+  rotate: false
+  xy: 423, 5
+  size: 94, 47
+  orig: 134, 59
+  offset: 11, 2
+  index: -1
+attack/jianshe2/jianshe2_00043
+  rotate: false
+  xy: 326, 8
+  size: 95, 49
+  orig: 134, 59
+  offset: 16, 2
+  index: -1
+attack/jianshe2/jianshe2_00045
+  rotate: false
+  xy: 839, 1
+  size: 93, 57
+  orig: 134, 59
+  offset: 38, 1
+  index: -1
+attack/jianshe2/jianshe2_00046
+  rotate: false
+  xy: 839, 1
+  size: 93, 57
+  orig: 134, 59
+  offset: 38, 1
+  index: -1

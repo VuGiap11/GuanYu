@@ -1,0 +1,125 @@
+
+wangyi_baodian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack/10/10_00003
+  rotate: false
+  xy: 2, 831
+  size: 72, 13
+  orig: 81, 22
+  offset: 3, 4
+  index: -1
+effect/attack/8_0.5/8_00000
+  rotate: false
+  xy: 76, 776
+  size: 127, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: -1
+effect/attack/9/9_00000
+  rotate: true
+  xy: 741, 742
+  size: 102, 103
+  orig: 116, 107
+  offset: 6, 2
+  index: -1
+effect/attack/hit/6_00000
+  rotate: false
+  xy: 676, 2
+  size: 342, 212
+  orig: 382, 212
+  offset: 13, 0
+  index: -1
+effect/attack/hit/6_00002
+  rotate: false
+  xy: 336, 3
+  size: 338, 211
+  orig: 382, 212
+  offset: 17, 0
+  index: -1
+effect/attack/hit/6_00004
+  rotate: false
+  xy: 2, 17
+  size: 332, 209
+  orig: 382, 212
+  offset: 17, 0
+  index: -1
+effect/attack/hit/6_00006
+  rotate: false
+  xy: 670, 216
+  size: 334, 204
+  orig: 382, 212
+  offset: 19, 2
+  index: -1
+effect/attack/hit/6_00008
+  rotate: false
+  xy: 333, 228
+  size: 335, 192
+  orig: 382, 212
+  offset: 20, 8
+  index: -1
+effect/attack/hit/6_00010
+  rotate: false
+  xy: 2, 254
+  size: 329, 174
+  orig: 382, 212
+  offset: 20, 22
+  index: -1
+effect/attack/hit/6_00012
+  rotate: false
+  xy: 599, 422
+  size: 329, 160
+  orig: 382, 212
+  offset: 22, 37
+  index: -1
+effect/attack/hit/6_00014
+  rotate: false
+  xy: 267, 430
+  size: 330, 157
+  orig: 382, 212
+  offset: 22, 38
+  index: -1
+effect/attack/hit/6_00015
+  rotate: false
+  xy: 267, 589
+  size: 332, 155
+  orig: 382, 212
+  offset: 21, 38
+  index: -1
+effect/attack/hit/6_00017
+  rotate: false
+  xy: 601, 584
+  size: 332, 156
+  orig: 382, 212
+  offset: 21, 38
+  index: -1
+effect/attack/hit/6_00019
+  rotate: false
+  xy: 2, 445
+  size: 263, 158
+  orig: 382, 212
+  offset: 23, 37
+  index: -1
+effect/attack/hit/6_00021
+  rotate: false
+  xy: 2, 605
+  size: 263, 139
+  orig: 382, 212
+  offset: 25, 56
+  index: -1
+effect/attack/hit/6_00023
+  rotate: false
+  xy: 205, 746
+  size: 265, 98
+  orig: 382, 212
+  offset: 25, 56
+  index: -1
+effect/attack/hit/6_00025
+  rotate: false
+  xy: 472, 746
+  size: 267, 98
+  orig: 382, 212
+  offset: 26, 56
+  index: -1

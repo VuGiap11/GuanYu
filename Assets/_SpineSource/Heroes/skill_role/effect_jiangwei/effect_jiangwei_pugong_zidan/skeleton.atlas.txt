@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/jiantou_00000
+  rotate: true
+  xy: 0, 0
+  size: 93, 244
+  orig: 128, 256
+  offset: 11, 8
+  index: -1
+effect/jiantou_00001
+  rotate: true
+  xy: 104, 253
+  size: 93, 248
+  orig: 128, 256
+  offset: 12, 8
+  index: -1
+effect/jiantou_00002
+  rotate: true
+  xy: 104, 348
+  size: 96, 248
+  orig: 128, 256
+  offset: 11, 8
+  index: -1
+effect/jiantou_00003
+  rotate: true
+  xy: 0, 95
+  size: 99, 248
+  orig: 128, 256
+  offset: 11, 8
+  index: -1
+effect/jiantou_00004
+  rotate: false
+  xy: 0, 196
+  size: 102, 248
+  orig: 128, 256
+  offset: 11, 8
+  index: -1
+effect/jiantou_00005
+  rotate: false
+  xy: 250, 3
+  size: 92, 248
+  orig: 128, 256
+  offset: 12, 8
+  index: -1
+effect/yuan2
+  rotate: false
+  xy: 104, 203
+  size: 48, 48
+  orig: 128, 128
+  offset: 40, 40
+  index: -1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441267117eb82124a86ba962d3b6191c, type: 3}
+  m_Name: simayi
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 3956857281312482394, guid: cea35324e0e02a84ea059f1f5b3a620c, type: 3}
+  nameHero: simayi
+  countAtk: 2
+  countSkill: 5
+  attackAudio: {fileID: 8300000, guid: a89386e88e9587845aef2457230ae004, type: 3}
+  attackhitAudio: {fileID: 8300000, guid: 8ae1552e39a7a3a4bbc488b91178d59b, type: 3}
+  skillAudio: {fileID: 8300000, guid: d7cde7134158e5b41ba94183a0bdba90, type: 3}
+  skillhitAudio: {fileID: 8300000, guid: 02b92bf002322a14eb7c7826b10bb1fe, type: 3}

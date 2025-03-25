@@ -1,0 +1,272 @@
+
+caiwenji.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill0/fazhen1_00004
+  rotate: false
+  xy: 0, 832
+  size: 191, 191
+  orig: 194, 194
+  offset: 2, 0
+  index: -1
+effect/skill0/xian1_00040
+  rotate: false
+  xy: 362, 454
+  size: 119, 15
+  orig: 120, 20
+  offset: 0, 2
+  index: -1
+effect/skill0/xuli/1_00011
+  rotate: false
+  xy: 409, 14
+  size: 157, 64
+  orig: 190, 140
+  offset: 6, 3
+  index: -1
+effect/skill0/xuli/1_00012
+  rotate: false
+  xy: 0, 0
+  size: 183, 66
+  orig: 190, 140
+  offset: 1, 1
+  index: -1
+effect/skill0/xuli/1_00013
+  rotate: true
+  xy: 0, 448
+  size: 190, 94
+  orig: 190, 140
+  offset: 0, 0
+  index: -1
+effect/skill0/xuli/1_00014
+  rotate: true
+  xy: 263, 652
+  size: 181, 127
+  orig: 190, 140
+  offset: 0, 6
+  index: -1
+effect/skill0/xuli/1_00015
+  rotate: true
+  xy: 410, 274
+  size: 178, 126
+  orig: 190, 140
+  offset: 0, 6
+  index: -1
+effect/skill0/xuli/1_00016
+  rotate: true
+  xy: 362, 471
+  size: 179, 136
+  orig: 190, 140
+  offset: 4, 4
+  index: -1
+effect/skill0/xuli/1_00017
+  rotate: true
+  xy: 0, 68
+  size: 187, 138
+  orig: 190, 140
+  offset: 0, 2
+  index: -1
+effect/skill0/xuli/1_00018
+  rotate: true
+  xy: 0, 257
+  size: 189, 138
+  orig: 190, 140
+  offset: 0, 2
+  index: -1
+effect/skill0/xuli/1_00019
+  rotate: true
+  xy: 329, 843
+  size: 180, 132
+  orig: 190, 140
+  offset: 10, 0
+  index: -1
+effect/skill0/xuli/1_00020
+  rotate: true
+  xy: 281, 80
+  size: 183, 139
+  orig: 190, 140
+  offset: 7, 0
+  index: -1
+effect/skill0/xuli/1_00021
+  rotate: true
+  xy: 140, 73
+  size: 185, 139
+  orig: 190, 140
+  offset: 5, 0
+  index: -1
+effect/skill0/xuli/1_00022
+  rotate: true
+  xy: 228, 452
+  size: 187, 132
+  orig: 190, 140
+  offset: 3, 8
+  index: -1
+effect/skill0/xuli/1_00023
+  rotate: true
+  xy: 137, 641
+  size: 189, 124
+  orig: 190, 140
+  offset: 1, 7
+  index: -1
+effect/skill0/xuli/1_00024
+  rotate: true
+  xy: 96, 449
+  size: 189, 130
+  orig: 190, 140
+  offset: 1, 6
+  index: -1
+effect/skill0/xuli/1_00025
+  rotate: true
+  xy: 275, 265
+  size: 185, 133
+  orig: 190, 140
+  offset: 5, 5
+  index: -1
+effect/skill0/xuli/1_00026
+  rotate: true
+  xy: 193, 835
+  size: 188, 134
+  orig: 190, 140
+  offset: 2, 5
+  index: -1
+effect/skill0/xuli/1_00027
+  rotate: true
+  xy: 0, 640
+  size: 190, 135
+  orig: 190, 140
+  offset: 0, 4
+  index: -1
+effect/skill0/xuli/1_00028
+  rotate: true
+  xy: 140, 260
+  size: 187, 133
+  orig: 190, 140
+  offset: 0, 7
+  index: -1
+effect/skill0/yinbo1_00002
+  rotate: true
+  xy: 441, 747
+  size: 94, 62
+  orig: 100, 70
+  offset: 3, 4
+  index: -1
+effect/skill0/yinfu1/1_00026
+  rotate: false
+  xy: 422, 113
+  size: 36, 38
+  orig: 90, 100
+  offset: 2, 15
+  index: -1
+effect/skill0/yinfu1/1_00027
+  rotate: true
+  xy: 453, 655
+  size: 44, 48
+  orig: 90, 100
+  offset: 1, 11
+  index: -1
+effect/skill0/yinfu1/1_00028
+  rotate: false
+  xy: 422, 153
+  size: 51, 57
+  orig: 90, 100
+  offset: 0, 8
+  index: -1
+effect/skill0/yinfu1/1_00029
+  rotate: false
+  xy: 185, 5
+  size: 56, 66
+  orig: 90, 100
+  offset: 0, 5
+  index: -1
+effect/skill0/yinfu1/1_00030
+  rotate: false
+  xy: 297, 3
+  size: 60, 75
+  orig: 90, 100
+  offset: 1, 2
+  index: -1
+effect/skill0/yinfu1/1_00031
+  rotate: false
+  xy: 463, 941
+  size: 63, 82
+  orig: 90, 100
+  offset: 2, 0
+  index: -1
+effect/skill0/yinfu1/1_00032
+  rotate: true
+  xy: 243, 5
+  size: 66, 52
+  orig: 90, 100
+  offset: 3, 35
+  index: -1
+effect/skill0/yinfu1/1_00033
+  rotate: true
+  xy: 359, 12
+  size: 66, 48
+  orig: 90, 100
+  offset: 7, 39
+  index: -1
+effect/skill0/yinfu1/1_00034
+  rotate: false
+  xy: 392, 653
+  size: 59, 45
+  orig: 90, 100
+  offset: 17, 43
+  index: -1
+effect/skill0/yinfu1/1_00035
+  rotate: false
+  xy: 441, 701
+  size: 61, 44
+  orig: 90, 100
+  offset: 18, 47
+  index: -1
+effect/skill0/yinfu1/1_00036
+  rotate: true
+  xy: 500, 877
+  size: 62, 42
+  orig: 90, 100
+  offset: 19, 51
+  index: -1
+effect/skill0/yinfu1/1_00037
+  rotate: true
+  xy: 528, 961
+  size: 62, 38
+  orig: 90, 100
+  offset: 21, 56
+  index: -1
+effect/skill0/yinfu1/1_00038
+  rotate: true
+  xy: 463, 876
+  size: 63, 35
+  orig: 90, 100
+  offset: 22, 61
+  index: -1
+effect/skill0/yinfu1/1_00039
+  rotate: false
+  xy: 463, 843
+  size: 62, 31
+  orig: 90, 100
+  offset: 24, 67
+  index: -1
+effect/skill0/yinfu1/1_00040
+  rotate: true
+  xy: 422, 212
+  size: 60, 25
+  orig: 90, 100
+  offset: 26, 73
+  index: -1
+effect/skill1/shifa/guang/guangzhu1_00020
+  rotate: false
+  xy: 392, 700
+  size: 47, 141
+  orig: 60, 150
+  offset: 6, 3
+  index: -1
+effect/skill1/shifa/guang/zi1_00000
+  rotate: false
+  xy: 449, 221
+  size: 50, 51
+  orig: 60, 60
+  offset: 5, 5
+  index: -1

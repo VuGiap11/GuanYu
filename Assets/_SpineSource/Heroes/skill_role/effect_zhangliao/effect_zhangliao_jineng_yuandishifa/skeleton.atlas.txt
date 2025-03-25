@@ -1,0 +1,174 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huanrao/00
+  rotate: true
+  xy: 565, 504
+  size: 158, 164
+  orig: 197, 194
+  offset: 20, 18
+  index: -1
+effect/huanrao/02
+  rotate: false
+  xy: 624, 325
+  size: 178, 176
+  orig: 197, 194
+  offset: 9, 13
+  index: -1
+effect/huanrao/04
+  rotate: false
+  xy: 804, 323
+  size: 184, 178
+  orig: 197, 194
+  offset: 5, 11
+  index: -1
+effect/huanrao/07
+  rotate: false
+  xy: 731, 503
+  size: 178, 159
+  orig: 197, 194
+  offset: 7, 17
+  index: -1
+effect/huanrao/10
+  rotate: false
+  xy: 178, 665
+  size: 179, 145
+  orig: 197, 194
+  offset: 6, 23
+  index: -1
+effect/huanrao/13
+  rotate: false
+  xy: 2, 700
+  size: 174, 110
+  orig: 197, 194
+  offset: 7, 31
+  index: -1
+effect/huanrao/16
+  rotate: false
+  xy: 537, 765
+  size: 169, 93
+  orig: 197, 194
+  offset: 9, 35
+  index: -1
+effect/qiliu/00
+  rotate: true
+  xy: 2, 972
+  size: 23, 52
+  orig: 105, 182
+  offset: 57, 4
+  index: -1
+effect/qiliu/01
+  rotate: true
+  xy: 691, 949
+  size: 46, 130
+  orig: 105, 182
+  offset: 37, 1
+  index: -1
+effect/qiliu/02
+  rotate: true
+  xy: 823, 936
+  size: 59, 153
+  orig: 105, 182
+  offset: 22, 1
+  index: -1
+effect/qiliu/04
+  rotate: true
+  xy: 602, 860
+  size: 87, 169
+  orig: 105, 182
+  offset: 7, 3
+  index: -1
+effect/qiliu/06
+  rotate: true
+  xy: 708, 742
+  size: 98, 159
+  orig: 105, 182
+  offset: 3, 20
+  index: -1
+effect/qiliu/08
+  rotate: false
+  xy: 893, 790
+  size: 102, 144
+  orig: 105, 182
+  offset: 1, 35
+  index: -1
+effect/qiliu/10
+  rotate: true
+  xy: 773, 842
+  size: 92, 118
+  orig: 105, 182
+  offset: 11, 53
+  index: -1
+effect/qiliu/12
+  rotate: true
+  xy: 489, 886
+  size: 72, 111
+  orig: 105, 182
+  offset: 15, 56
+  index: -1
+effect/yanchen/00
+  rotate: false
+  xy: 56, 964
+  size: 273, 31
+  orig: 632, 87
+  offset: 176, 1
+  index: -1
+effect/yanchen/01
+  rotate: false
+  xy: 331, 960
+  size: 358, 35
+  orig: 632, 87
+  offset: 132, 1
+  index: -1
+effect/yanchen/03
+  rotate: false
+  xy: 2, 896
+  size: 485, 62
+  orig: 632, 87
+  offset: 66, 1
+  index: -1
+effect/yanchen/06
+  rotate: false
+  xy: 2, 585
+  size: 561, 77
+  orig: 632, 87
+  offset: 26, 1
+  index: -1
+effect/yanchen/09
+  rotate: false
+  xy: 2, 422
+  size: 597, 80
+  orig: 632, 87
+  offset: 12, 1
+  index: -1
+effect/yanchen/12
+  rotate: false
+  xy: 2, 256
+  size: 614, 82
+  orig: 632, 87
+  offset: 6, 1
+  index: -1
+effect/yanchen/15
+  rotate: false
+  xy: 2, 340
+  size: 620, 80
+  orig: 632, 87
+  offset: 6, 2
+  index: -1
+effect/yanchen/18
+  rotate: false
+  xy: 359, 664
+  size: 624, 76
+  orig: 632, 87
+  offset: 7, 2
+  index: -1
+effect/yanchen/21
+  rotate: false
+  xy: 2, 812
+  size: 533, 72
+  orig: 632, 87
+  offset: 9, 3
+  index: -1

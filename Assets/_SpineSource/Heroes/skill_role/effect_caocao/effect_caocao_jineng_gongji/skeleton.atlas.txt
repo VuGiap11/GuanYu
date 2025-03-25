@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/bao/1_00039
+  rotate: false
+  xy: 1563, 1071
+  size: 229, 176
+  orig: 588, 553
+  offset: 164, 181
+  index: -1
+skill1/bao/1_00040
+  rotate: true
+  xy: 1581, 1546
+  size: 487, 452
+  orig: 588, 553
+  offset: 46, 44
+  index: -1
+skill1/bao/1_00042
+  rotate: false
+  xy: 2, 1126
+  size: 481, 458
+  orig: 588, 553
+  offset: 46, 38
+  index: -1
+skill1/bao/1_00044
+  rotate: false
+  xy: 540, 1606
+  size: 538, 427
+  orig: 588, 553
+  offset: 14, 51
+  index: -1
+skill1/bao/1_00046
+  rotate: false
+  xy: 2, 1586
+  size: 536, 447
+  orig: 588, 553
+  offset: 31, 42
+  index: -1
+skill1/bao/1_00048
+  rotate: false
+  xy: 1080, 1574
+  size: 499, 459
+  orig: 588, 553
+  offset: 75, 42
+  index: -1
+skill1/bao/1_00050
+  rotate: false
+  xy: 540, 1154
+  size: 495, 450
+  orig: 588, 553
+  offset: 81, 47
+  index: -1
+skill1/bao/1_00052
+  rotate: false
+  xy: 1079, 1119
+  size: 482, 453
+  orig: 588, 553
+  offset: 96, 43
+  index: -1
+skill1/bao/1_00054
+  rotate: false
+  xy: 485, 742
+  size: 454, 410
+  orig: 588, 553
+  offset: 121, 86
+  index: -1
+skill1/bao/1_00056
+  rotate: false
+  xy: 2, 729
+  size: 447, 395
+  orig: 588, 553
+  offset: 124, 99
+  index: -1
+skill1/bao/1_00058
+  rotate: true
+  xy: 1563, 1249
+  size: 295, 363
+  orig: 588, 553
+  offset: 127, 129
+  index: -1
+skill1/glow_00031
+  rotate: true
+  xy: 1037, 1567
+  size: 37, 40
+  orig: 50, 50
+  offset: 8, 4
+  index: -1

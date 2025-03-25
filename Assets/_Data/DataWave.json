@@ -1,0 +1,159 @@
+{
+  "WaveDatas": [
+    {
+      "HeroDatas": [
+        {
+          "Index": 0,
+          "Lv": 1,
+          "Exp": 0
+        },
+        {
+          "Index": 1,
+          "Lv": 1,
+          "Exp": 0
+        }
+      ],
+      "Gold": 100
+    },
+    {
+      "HeroDatas": [
+        {
+          "Index": 8,
+          "Lv": 2,
+          "Exp": 0
+        },
+        {
+          "Index": 10,
+          "Lv": 2,
+          "Exp": 0
+        },
+        {
+          "Index": 11,
+          "Lv": 2,
+          "Exp": 0
+        },
+        {
+          "Index": 5,
+          "Lv": 2,
+          "Exp": 0
+        }
+      ],
+      "Gold": 200
+    },
+    {
+      "HeroDatas": [
+        {
+          "Index": 8,
+          "Lv": 2,
+          "Exp": 0
+        },
+        {
+          "Index": 10,
+          "Lv": 2,
+          "Exp": 0
+        },
+        {
+          "Index": 11,
+          "Lv": 2,
+          "Exp": 0
+        },
+        {
+          "Index": 5,
+          "Lv": 2,
+          "Exp": 0
+        }
+      ],
+      "Gold": 200
+    },
+    {
+      "HeroDatas": [
+        {
+          "Index": 0,
+          "Lv": 1,
+          "Exp": 0
+        },
+        {
+          "Index": 1,
+          "Lv": 1,
+          "Exp": 0
+        }
+      ],
+      "Gold": 100
+    },
+    {
+      "HeroDatas": [
+        {
+          "Index": 2,
+          "Lv": 1,
+          "Exp": 0
+        },
+        {
+          "Index": 3,
+          "Lv": 1,
+          "Exp": 0
+        }
+      ],
+      "Gold": 100
+    },
+    {
+      "HeroDatas": [
+        {
+          "Index": 4,
+          "Lv": 1,
+          "Exp": 0
+        },
+        {
+          "Index": 5,
+          "Lv": 1,
+          "Exp": 0
+        }
+      ],
+      "Gold": 100
+    },
+    {
+      "HeroDatas": [
+        {
+          "Index": 0,
+          "Lv": 1,
+          "Exp": 0
+        },
+        {
+          "Index": 1,
+          "Lv": 1,
+          "Exp": 0
+        }
+      ],
+      "Gold": 100
+    },
+    {
+      "HeroDatas": [
+        {
+          "Index": 3,
+          "Lv": 1,
+          "Exp": 0
+        },
+        {
+          "Index": 4,
+          "Lv": 1,
+          "Exp": 0
+        }
+      ],
+      "Gold": 100
+    },
+    {
+      "HeroDatas": [
+        {
+          "Index": 0,
+          "Lv": 1,
+          "Exp": 0
+        },
+        {
+          "Index": 1,
+          "Lv": 1,
+          "Exp": 0
+        }
+      ],
+      "Gold": 100
+    }
+  ]
+} 

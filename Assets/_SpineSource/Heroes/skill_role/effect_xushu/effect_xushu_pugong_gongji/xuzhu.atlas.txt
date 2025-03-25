@@ -1,0 +1,76 @@
+
+xuzhu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/gd_00000
+  rotate: false
+  xy: 231, 85
+  size: 54, 56
+  orig: 64, 64
+  offset: 5, 4
+  index: -1
+effect/sk0/0_00000
+  rotate: true
+  xy: 0, 0
+  size: 255, 229
+  orig: 450, 256
+  offset: 94, 15
+  index: -1
+effect/sk0/0_00002
+  rotate: true
+  xy: 428, 493
+  size: 417, 255
+  orig: 450, 256
+  offset: 6, 1
+  index: -1
+effect/sk0/0_00004
+  rotate: false
+  xy: 0, 658
+  size: 426, 252
+  orig: 450, 256
+  offset: 1, 3
+  index: -1
+effect/sk0/0_00006
+  rotate: true
+  xy: 0, 257
+  size: 399, 247
+  orig: 450, 256
+  offset: 33, 5
+  index: -1
+effect/sk0/0_00008
+  rotate: false
+  xy: 334, 75
+  size: 404, 229
+  orig: 450, 256
+  offset: 33, 15
+  index: -1
+effect/sk0/0_00010
+  rotate: true
+  xy: 249, 469
+  size: 187, 93
+  orig: 225, 128
+  offset: 33, 25
+  index: -1
+effect/sk0/0_00012
+  rotate: true
+  xy: 249, 299
+  size: 168, 83
+  orig: 225, 128
+  offset: 52, 27
+  index: -1
+effect/sk0/0_00014
+  rotate: true
+  xy: 231, 143
+  size: 112, 72
+  orig: 225, 128
+  offset: 52, 28
+  index: -1
+effect/sk1/z_00000
+  rotate: true
+  xy: 344, 306
+  size: 350, 59
+  orig: 350, 64
+  offset: 0, 3
+  index: -1

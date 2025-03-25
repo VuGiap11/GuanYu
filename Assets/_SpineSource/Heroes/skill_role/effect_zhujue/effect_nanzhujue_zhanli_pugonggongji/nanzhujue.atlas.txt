@@ -1,0 +1,69 @@
+
+nanzhujue.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit/1_00099
+  rotate: true
+  xy: 411, 41
+  size: 80, 61
+  orig: 308, 173
+  offset: 116, 56
+  index: -1
+hit/1_00100
+  rotate: false
+  xy: 0, 0
+  size: 219, 96
+  orig: 308, 173
+  offset: 47, 42
+  index: -1
+hit/1_00101
+  rotate: false
+  xy: 0, 98
+  size: 230, 109
+  orig: 308, 173
+  offset: 41, 32
+  index: -1
+hit/1_00103
+  rotate: false
+  xy: 264, 366
+  size: 246, 117
+  orig: 308, 173
+  offset: 33, 27
+  index: -1
+hit/1_00105
+  rotate: false
+  xy: 0, 209
+  size: 259, 133
+  orig: 308, 173
+  offset: 28, 19
+  index: -1
+hit/1_00107
+  rotate: false
+  xy: 0, 344
+  size: 262, 139
+  orig: 308, 173
+  offset: 26, 20
+  index: -1
+hit/1_00109
+  rotate: false
+  xy: 264, 227
+  size: 190, 137
+  orig: 308, 173
+  offset: 53, 22
+  index: -1
+hit/1_00113
+  rotate: false
+  xy: 232, 20
+  size: 177, 101
+  orig: 308, 173
+  offset: 72, 20
+  index: -1
+hit/1_00117
+  rotate: false
+  xy: 261, 123
+  size: 182, 102
+  orig: 308, 173
+  offset: 69, 19
+  index: -1

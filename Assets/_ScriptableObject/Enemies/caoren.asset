@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441267117eb82124a86ba962d3b6191c, type: 3}
+  m_Name: caoren
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 3956857281312482394, guid: 46c9832390e8dfc409288c258677dbbe, type: 3}
+  nameHero: caoren
+  countAtk: 2
+  countSkill: 3
+  attackAudio: {fileID: 8300000, guid: 95d79cc2dbcd12f48b57ef54cdba030c, type: 3}
+  attackhitAudio: {fileID: 8300000, guid: 63b203720844ce64ca9a8bd70e6ebc6d, type: 3}
+  skillAudio: {fileID: 8300000, guid: 0f9ad12423dc8fa49a6ae702424c29ed, type: 3}
+  skillhitAudio: {fileID: 8300000, guid: 13dd0f0164670ca438b2dd0e366ef324, type: 3}

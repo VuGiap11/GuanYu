@@ -1,0 +1,48 @@
+
+zuoci.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill0/chongjibo/chongjibo_00015
+  rotate: false
+  xy: 361, 82
+  size: 86, 91
+  orig: 479, 235
+  offset: 295, 74
+  index: -1
+skill0/chongjibo/chongjibo_00017
+  rotate: false
+  xy: 1, 364
+  size: 366, 107
+  orig: 479, 235
+  offset: 29, 68
+  index: -1
+skill0/chongjibo/chongjibo_00019
+  rotate: false
+  xy: 1, 239
+  size: 347, 123
+  orig: 479, 235
+  offset: 54, 61
+  index: -1
+skill0/chongjibo/chongjibo_00021
+  rotate: true
+  xy: 369, 175
+  size: 296, 123
+  orig: 479, 235
+  offset: 114, 58
+  index: -1
+skill0/chongjibo/chongjibo_00023
+  rotate: true
+  xy: 239, 1
+  size: 236, 120
+  orig: 479, 235
+  offset: 175, 61
+  index: -1
+skill0/chongjibo/chongjibo_00024
+  rotate: false
+  xy: 1, 5
+  size: 236, 232
+  orig: 479, 235
+  offset: 223, 3
+  index: -1

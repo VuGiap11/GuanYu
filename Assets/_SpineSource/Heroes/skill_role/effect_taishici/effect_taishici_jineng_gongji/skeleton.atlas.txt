@@ -1,0 +1,181 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TaiShiCi/skill/baozhashang/baozha1_00002
+  rotate: false
+  xy: 453, 975
+  size: 204, 162
+  orig: 447, 356
+  offset: 139, 20
+  index: -1
+TaiShiCi/skill/baozhashang/baozha1_00004
+  rotate: true
+  xy: 685, 197
+  size: 313, 315
+  orig: 447, 356
+  offset: 79, 5
+  index: -1
+TaiShiCi/skill/baozhashang/baozha1_00006
+  rotate: true
+  xy: 351, 203
+  size: 307, 332
+  orig: 447, 356
+  offset: 83, 1
+  index: -1
+TaiShiCi/skill/baozhashang/baozha1_00008
+  rotate: true
+  xy: 1696, 0
+  size: 381, 348
+  orig: 447, 356
+  offset: 47, 1
+  index: -1
+TaiShiCi/skill/baozhashang/baozha1_00010
+  rotate: false
+  xy: 1333, 47
+  size: 361, 334
+  orig: 447, 356
+  offset: 56, 1
+  index: -1
+TaiShiCi/skill/baozhashang/baozha1_00012
+  rotate: true
+  xy: 1002, 96
+  size: 323, 329
+  orig: 447, 356
+  offset: 68, 1
+  index: -1
+TaiShiCi/skill/baozhashang/baozha1_00014
+  rotate: false
+  xy: 0, 275
+  size: 349, 299
+  orig: 447, 356
+  offset: 60, 0
+  index: -1
+TaiShiCi/skill/baozhashang/baozha1_00016
+  rotate: false
+  xy: 1179, 421
+  size: 357, 290
+  orig: 447, 356
+  offset: 54, 0
+  index: -1
+TaiShiCi/skill/baozhashang/baozha1_00018
+  rotate: false
+  xy: 1548, 647
+  size: 364, 262
+  orig: 447, 356
+  offset: 49, 1
+  index: -1
+TaiShiCi/skill/baozhashang/baozha1_00020
+  rotate: false
+  xy: 1538, 383
+  size: 368, 262
+  orig: 447, 356
+  offset: 45, 3
+  index: -1
+TaiShiCi/skill/baozhashang/baozha1_00022
+  rotate: false
+  xy: 0, 807
+  size: 366, 259
+  orig: 447, 356
+  offset: 43, 5
+  index: -1
+TaiShiCi/skill/baozhashang/baozha1_00024
+  rotate: true
+  xy: 1860, 1076
+  size: 194, 177
+  orig: 447, 356
+  offset: 132, 85
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00002
+  rotate: false
+  xy: 0, 1068
+  size: 451, 148
+  orig: 594, 251
+  offset: 70, 49
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00004
+  rotate: false
+  xy: 368, 775
+  size: 594, 190
+  orig: 594, 251
+  offset: 0, 17
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00006
+  rotate: false
+  xy: 964, 713
+  size: 582, 196
+  orig: 594, 251
+  offset: 1, 14
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00008
+  rotate: false
+  xy: 592, 512
+  size: 585, 199
+  orig: 594, 251
+  offset: 0, 13
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00010
+  rotate: false
+  xy: 0, 576
+  size: 590, 197
+  orig: 594, 251
+  offset: 1, 15
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00012
+  rotate: false
+  xy: 1481, 911
+  size: 405, 163
+  orig: 594, 251
+  offset: 89, 51
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00014
+  rotate: false
+  xy: 659, 967
+  size: 408, 162
+  orig: 594, 251
+  offset: 88, 52
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00016
+  rotate: false
+  xy: 1069, 963
+  size: 410, 162
+  orig: 594, 251
+  offset: 86, 53
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00018
+  rotate: false
+  xy: 1442, 1127
+  size: 416, 143
+  orig: 594, 251
+  offset: 84, 54
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00020
+  rotate: false
+  xy: 1021, 1131
+  size: 419, 139
+  orig: 594, 251
+  offset: 83, 56
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00022
+  rotate: false
+  xy: 598, 1139
+  size: 421, 131
+  orig: 594, 251
+  offset: 82, 62
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00024
+  rotate: false
+  xy: 0, 1218
+  size: 300, 52
+  orig: 594, 251
+  offset: 163, 92
+  index: -1
+TaiShiCi/skill/baozhaxia/baozha2_00026
+  rotate: false
+  xy: 302, 1218
+  size: 294, 52
+  orig: 594, 251
+  offset: 167, 92
+  index: -1

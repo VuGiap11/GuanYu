@@ -1,0 +1,83 @@
+
+chuntian_bg.png
+size: 1048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua1
+  rotate: false
+  xy: 0, 835
+  size: 832, 1214
+  orig: 936, 1232
+  offset: 85, 11
+  index: -1
+hua2
+  rotate: 270
+  xy: 726, 323
+  size: 450, 247
+  orig: 450, 253
+  offset: 0, 6
+  index: -1
+hua5
+  rotate: false
+  xy: 512, 1
+  size: 374, 625
+  orig: 374, 625
+  offset: 0, 0
+  index: -1
+hua6
+  rotate: true
+  xy: 698, 1393
+  size: 655, 202
+  orig: 708, 210
+  offset: 0, 8
+  index: -1
+shuzhi1
+  rotate: false
+  xy: 0, 1635
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+shuzhi2
+  rotate: true
+  xy: 803, 629
+  size: 499, 240
+  orig: 499, 240
+  offset: 0, 0
+  index: -1
+shuzhi3
+  rotate: false
+  xy: 787, 1073
+  size: 260, 371
+  orig: 260, 371
+  offset: 0, 0
+  index: -1
+shuzhi4
+  rotate: 180
+  xy: 0, 689
+  size: 661, 213
+  orig: 715, 253
+  offset: 54, 0
+  index: -1
+taozhi2222
+  rotate: 180
+  xy: 364, 274
+  size: 488, 560
+  orig: 488, 560
+  offset: 0, 0
+  index: -1
+taozhiaa3
+  rotate: true
+  xy: 0, 975
+  size: 703, 257
+  orig: 723, 257
+  offset: 0, 0
+  index: -1
+zhihou
+  rotate: false
+  xy: 0, 1957
+  size: 67, 91
+  orig: 67, 91
+  offset: 0, 0
+  index: -1

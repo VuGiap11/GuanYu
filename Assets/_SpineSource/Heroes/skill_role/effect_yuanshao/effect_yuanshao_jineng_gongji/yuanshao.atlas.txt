@@ -1,0 +1,237 @@
+
+yuanshao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/baozhahou/baozhahou_00084
+  rotate: true
+  xy: 516, 528
+  size: 291, 106
+  orig: 408, 191
+  offset: 54, 39
+  index: -1
+skill1/baozhahou/baozhahou_00086
+  rotate: false
+  xy: 1, 628
+  size: 383, 166
+  orig: 408, 191
+  offset: 11, 13
+  index: -1
+skill1/baozhahou/baozhahou_00088
+  rotate: false
+  xy: 1, 464
+  size: 380, 162
+  orig: 408, 191
+  offset: 13, 15
+  index: -1
+skill1/baozhahou/baozhahou_00090
+  rotate: false
+  xy: 1, 305
+  size: 373, 157
+  orig: 408, 191
+  offset: 16, 18
+  index: -1
+skill1/baozhahou/baozhahou_00092
+  rotate: true
+  xy: 386, 478
+  size: 341, 128
+  orig: 408, 191
+  offset: 29, 30
+  index: -1
+skill1/baozhahou/baozhahou_00094
+  rotate: true
+  xy: 773, 375
+  size: 271, 66
+  orig: 408, 191
+  offset: 71, 85
+  index: -1
+skill1/baozhahou/baozhahou_00096
+  rotate: false
+  xy: 462, 71
+  size: 275, 69
+  orig: 408, 191
+  offset: 69, 86
+  index: -1
+skill1/baozhahou/baozhahou_00098
+  rotate: false
+  xy: 462, 1
+  size: 275, 68
+  orig: 408, 191
+  offset: 69, 87
+  index: -1
+skill1/baozhahou/baozhahou_00100
+  rotate: true
+  xy: 624, 553
+  size: 280, 69
+  orig: 408, 191
+  offset: 67, 87
+  index: -1
+skill1/baozhaqian/baozhaqian_00084
+  rotate: false
+  xy: 286, 821
+  size: 247, 202
+  orig: 307, 244
+  offset: 38, 6
+  index: -1
+skill1/baozhaqian/baozhaqian_00086
+  rotate: false
+  xy: 1, 89
+  size: 270, 214
+  orig: 307, 244
+  offset: 19, 17
+  index: -1
+skill1/baozhaqian/baozhaqian_00088
+  rotate: false
+  xy: 1, 796
+  size: 283, 227
+  orig: 307, 244
+  offset: 10, 13
+  index: -1
+skill1/baozhaqian/baozhaqian_00090
+  rotate: true
+  xy: 273, 16
+  size: 287, 187
+  orig: 307, 244
+  offset: 7, 10
+  index: -1
+skill1/baozhaqian/baozhaqian_00092
+  rotate: true
+  xy: 583, 236
+  size: 290, 75
+  orig: 307, 244
+  offset: 4, 14
+  index: -1
+skill1/baozhaqian/baozhaqian_00094
+  rotate: true
+  xy: 660, 232
+  size: 294, 65
+  orig: 307, 244
+  offset: 2, 23
+  index: -1
+skill1/baozhaqian/baozhaqian_00096
+  rotate: false
+  xy: 695, 592
+  size: 41, 49
+  orig: 307, 244
+  offset: 15, 27
+  index: -1
+skill1/chongjibo/chongjibo_00054
+  rotate: true
+  xy: 171, 4
+  size: 83, 98
+  orig: 89, 106
+  offset: 2, 4
+  index: -1
+skill1/dilie/dilie_00084
+  rotate: true
+  xy: 695, 643
+  size: 241, 76
+  orig: 243, 85
+  offset: 1, 2
+  index: -1
+skill1/guangdan1/guangdan1_00086
+  rotate: false
+  xy: 841, 424
+  size: 108, 108
+  orig: 119, 119
+  offset: 5, 5
+  index: -1
+skill1/guangdan3/guangdan3_00084
+  rotate: true
+  xy: 462, 142
+  size: 334, 119
+  orig: 390, 139
+  offset: 26, 11
+  index: -1
+skill1/jian1/jian1_00055
+  rotate: false
+  xy: 376, 322
+  size: 76, 140
+  orig: 82, 145
+  offset: 3, 3
+  index: -1
+skill1/liuguang/liuguang_00054
+  rotate: false
+  xy: 535, 835
+  size: 105, 188
+  orig: 111, 193
+  offset: 4, 5
+  index: -1
+skill1/liuguang/liuguang_00055
+  rotate: false
+  xy: 841, 534
+  size: 94, 173
+  orig: 111, 193
+  offset: 10, 12
+  index: -1
+skill1/liuguang/liuguang_00056
+  rotate: false
+  xy: 843, 67
+  size: 85, 163
+  orig: 111, 193
+  offset: 14, 20
+  index: -1
+skill1/liuguang/liuguang_00057
+  rotate: false
+  xy: 773, 709
+  size: 97, 175
+  orig: 111, 193
+  offset: 10, 8
+  index: -1
+skill1/yuanshao_lizi/lizi_00097
+  rotate: false
+  xy: 857, 316
+  size: 90, 106
+  orig: 220, 155
+  offset: 80, 31
+  index: -1
+skill1/yuanshao_lizi/lizi_00099
+  rotate: false
+  xy: 872, 784
+  size: 113, 128
+  orig: 220, 155
+  offset: 65, 18
+  index: -1
+skill1/yuanshao_lizi/lizi_00101
+  rotate: false
+  xy: 642, 886
+  size: 137, 137
+  orig: 220, 155
+  offset: 49, 12
+  index: -1
+skill1/yuanshao_lizi/lizi_00103
+  rotate: true
+  xy: 727, 232
+  size: 141, 128
+  orig: 220, 155
+  offset: 42, 19
+  index: -1
+skill1/yuanshao_lizi/lizi_00105
+  rotate: false
+  xy: 781, 914
+  size: 153, 109
+  orig: 220, 155
+  offset: 40, 28
+  index: -1
+skill1/yuanshao_lizi/lizi_00107
+  rotate: true
+  xy: 739, 59
+  size: 171, 102
+  orig: 220, 155
+  offset: 24, 30
+  index: -1
+skill1/yuanshao_lizi/lizi_00109
+  rotate: false
+  xy: 1, 8
+  size: 168, 79
+  orig: 220, 155
+  offset: 32, 47
+  index: -1
+skill1/yuanshao_lizi/lizi_00111
+  rotate: false
+  xy: 739, 1
+  size: 198, 56
+  orig: 220, 155
+  offset: 13, 49
+  index: -1

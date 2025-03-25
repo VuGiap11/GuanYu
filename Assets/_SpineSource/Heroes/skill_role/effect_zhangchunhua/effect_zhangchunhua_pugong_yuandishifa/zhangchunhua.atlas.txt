@@ -1,0 +1,55 @@
+
+zhangchunhua.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/yan/1_00008
+  rotate: true
+  xy: 85, 187
+  size: 59, 58
+  orig: 94, 97
+  offset: 22, 7
+  index: -1
+atk/yan/1_00009
+  rotate: true
+  xy: 0, 83
+  size: 78, 75
+  orig: 94, 97
+  offset: 5, 4
+  index: -1
+atk/yan/1_00011
+  rotate: false
+  xy: 0, 163
+  size: 83, 83
+  orig: 94, 97
+  offset: 4, 4
+  index: -1
+atk/yan/1_00013
+  rotate: true
+  xy: 77, 84
+  size: 77, 56
+  orig: 94, 97
+  offset: 4, 5
+  index: -1
+atk/yan/1_00015
+  rotate: true
+  xy: 0, 1
+  size: 80, 56
+  orig: 94, 97
+  offset: 3, 5
+  index: -1
+atk/yan/1_00017
+  rotate: true
+  xy: 58, 0
+  size: 81, 55
+  orig: 94, 97
+  offset: 3, 5
+  index: -1
+atk/yan/1_00019
+  rotate: true
+  xy: 115, 2
+  size: 80, 53
+  orig: 94, 97
+  offset: 3, 6
+  index: -1

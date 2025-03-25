@@ -1,0 +1,125 @@
+
+luxun.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill0/images/liuguang/liuguang_00015
+  rotate: true
+  xy: 281, 650
+  size: 138, 68
+  orig: 269, 206
+  offset: 12, 24
+  index: -1
+skill0/images/liuguang/liuguang_00017
+  rotate: false
+  xy: 0, 514
+  size: 179, 134
+  orig: 269, 206
+  offset: 39, 34
+  index: -1
+skill0/images/liuguang/liuguang_00019
+  rotate: false
+  xy: 0, 650
+  size: 181, 139
+  orig: 269, 206
+  offset: 41, 29
+  index: -1
+skill0/images/liuguang/liuguang_00021
+  rotate: false
+  xy: 0, 791
+  size: 181, 143
+  orig: 269, 206
+  offset: 57, 25
+  index: -1
+skill0/images/liuguang/liuguang_00023
+  rotate: true
+  xy: 0, 368
+  size: 144, 153
+  orig: 269, 206
+  offset: 109, 24
+  index: -1
+skill0/images/liuguang/liuguang_00025
+  rotate: false
+  xy: 0, 237
+  size: 130, 129
+  orig: 269, 206
+  offset: 122, 54
+  index: -1
+skill0/images/liuguang/liuguang_00027
+  rotate: false
+  xy: 183, 694
+  size: 96, 120
+  orig: 269, 206
+  offset: 145, 62
+  index: -1
+skill0/images/xuanfeng/xuanfeng_00016
+  rotate: false
+  xy: 131, 112
+  size: 117, 123
+  orig: 124, 137
+  offset: 2, 11
+  index: -1
+skill0/images/xuanfeng/xuanfeng_00018
+  rotate: true
+  xy: 183, 816
+  size: 118, 98
+  orig: 124, 137
+  offset: 2, 26
+  index: -1
+skill0/images/xuanfeng/xuanfeng_00020
+  rotate: true
+  xy: 181, 531
+  size: 117, 107
+  orig: 124, 137
+  offset: 4, 14
+  index: -1
+skill0/images/xuanfeng/xuanfeng_00022
+  rotate: true
+  xy: 131, 0
+  size: 110, 120
+  orig: 124, 137
+  offset: 9, 11
+  index: -1
+skill0/images/xuanfeng/xuanfeng_00024
+  rotate: false
+  xy: 132, 237
+  size: 117, 123
+  orig: 124, 137
+  offset: 2, 11
+  index: -1
+skill0/images/xuanfeng/xuanfeng_00026
+  rotate: true
+  xy: 250, 116
+  size: 119, 94
+  orig: 124, 137
+  offset: 1, 27
+  index: -1
+skill0/images/xuanfeng/xuanfeng_00028
+  rotate: true
+  xy: 0, 119
+  size: 116, 125
+  orig: 124, 137
+  offset: 5, 8
+  index: -1
+skill0/images/xuanfeng/xuanfeng_00030
+  rotate: true
+  xy: 0, 5
+  size: 112, 129
+  orig: 124, 137
+  offset: 7, 6
+  index: -1
+skill0/images/xuanfeng/xuanfeng_00032
+  rotate: true
+  xy: 155, 395
+  size: 117, 110
+  orig: 124, 137
+  offset: 2, 17
+  index: -1
+skill0/images/xuanfeng/xuanfeng_00034
+  rotate: true
+  xy: 251, 280
+  size: 113, 92
+  orig: 124, 137
+  offset: 6, 18
+  index: -1

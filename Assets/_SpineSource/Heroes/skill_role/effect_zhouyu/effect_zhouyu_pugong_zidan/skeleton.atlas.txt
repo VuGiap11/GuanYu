@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic/yue_00002
+  rotate: false
+  xy: 2, 74
+  size: 187, 115
+  orig: 206, 138
+  offset: 15, 11
+  index: -1

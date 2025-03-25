@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/skill/huichen02/huic_00
+  rotate: false
+  xy: 472, 120
+  size: 33, 47
+  orig: 103, 89
+  offset: 35, 8
+  index: -1
+TX/skill/huichen02/huic_02
+  rotate: false
+  xy: 358, 21
+  size: 77, 70
+  orig: 103, 89
+  offset: 9, 2
+  index: -1
+TX/skill/huichen02/huic_04
+  rotate: false
+  xy: 265, 23
+  size: 91, 77
+  orig: 103, 89
+  offset: 3, 3
+  index: -1
+TX/skill/huichen02/huic_06
+  rotate: false
+  xy: 373, 93
+  size: 97, 74
+  orig: 103, 89
+  offset: 4, 9
+  index: -1
+TX/skill/huichen02/huic_08
+  rotate: false
+  xy: 169, 29
+  size: 94, 71
+  orig: 103, 89
+  offset: 3, 16
+  index: -1
+TX/skill/huichen02/huic_10
+  rotate: true
+  xy: 437, 49
+  size: 42, 64
+  orig: 103, 89
+  offset: 5, 20
+  index: -1
+TX/skill/shandian/shd_-29
+  rotate: false
+  xy: 196, 102
+  size: 175, 114
+  orig: 218, 116
+  offset: 2, 1
+  index: -1
+TX/skill/shandian/shd_-31
+  rotate: true
+  xy: 402, 169
+  size: 184, 107
+  orig: 218, 116
+  offset: 1, 1
+  index: -1
+TX/skill/shandian/shd_-33
+  rotate: false
+  xy: 2, 180
+  size: 192, 101
+  orig: 218, 116
+  offset: 3, 3
+  index: -1
+TX/skill/shandian/shd_-34
+  rotate: false
+  xy: 2, 82
+  size: 165, 96
+  orig: 218, 116
+  offset: 4, 4
+  index: -1
+TX/skill/shandian/shd_-35
+  rotate: false
+  xy: 206, 273
+  size: 194, 80
+  orig: 218, 116
+  offset: 4, 14
+  index: -1
+TX/skill/shandian/shd_-36
+  rotate: false
+  xy: 2, 283
+  size: 202, 70
+  orig: 218, 116
+  offset: 9, 17
+  index: -1
+TX/skill/shandian/shd_-37
+  rotate: false
+  xy: 196, 218
+  size: 185, 53
+  orig: 218, 116
+  offset: 30, 24
+  index: -1
+TX/skill/shandian/shd_-38
+  rotate: false
+  xy: 437, 2
+  size: 58, 45
+  orig: 218, 116
+  offset: 151, 27
+  index: -1

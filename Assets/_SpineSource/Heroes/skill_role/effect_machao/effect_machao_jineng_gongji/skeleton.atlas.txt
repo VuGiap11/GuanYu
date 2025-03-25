@@ -1,0 +1,195 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/skill/baokailizi01/bao_00
+  rotate: false
+  xy: 1683, 52
+  size: 77, 98
+  orig: 323, 273
+  offset: 135, 91
+  index: -1
+TX/skill/baokailizi01/bao_02
+  rotate: false
+  xy: 1232, 782
+  size: 142, 156
+  orig: 323, 273
+  offset: 102, 60
+  index: -1
+TX/skill/baokailizi01/bao_04
+  rotate: true
+  xy: 1844, 618
+  size: 200, 195
+  orig: 323, 273
+  offset: 63, 38
+  index: -1
+TX/skill/baokailizi01/bao_06
+  rotate: true
+  xy: 1345, 208
+  size: 234, 231
+  orig: 323, 273
+  offset: 40, 11
+  index: -1
+TX/skill/baokailizi01/bao_08
+  rotate: false
+  xy: 1578, 371
+  size: 253, 220
+  orig: 323, 273
+  offset: 27, 28
+  index: -1
+TX/skill/baokailizi01/bao_10
+  rotate: false
+  xy: 1578, 593
+  size: 264, 227
+  orig: 323, 273
+  offset: 20, 25
+  index: -1
+TX/skill/baokailizi01/bao_12
+  rotate: true
+  xy: 1345, 444
+  size: 270, 231
+  orig: 323, 273
+  offset: 15, 23
+  index: -1
+TX/skill/baokailizi01/bao_14
+  rotate: false
+  xy: 1568, 822
+  size: 274, 233
+  orig: 323, 273
+  offset: 13, 22
+  index: -1
+TX/skill/baokailizi01/bao_16
+  rotate: true
+  xy: 1578, 152
+  size: 217, 233
+  orig: 323, 273
+  offset: 12, 23
+  index: -1
+TX/skill/baokailizi01/bao_18
+  rotate: true
+  xy: 1833, 373
+  size: 218, 215
+  orig: 323, 273
+  offset: 11, 41
+  index: -1
+TX/skill/baokailizi01/bao_20
+  rotate: true
+  xy: 1833, 154
+  size: 217, 215
+  orig: 323, 273
+  offset: 12, 41
+  index: -1
+TX/skill/dashouji/das_00
+  rotate: true
+  xy: 1232, 940
+  size: 489, 334
+  orig: 772, 652
+  offset: 64, 179
+  index: -1
+TX/skill/dashouji/das_02
+  rotate: true
+  xy: 0, 714
+  size: 714, 614
+  orig: 772, 652
+  offset: 42, 15
+  index: -1
+TX/skill/dashouji/das_04
+  rotate: false
+  xy: 0, 1430
+  size: 712, 618
+  orig: 772, 652
+  offset: 42, 15
+  index: -1
+TX/skill/dashouji/das_06
+  rotate: false
+  xy: 714, 1431
+  size: 711, 617
+  orig: 772, 652
+  offset: 42, 15
+  index: -1
+TX/skill/dashouji/das_08
+  rotate: true
+  xy: 0, 3
+  size: 709, 614
+  orig: 772, 652
+  offset: 42, 15
+  index: -1
+TX/skill/dashouji/das_10
+  rotate: true
+  xy: 616, 782
+  size: 646, 614
+  orig: 772, 652
+  offset: 46, 15
+  index: -1
+TX/skill/dashouji/das_12
+  rotate: false
+  xy: 1427, 1440
+  size: 621, 608
+  orig: 772, 652
+  offset: 59, 18
+  index: -1
+TX/skill/dashouji/das_14
+  rotate: false
+  xy: 1056, 92
+  size: 266, 310
+  orig: 772, 652
+  offset: 240, 187
+  index: -1
+TX/skill/dashouji/das_18
+  rotate: false
+  xy: 1376, 716
+  size: 177, 222
+  orig: 772, 652
+  offset: 331, 276
+  index: -1
+TX/skill/dashouji/das_22
+  rotate: true
+  xy: 1522, 35
+  size: 115, 159
+  orig: 772, 652
+  offset: 370, 339
+  index: -1
+TX/skill/shouji01/shj_00
+  rotate: false
+  xy: 1568, 1057
+  size: 420, 381
+  orig: 495, 400
+  offset: 32, 8
+  index: -1
+TX/skill/shouji01/shj_02
+  rotate: false
+  xy: 616, 24
+  size: 438, 380
+  orig: 495, 400
+  offset: 37, 8
+  index: -1
+TX/skill/shouji01/shj_04
+  rotate: false
+  xy: 616, 406
+  size: 473, 374
+  orig: 495, 400
+  offset: 17, 10
+  index: -1
+TX/skill/shouji01/shj_06
+  rotate: true
+  xy: 1091, 404
+  size: 376, 252
+  orig: 495, 400
+  offset: 112, 76
+  index: -1
+TX/skill/shouji01/shj_08
+  rotate: true
+  xy: 1844, 820
+  size: 235, 189
+  orig: 495, 400
+  offset: 226, 116
+  index: -1
+TX/skill/shouji01/shj_10
+  rotate: false
+  xy: 1324, 39
+  size: 196, 167
+  orig: 495, 400
+  offset: 236, 136
+  index: -1

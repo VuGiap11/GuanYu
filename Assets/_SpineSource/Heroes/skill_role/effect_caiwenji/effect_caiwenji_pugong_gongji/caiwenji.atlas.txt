@@ -1,0 +1,90 @@
+
+caiwenji.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill0/baodain/1_00000
+  rotate: true
+  xy: 224, 71
+  size: 122, 108
+  orig: 300, 230
+  offset: 61, 52
+  index: -1
+effect/skill0/baodain/1_00001
+  rotate: true
+  xy: 0, 299
+  size: 293, 226
+  orig: 300, 230
+  offset: 0, 0
+  index: -1
+effect/skill0/baodain/1_00002
+  rotate: false
+  xy: 228, 195
+  size: 300, 223
+  orig: 300, 230
+  offset: 0, 0
+  index: -1
+effect/skill0/baodain/1_00003
+  rotate: true
+  xy: 530, 226
+  size: 294, 218
+  orig: 300, 230
+  offset: 6, 4
+  index: -1
+effect/skill0/baodain/1_00004
+  rotate: true
+  xy: 0, 0
+  size: 297, 222
+  orig: 300, 230
+  offset: 3, 4
+  index: -1
+effect/skill0/baodain/1_00005
+  rotate: false
+  xy: 0, 594
+  size: 300, 227
+  orig: 300, 230
+  offset: 0, 2
+  index: -1
+effect/skill0/baodain/1_00006
+  rotate: true
+  xy: 302, 522
+  size: 299, 227
+  orig: 300, 230
+  offset: 1, 3
+  index: -1
+effect/skill0/baodain/1_00007
+  rotate: false
+  xy: 531, 609
+  size: 278, 212
+  orig: 300, 230
+  offset: 22, 16
+  index: -1
+effect/skill0/baodain/1_00008
+  rotate: true
+  xy: 530, 64
+  size: 160, 178
+  orig: 300, 230
+  offset: 39, 14
+  index: -1
+effect/skill0/xian1_00040
+  rotate: true
+  xy: 267, 420
+  size: 119, 15
+  orig: 120, 20
+  offset: 0, 2
+  index: -1
+effect/skill0/yan1_00046
+  rotate: true
+  xy: 228, 494
+  size: 45, 37
+  orig: 50, 40
+  offset: 3, 1
+  index: -1
+effect/skill1/shifa/guang/zi1_00000
+  rotate: false
+  xy: 228, 541
+  size: 50, 51
+  orig: 60, 60
+  offset: 5, 5
+  index: -1

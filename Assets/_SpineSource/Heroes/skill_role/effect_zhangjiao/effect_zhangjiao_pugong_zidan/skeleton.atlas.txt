@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/attack/dandao/dad_00
+  rotate: false
+  xy: 0, 455
+  size: 225, 54
+  orig: 236, 76
+  offset: 6, 11
+  index: -1
+TX/attack/dandao/dad_02
+  rotate: false
+  xy: 0, 281
+  size: 202, 55
+  orig: 236, 76
+  offset: 29, 10
+  index: -1
+TX/attack/dandao/dad_04
+  rotate: false
+  xy: 227, 453
+  size: 220, 56
+  orig: 236, 76
+  offset: 11, 10
+  index: -1
+TX/attack/dandao/dad_06
+  rotate: false
+  xy: 0, 338
+  size: 212, 57
+  orig: 236, 76
+  offset: 19, 8
+  index: -1
+TX/attack/dandao/dad_08
+  rotate: true
+  xy: 449, 298
+  size: 211, 60
+  orig: 236, 76
+  offset: 20, 5
+  index: -1
+TX/attack/dandao/dad_10
+  rotate: false
+  xy: 217, 392
+  size: 214, 59
+  orig: 236, 76
+  offset: 17, 6
+  index: -1
+TX/attack/dandao/dad_12
+  rotate: false
+  xy: 0, 397
+  size: 215, 56
+  orig: 236, 76
+  offset: 16, 9
+  index: -1
+TX/attack/dandao/dad_14
+  rotate: false
+  xy: 214, 335
+  size: 207, 55
+  orig: 236, 76
+  offset: 24, 10
+  index: -1
+z_wuqi-1
+  rotate: true
+  xy: 204, 259
+  size: 74, 141
+  orig: 74, 141
+  offset: 0, 0
+  index: -1
+z_wuqi-2
+  rotate: true
+  xy: 347, 282
+  size: 51, 83
+  orig: 53, 85
+  offset: 1, 1
+  index: -1
+z_wuqi-3
+  rotate: true
+  xy: 432, 266
+  size: 30, 58
+  orig: 32, 60
+  offset: 1, 1
+  index: -1

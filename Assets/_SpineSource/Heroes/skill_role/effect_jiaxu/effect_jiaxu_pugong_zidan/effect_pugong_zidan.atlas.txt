@@ -1,0 +1,48 @@
+
+effect_pugong_zidan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/dandao/1_00000
+  rotate: false
+  xy: 1, 1
+  size: 122, 61
+  orig: 155, 72
+  offset: 28, 7
+  index: -1
+atk/dandao/1_00002
+  rotate: false
+  xy: 127, 61
+  size: 123, 61
+  orig: 155, 72
+  offset: 26, 6
+  index: -1
+atk/dandao/1_00004
+  rotate: false
+  xy: 1, 190
+  size: 134, 61
+  orig: 155, 72
+  offset: 15, 7
+  index: -1
+atk/dandao/1_00006
+  rotate: false
+  xy: 1, 127
+  size: 129, 61
+  orig: 155, 72
+  offset: 20, 7
+  index: -1
+atk/dandao/1_00008
+  rotate: true
+  xy: 137, 124
+  size: 127, 61
+  orig: 155, 72
+  offset: 22, 7
+  index: -1
+atk/dandao/1_00010
+  rotate: false
+  xy: 1, 64
+  size: 124, 61
+  orig: 155, 72
+  offset: 25, 7
+  index: -1

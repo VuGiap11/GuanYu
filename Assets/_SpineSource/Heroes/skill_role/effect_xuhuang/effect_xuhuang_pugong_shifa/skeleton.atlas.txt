@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/skill0/daoguang/0_00000
+  rotate: false
+  xy: 344, 85
+  size: 147, 170
+  orig: 300, 300
+  offset: 13, 120
+  index: -1
+eff/skill0/daoguang/0_00001
+  rotate: false
+  xy: 2, 281
+  size: 272, 211
+  orig: 300, 300
+  offset: 24, 86
+  index: -1
+eff/skill0/daoguang/0_00002
+  rotate: true
+  xy: 276, 257
+  size: 235, 216
+  orig: 300, 300
+  offset: 65, 84
+  index: -1
+eff/skill0/daoguang/0_00003
+  rotate: true
+  xy: 2, 120
+  size: 159, 198
+  orig: 300, 300
+  offset: 141, 83
+  index: -1
+eff/skill0/daoguang/0_00004
+  rotate: true
+  xy: 202, 64
+  size: 191, 140
+  orig: 300, 300
+  offset: 109, 84
+  index: -1

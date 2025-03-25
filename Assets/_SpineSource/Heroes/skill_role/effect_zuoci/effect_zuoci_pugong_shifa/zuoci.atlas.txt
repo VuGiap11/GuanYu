@@ -1,0 +1,48 @@
+
+zuoci.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill0/guanglun/guanglun_00008
+  rotate: false
+  xy: 1, 190
+  size: 269, 269
+  orig: 296, 296
+  offset: 13, 13
+  index: -1
+skill0/shandian/shandian_00005
+  rotate: false
+  xy: 705, 199
+  size: 216, 260
+  orig: 327, 301
+  offset: 68, 19
+  index: -1
+skill0/shandian/shandian_00007
+  rotate: false
+  xy: 272, 210
+  size: 231, 249
+  orig: 327, 301
+  offset: 39, 24
+  index: -1
+skill0/shandian/shandian_00009
+  rotate: true
+  xy: 505, 169
+  size: 290, 198
+  orig: 327, 301
+  offset: 19, 36
+  index: -1
+skill0/shandian/shandian_00010
+  rotate: true
+  xy: 505, 169
+  size: 290, 198
+  orig: 327, 301
+  offset: 19, 36
+  index: -1
+skill0/shandian/shandian_00012
+  rotate: false
+  xy: 1, 1
+  size: 289, 187
+  orig: 327, 301
+  offset: 22, 41
+  index: -1

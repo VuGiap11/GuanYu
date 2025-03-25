@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack/3/3_00020
+  rotate: true
+  xy: 811, 573
+  size: 177, 186
+  orig: 375, 375
+  offset: 99, 104
+  index: -1
+effect/attack/3/3_00021
+  rotate: false
+  xy: 548, 718
+  size: 261, 285
+  orig: 375, 375
+  offset: 54, 45
+  index: -1
+effect/attack/3/3_00022
+  rotate: false
+  xy: 2, 378
+  size: 285, 309
+  orig: 375, 375
+  offset: 54, 46
+  index: -1
+effect/attack/3/3_00023
+  rotate: false
+  xy: 2, 689
+  size: 292, 314
+  orig: 375, 375
+  offset: 55, 47
+  index: -1
+effect/attack/3/3_00025
+  rotate: true
+  xy: 2, 74
+  size: 302, 299
+  orig: 375, 375
+  offset: 55, 48
+  index: -1
+effect/attack/3/3_00027
+  rotate: true
+  xy: 289, 386
+  size: 301, 282
+  orig: 375, 375
+  offset: 57, 52
+  index: -1
+effect/attack/3/3_00029
+  rotate: true
+  xy: 296, 716
+  size: 287, 250
+  orig: 375, 375
+  offset: 58, 81
+  index: -1
+effect/attack/3/3_00030
+  rotate: true
+  xy: 303, 118
+  size: 266, 252
+  orig: 375, 375
+  offset: 79, 82
+  index: -1
+effect/attack/3/3_00031
+  rotate: false
+  xy: 557, 132
+  size: 240, 252
+  orig: 375, 375
+  offset: 84, 83
+  index: -1
+effect/attack/3/3_00032
+  rotate: false
+  xy: 811, 752
+  size: 192, 251
+  orig: 375, 375
+  offset: 132, 84
+  index: -1
+effect/attack/4/4_00020
+  rotate: true
+  xy: 573, 615
+  size: 101, 104
+  orig: 116, 113
+  offset: 8, 3
+  index: -1

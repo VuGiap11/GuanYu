@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/bao/1_00021
+  rotate: true
+  xy: 241, 51
+  size: 202, 198
+  orig: 260, 260
+  offset: 26, 32
+  index: -1
+atk/bao/1_00022
+  rotate: true
+  xy: 194, 255
+  size: 242, 211
+  orig: 260, 260
+  offset: 6, 27
+  index: -1
+atk/bao/1_00024
+  rotate: true
+  xy: 1, 1
+  size: 245, 238
+  orig: 260, 260
+  offset: 4, 13
+  index: -1
+atk/bao/1_00026
+  rotate: false
+  xy: 1, 248
+  size: 191, 249
+  orig: 260, 260
+  offset: 31, 7
+  index: -1
+atk/bao/1_00028
+  rotate: true
+  xy: 441, 149
+  size: 173, 154
+  orig: 260, 260
+  offset: 43, 62
+  index: -1
+atk/bao/1_00030
+  rotate: true
+  xy: 565, 327
+  size: 170, 153
+  orig: 260, 260
+  offset: 41, 62
+  index: -1
+atk/bao/1_00032
+  rotate: true
+  xy: 407, 324
+  size: 173, 156
+  orig: 260, 260
+  offset: 39, 61
+  index: -1
+atk/bao/1_00034
+  rotate: false
+  xy: 441, 5
+  size: 127, 142
+  orig: 260, 260
+  offset: 83, 77
+  index: -1
+atk/glow_00000
+  rotate: true
+  xy: 241, 2
+  size: 47, 46
+  orig: 50, 50
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/qiliu/00
+  rotate: true
+  xy: 2, 487
+  size: 16, 34
+  orig: 70, 121
+  offset: 38, 3
+  index: -1
+effect/qiliu/01
+  rotate: true
+  xy: 2, 451
+  size: 30, 86
+  orig: 70, 121
+  offset: 25, 1
+  index: -1
+effect/qiliu/02
+  rotate: true
+  xy: 90, 441
+  size: 40, 103
+  orig: 70, 121
+  offset: 14, 0
+  index: -1
+effect/qiliu/04
+  rotate: true
+  xy: 271, 420
+  size: 58, 112
+  orig: 70, 121
+  offset: 5, 2
+  index: -1
+effect/qiliu/06
+  rotate: true
+  xy: 327, 349
+  size: 65, 106
+  orig: 70, 121
+  offset: 2, 13
+  index: -1
+effect/qiliu/08
+  rotate: false
+  xy: 435, 318
+  size: 68, 96
+  orig: 70, 121
+  offset: 1, 23
+  index: -1
+effect/qiliu/10
+  rotate: true
+  xy: 385, 416
+  size: 62, 79
+  orig: 70, 121
+  offset: 7, 35
+  index: -1
+effect/qiliu/12
+  rotate: true
+  xy: 195, 430
+  size: 48, 74
+  orig: 70, 121
+  offset: 10, 37
+  index: -1
+effect/yanchen/00
+  rotate: false
+  xy: 38, 483
+  size: 182, 20
+  orig: 421, 58
+  offset: 117, 1
+  index: -1
+effect/yanchen/01
+  rotate: false
+  xy: 222, 480
+  size: 238, 23
+  orig: 421, 58
+  offset: 88, 1
+  index: -1
+effect/yanchen/03
+  rotate: false
+  xy: 2, 377
+  size: 323, 41
+  orig: 421, 58
+  offset: 44, 1
+  index: -1
+effect/yanchen/06
+  rotate: false
+  xy: 2, 246
+  size: 374, 51
+  orig: 421, 58
+  offset: 17, 1
+  index: -1
+effect/yanchen/09
+  rotate: false
+  xy: 2, 138
+  size: 398, 53
+  orig: 421, 58
+  offset: 8, 1
+  index: -1
+effect/yanchen/12
+  rotate: false
+  xy: 2, 27
+  size: 409, 54
+  orig: 421, 58
+  offset: 4, 1
+  index: -1
+effect/yanchen/15
+  rotate: false
+  xy: 2, 83
+  size: 413, 53
+  orig: 421, 58
+  offset: 4, 1
+  index: -1
+effect/yanchen/18
+  rotate: false
+  xy: 2, 193
+  size: 415, 51
+  orig: 421, 58
+  offset: 5, 1
+  index: -1
+effect/yanchen/21
+  rotate: false
+  xy: 2, 299
+  size: 355, 48
+  orig: 421, 58
+  offset: 6, 2
+  index: -1

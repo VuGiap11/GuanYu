@@ -1,0 +1,454 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TaiShiCi/skill/DiLie/dl_00019
+  rotate: false
+  xy: 1186, 48
+  size: 148, 62
+  orig: 162, 113
+  offset: 5, 3
+  index: -1
+TaiShiCi/skill/DiLie/dl_00020
+  rotate: false
+  xy: 1634, 84
+  size: 148, 96
+  orig: 162, 113
+  offset: 5, 3
+  index: -1
+TaiShiCi/skill/DiLie/dl_00021
+  rotate: false
+  xy: 1484, 77
+  size: 148, 103
+  orig: 162, 113
+  offset: 5, 3
+  index: -1
+TaiShiCi/skill/DiLie/dl_00022
+  rotate: false
+  xy: 1845, 145
+  size: 148, 106
+  orig: 162, 113
+  offset: 5, 3
+  index: -1
+TaiShiCi/skill/DiLie/dl_00023
+  rotate: false
+  xy: 1186, 112
+  size: 148, 106
+  orig: 162, 113
+  offset: 5, 4
+  index: -1
+TaiShiCi/skill/DiLie/dl_00024
+  rotate: false
+  xy: 1336, 112
+  size: 146, 106
+  orig: 162, 113
+  offset: 6, 4
+  index: -1
+TaiShiCi/skill/DiLie/dl_00025
+  rotate: false
+  xy: 1784, 48
+  size: 146, 95
+  orig: 162, 113
+  offset: 6, 4
+  index: -1
+TaiShiCi/skill/DiLie/dl_00026
+  rotate: false
+  xy: 1336, 52
+  size: 146, 58
+  orig: 162, 113
+  offset: 6, 4
+  index: -1
+TaiShiCi/skill/DiLie/dl_00027
+  rotate: false
+  xy: 1634, 25
+  size: 146, 57
+  orig: 162, 113
+  offset: 6, 4
+  index: -1
+TaiShiCi/skill/DiLie/dl_00028
+  rotate: false
+  xy: 1484, 25
+  size: 146, 50
+  orig: 162, 113
+  offset: 6, 5
+  index: -1
+TaiShiCi/skill/DiLie/dl_00029
+  rotate: false
+  xy: 475, 177
+  size: 145, 47
+  orig: 162, 113
+  offset: 7, 5
+  index: -1
+TaiShiCi/skill/DiLie/dl_00030
+  rotate: false
+  xy: 475, 131
+  size: 145, 44
+  orig: 162, 113
+  offset: 7, 5
+  index: -1
+TaiShiCi/skill/DiLie/dl_00031
+  rotate: false
+  xy: 1400, 1074
+  size: 144, 38
+  orig: 162, 113
+  offset: 7, 5
+  index: -1
+TaiShiCi/skill/DiLie/dl_00032
+  rotate: false
+  xy: 1546, 1076
+  size: 144, 36
+  orig: 162, 113
+  offset: 7, 6
+  index: -1
+TaiShiCi/skill/DiLie/dl_00033
+  rotate: false
+  xy: 475, 46
+  size: 144, 36
+  orig: 162, 113
+  offset: 7, 6
+  index: -1
+TaiShiCi/skill/DiLie/dl_00034
+  rotate: false
+  xy: 1336, 14
+  size: 141, 36
+  orig: 162, 113
+  offset: 7, 6
+  index: -1
+TaiShiCi/skill/DiLie/dl_00035
+  rotate: false
+  xy: 1186, 11
+  size: 136, 35
+  orig: 162, 113
+  offset: 8, 6
+  index: -1
+TaiShiCi/skill/DiLie/dl_00036
+  rotate: false
+  xy: 1782, 12
+  size: 135, 34
+  orig: 162, 113
+  offset: 8, 7
+  index: -1
+TaiShiCi/skill/DiLie/dl_00037
+  rotate: false
+  xy: 475, 12
+  size: 132, 32
+  orig: 162, 113
+  offset: 10, 8
+  index: -1
+TaiShiCi/skill/DiLie/dl_00038
+  rotate: true
+  xy: 651, 1002
+  size: 127, 32
+  orig: 162, 113
+  offset: 13, 8
+  index: -1
+TaiShiCi/skill/DiLie/dl_00039
+  rotate: true
+  xy: 651, 876
+  size: 124, 31
+  orig: 162, 113
+  offset: 15, 8
+  index: -1
+TaiShiCi/skill/DiLie/dl_00040
+  rotate: false
+  xy: 1919, 16
+  size: 118, 30
+  orig: 162, 113
+  offset: 18, 9
+  index: -1
+TaiShiCi/skill/DiLie/dl_00041
+  rotate: true
+  xy: 1953, 450
+  size: 111, 29
+  orig: 162, 113
+  offset: 21, 10
+  index: -1
+TaiShiCi/skill/DiLie/dl_00042
+  rotate: false
+  xy: 1932, 115
+  size: 106, 28
+  orig: 162, 113
+  offset: 24, 11
+  index: -1
+TaiShiCi/skill/DiLie/dl_00043
+  rotate: false
+  xy: 1644, 747
+  size: 102, 27
+  orig: 162, 113
+  offset: 28, 11
+  index: -1
+TaiShiCi/skill/XuLi/xl_00025
+  rotate: false
+  xy: 1336, 781
+  size: 53, 36
+  orig: 366, 317
+  offset: 73, 65
+  index: -1
+TaiShiCi/skill/XuLi/xl_00026
+  rotate: false
+  xy: 1953, 563
+  size: 84, 58
+  orig: 366, 317
+  offset: 42, 44
+  index: -1
+TaiShiCi/skill/XuLi/xl_00027
+  rotate: true
+  xy: 1953, 623
+  size: 91, 60
+  orig: 366, 317
+  offset: 35, 41
+  index: -1
+TaiShiCi/skill/XuLi/xl_00028
+  rotate: false
+  xy: 1845, 253
+  size: 142, 169
+  orig: 366, 317
+  offset: 35, 41
+  index: -1
+TaiShiCi/skill/XuLi/xl_00029
+  rotate: false
+  xy: 1264, 220
+  size: 293, 259
+  orig: 366, 317
+  offset: 36, 37
+  index: -1
+TaiShiCi/skill/XuLi/xl_00030
+  rotate: true
+  xy: 638, 246
+  size: 289, 305
+  orig: 366, 317
+  offset: 40, 4
+  index: -1
+TaiShiCi/skill/XuLi/xl_00031
+  rotate: true
+  xy: 0, 232
+  size: 282, 308
+  orig: 366, 317
+  offset: 42, 1
+  index: -1
+TaiShiCi/skill/XuLi/xl_00032
+  rotate: true
+  xy: 945, 247
+  size: 278, 317
+  orig: 366, 317
+  offset: 45, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00033
+  rotate: true
+  xy: 0, 516
+  size: 316, 317
+  orig: 366, 317
+  offset: 18, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00034
+  rotate: false
+  xy: 1383, 1441
+  size: 341, 317
+  orig: 366, 317
+  offset: 5, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00035
+  rotate: true
+  xy: 1726, 1414
+  size: 344, 314
+  orig: 366, 317
+  offset: 5, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00036
+  rotate: false
+  xy: 1035, 1444
+  size: 346, 314
+  orig: 366, 317
+  offset: 6, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00037
+  rotate: false
+  xy: 0, 1131
+  size: 348, 308
+  orig: 366, 317
+  offset: 8, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00038
+  rotate: false
+  xy: 350, 1131
+  size: 347, 308
+  orig: 366, 317
+  offset: 9, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00039
+  rotate: true
+  xy: 1733, 1070
+  size: 342, 303
+  orig: 366, 317
+  offset: 10, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00040
+  rotate: false
+  xy: 651, 537
+  size: 339, 301
+  orig: 366, 317
+  offset: 11, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00041
+  rotate: true
+  xy: 353, 782
+  size: 347, 296
+  orig: 366, 317
+  offset: 14, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00042
+  rotate: true
+  xy: 1752, 716
+  size: 352, 287
+  orig: 366, 317
+  offset: 14, 1
+  index: -1
+TaiShiCi/skill/XuLi/xl_00043
+  rotate: false
+  xy: 1400, 776
+  size: 350, 292
+  orig: 366, 317
+  offset: 16, 1
+  index: -1
+TaiShiCi/skill/XuLi/xl_00044
+  rotate: false
+  xy: 699, 840
+  size: 346, 298
+  orig: 366, 317
+  offset: 20, 3
+  index: -1
+TaiShiCi/skill/XuLi/xl_00045
+  rotate: false
+  xy: 1383, 1114
+  size: 348, 298
+  orig: 366, 317
+  offset: 18, 3
+  index: -1
+TaiShiCi/skill/XuLi/xl_00046
+  rotate: false
+  xy: 0, 834
+  size: 351, 295
+  orig: 366, 317
+  offset: 15, 8
+  index: -1
+TaiShiCi/skill/XuLi/xl_00047
+  rotate: false
+  xy: 699, 1140
+  size: 351, 299
+  orig: 366, 317
+  offset: 15, 6
+  index: -1
+TaiShiCi/skill/XuLi/xl_00048
+  rotate: false
+  xy: 1047, 819
+  size: 351, 293
+  orig: 366, 317
+  offset: 15, 8
+  index: -1
+TaiShiCi/skill/XuLi/xl_00049
+  rotate: false
+  xy: 992, 527
+  size: 342, 290
+  orig: 366, 317
+  offset: 24, 11
+  index: -1
+TaiShiCi/skill/XuLi/xl_00050
+  rotate: false
+  xy: 1644, 424
+  size: 307, 290
+  orig: 366, 317
+  offset: 59, 15
+  index: -1
+TaiShiCi/skill/XuLi/xl_00051
+  rotate: true
+  xy: 1336, 481
+  size: 293, 306
+  orig: 366, 317
+  offset: 71, 4
+  index: -1
+TaiShiCi/skill/XuLi/xl_00052
+  rotate: false
+  xy: 1052, 1122
+  size: 329, 317
+  orig: 366, 317
+  offset: 37, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00053
+  rotate: false
+  xy: 0, 1441
+  size: 343, 317
+  orig: 366, 317
+  offset: 23, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00054
+  rotate: false
+  xy: 345, 1441
+  size: 343, 317
+  orig: 366, 317
+  offset: 23, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00055
+  rotate: false
+  xy: 690, 1441
+  size: 343, 317
+  orig: 366, 317
+  offset: 23, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00056
+  rotate: true
+  xy: 319, 469
+  size: 311, 317
+  orig: 366, 317
+  offset: 50, 0
+  index: -1
+TaiShiCi/skill/XuLi/xl_00057
+  rotate: false
+  xy: 310, 226
+  size: 311, 241
+  orig: 366, 317
+  offset: 47, 67
+  index: -1
+TaiShiCi/skill/XuLi/xl_00058
+  rotate: false
+  xy: 1559, 182
+  size: 284, 240
+  orig: 366, 317
+  offset: 44, 67
+  index: -1
+TaiShiCi/skill/XuLi/xl_00059
+  rotate: true
+  xy: 945, 17
+  size: 228, 239
+  orig: 366, 317
+  offset: 45, 66
+  index: -1
+TaiShiCi/skill/XuLi/xl_00060
+  rotate: true
+  xy: 623, 16
+  size: 228, 238
+  orig: 366, 317
+  offset: 45, 66
+  index: -1
+TaiShiCi/skill/XuLi/xl_00061
+  rotate: true
+  xy: 0, 2
+  size: 228, 238
+  orig: 366, 317
+  offset: 45, 66
+  index: -1
+TaiShiCi/skill/XuLi/xl_00062
+  rotate: true
+  xy: 240, 0
+  size: 224, 233
+  orig: 366, 317
+  offset: 49, 68
+  index: -1
+TaiShiCi/skill/ZhiLiao1/zl1_00064
+  rotate: false
+  xy: 475, 84
+  size: 138, 45
+  orig: 138, 48
+  offset: 0, 2
+  index: -1

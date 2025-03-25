@@ -1,0 +1,97 @@
+
+luxun.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill0/images/baozha/baozha_00023
+  rotate: false
+  xy: 254, 362
+  size: 263, 173
+  orig: 280, 242
+  offset: 8, 0
+  index: -1
+skill0/images/baozha/baozha_00026
+  rotate: true
+  xy: 784, 235
+  size: 263, 217
+  orig: 280, 242
+  offset: 8, 0
+  index: -1
+skill0/images/baozha/baozha_00029
+  rotate: true
+  xy: 0, 147
+  size: 263, 225
+  orig: 280, 242
+  offset: 8, 0
+  index: -1
+skill0/images/baozha/baozha_00032
+  rotate: false
+  xy: 492, 59
+  size: 263, 233
+  orig: 280, 242
+  offset: 8, 0
+  index: -1
+skill0/images/baozha/baozha_00035
+  rotate: false
+  xy: 757, 0
+  size: 263, 233
+  orig: 280, 242
+  offset: 8, 0
+  index: -1
+skill0/images/baozha/baozha_00038
+  rotate: false
+  xy: 227, 140
+  size: 263, 220
+  orig: 280, 242
+  offset: 8, 0
+  index: -1
+skill0/images/baozha/baozha_00041
+  rotate: false
+  xy: 519, 294
+  size: 263, 204
+  orig: 280, 242
+  offset: 8, 0
+  index: -1
+skill0/images/baozha/baozha_00044
+  rotate: false
+  xy: 0, 412
+  size: 252, 182
+  orig: 280, 242
+  offset: 13, 0
+  index: -1
+skill0/images/baozha/baozha_00047
+  rotate: false
+  xy: 647, 500
+  size: 235, 160
+  orig: 280, 242
+  offset: 22, 0
+  index: -1
+skill0/images/baozha/baozha_00050
+  rotate: false
+  xy: 469, 537
+  size: 176, 123
+  orig: 280, 242
+  offset: 51, 13
+  index: -1
+skill0/images/dilie/dllie_00031
+  rotate: false
+  xy: 256, 567
+  size: 211, 93
+  orig: 235, 122
+  offset: 10, 14
+  index: -1
+skill0/images/dimianshitou/dimianshitou_00031
+  rotate: false
+  xy: 0, 602
+  size: 134, 58
+  orig: 147, 74
+  offset: 11, 9
+  index: -1
+skill0/images/guangdan/guangdan_00035
+  rotate: false
+  xy: 136, 596
+  size: 118, 64
+  orig: 138, 79
+  offset: 9, 7
+  index: -1

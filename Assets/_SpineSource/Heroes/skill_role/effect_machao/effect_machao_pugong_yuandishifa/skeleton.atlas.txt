@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/attack/guangyun_00
+  rotate: true
+  xy: 580, 826
+  size: 132, 131
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+TX/attack/xuli/xul_00
+  rotate: false
+  xy: 413, 550
+  size: 253, 147
+  orig: 553, 524
+  offset: 25, 72
+  index: -1
+TX/attack/xuli/xul_02
+  rotate: true
+  xy: 317, 0
+  size: 458, 300
+  orig: 553, 524
+  offset: 18, 20
+  index: -1
+TX/attack/xuli/xul_04
+  rotate: false
+  xy: 0, 460
+  size: 411, 498
+  orig: 553, 524
+  offset: 41, 0
+  index: -1
+TX/attack/xuli/xul_06
+  rotate: false
+  xy: 0, 3
+  size: 315, 455
+  orig: 553, 524
+  offset: 98, 32
+  index: -1
+TX/attack/xuli/xul_08
+  rotate: false
+  xy: 413, 699
+  size: 165, 259
+  orig: 553, 524
+  offset: 184, 145
+  index: -1

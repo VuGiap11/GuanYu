@@ -1,0 +1,160 @@
+
+pangtong.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TP/jineng/baozha/baozha_00073
+  rotate: true
+  xy: 229, 28
+  size: 155, 204
+  orig: 474, 371
+  offset: 156, 60
+  index: -1
+TP/jineng/baozha/baozha_00075
+  rotate: false
+  xy: 823, 61
+  size: 334, 316
+  orig: 474, 371
+  offset: 61, 33
+  index: -1
+TP/jineng/baozha/baozha_00077
+  rotate: false
+  xy: 1209, 373
+  size: 357, 312
+  orig: 474, 371
+  offset: 50, 39
+  index: -1
+TP/jineng/baozha/baozha_00079
+  rotate: false
+  xy: 421, 365
+  size: 400, 320
+  orig: 474, 371
+  offset: 32, 40
+  index: -1
+TP/jineng/baozha/baozha_00081
+  rotate: false
+  xy: 0, 366
+  size: 419, 319
+  orig: 474, 371
+  offset: 22, 42
+  index: -1
+TP/jineng/baozha/baozha_00083
+  rotate: false
+  xy: 823, 379
+  size: 384, 306
+  orig: 474, 371
+  offset: 43, 54
+  index: -1
+TP/jineng/baozha/baozha_00085
+  rotate: false
+  xy: 1159, 126
+  size: 313, 245
+  orig: 474, 371
+  offset: 75, 73
+  index: -1
+TP/jineng/baozha/baozha_00087
+  rotate: false
+  xy: 501, 87
+  size: 316, 276
+  orig: 474, 371
+  offset: 55, 28
+  index: -1
+TP/jineng/baozha/baozha_00089
+  rotate: false
+  xy: 0, 0
+  size: 227, 183
+  orig: 474, 371
+  offset: 97, 1
+  index: -1
+TP/jineng/baozha/baozha_00091
+  rotate: true
+  xy: 1792, 16
+  size: 191, 103
+  orig: 474, 371
+  offset: 132, 77
+  index: -1
+TP/jineng/bingjian/bingjian_00062
+  rotate: false
+  xy: 229, 17
+  size: 21, 9
+  orig: 331, 109
+  offset: 238, 36
+  index: -1
+TP/jineng/bingjian/bingjian_00064
+  rotate: false
+  xy: 435, 157
+  size: 58, 26
+  orig: 331, 109
+  offset: 220, 28
+  index: -1
+TP/jineng/bingjian/bingjian_00066
+  rotate: false
+  xy: 829, 15
+  size: 95, 44
+  orig: 331, 109
+  offset: 201, 20
+  index: -1
+TP/jineng/bingjian/bingjian_00068
+  rotate: false
+  xy: 435, 15
+  size: 284, 70
+  orig: 331, 109
+  offset: 20, 16
+  index: -1
+TP/jineng/bingjian/bingjian_00070
+  rotate: false
+  xy: 1159, 38
+  size: 300, 86
+  orig: 331, 109
+  offset: 19, 10
+  index: -1
+TP/jineng/bingjian/bingjian_00072
+  rotate: false
+  xy: 721, 19
+  size: 106, 40
+  orig: 331, 109
+  offset: 49, 49
+  index: -1
+TP/jineng/bingjian/bingjian_00074
+  rotate: false
+  xy: 926, 21
+  size: 72, 38
+  orig: 331, 109
+  offset: 56, 48
+  index: -1
+TP/jineng/bingjian/bingjian_00076
+  rotate: false
+  xy: 435, 133
+  size: 22, 22
+  orig: 331, 109
+  offset: 103, 53
+  index: -1
+TP/jineng/dimian/dilie_00076
+  rotate: false
+  xy: 1474, 209
+  size: 423, 145
+  orig: 524, 217
+  offset: 59, 37
+  index: -1
+TP/jineng/dimian/dimian_00078
+  rotate: false
+  xy: 0, 185
+  size: 499, 178
+  orig: 539, 201
+  offset: 17, 15
+  index: -1
+TP/jineng/dimian/guangdan2_00079
+  rotate: false
+  xy: 1474, 40
+  size: 316, 167
+  orig: 372, 199
+  offset: 27, 16
+  index: -1
+TP/jineng/dimian/guangdan_00073
+  rotate: false
+  xy: 1568, 356
+  size: 329, 329
+  orig: 379, 373
+  offset: 25, 25
+  index: -1

@@ -1,0 +1,146 @@
+
+effect_ziqiao_pugong_zidan.png
+size: 1024,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/skill0/daoguang/0_00003
+  rotate: false
+  xy: 566, 17
+  size: 93, 46
+  orig: 152, 95
+  offset: 30, 24
+  index: -1
+eff/skill0/daoguang/0_00004
+  rotate: false
+  xy: 454, 11
+  size: 110, 56
+  orig: 152, 95
+  offset: 24, 18
+  index: -1
+eff/skill0/daoguang/0_00005
+  rotate: false
+  xy: 870, 23
+  size: 142, 65
+  orig: 152, 95
+  offset: 0, 13
+  index: -1
+eff/skill0/daoguang/0_00006
+  rotate: false
+  xy: 165, 59
+  size: 143, 66
+  orig: 152, 95
+  offset: 0, 12
+  index: -1
+eff/skill0/daoguang/0_00007
+  rotate: false
+  xy: 725, 60
+  size: 143, 65
+  orig: 152, 95
+  offset: 0, 12
+  index: -1
+eff/skill0/daoguang/0_00008
+  rotate: false
+  xy: 310, 2
+  size: 142, 65
+  orig: 152, 95
+  offset: 0, 12
+  index: -1
+eff/skill0/daoguang/0_00009
+  rotate: false
+  xy: 0, 0
+  size: 130, 64
+  orig: 152, 95
+  offset: 8, 12
+  index: -1
+eff/skill0/daoguangtuowei/0_00001
+  rotate: false
+  xy: 464, 133
+  size: 217, 66
+  orig: 243, 95
+  offset: 4, 21
+  index: -1
+eff/skill0/daoguangtuowei/0_00002
+  rotate: false
+  xy: 0, 129
+  size: 212, 70
+  orig: 243, 95
+  offset: 7, 19
+  index: -1
+eff/skill0/daoguangtuowei/0_00003
+  rotate: false
+  xy: 464, 201
+  size: 212, 71
+  orig: 243, 95
+  offset: 5, 19
+  index: -1
+eff/skill0/daoguangtuowei/0_00004
+  rotate: false
+  xy: 0, 201
+  size: 234, 71
+  orig: 243, 95
+  offset: 6, 19
+  index: -1
+eff/skill0/daoguangtuowei/0_00005
+  rotate: false
+  xy: 236, 200
+  size: 226, 72
+  orig: 243, 95
+  offset: 10, 18
+  index: -1
+eff/skill0/daoguangtuowei/0_00006
+  rotate: false
+  xy: 678, 201
+  size: 210, 71
+  orig: 243, 95
+  offset: 22, 18
+  index: -1
+eff/skill0/daoguangtuowei/0_00007
+  rotate: false
+  xy: 683, 127
+  size: 188, 72
+  orig: 243, 95
+  offset: 40, 16
+  index: -1
+eff/skill0/daoguangtuowei/0_00008
+  rotate: false
+  xy: 214, 127
+  size: 186, 71
+  orig: 243, 95
+  offset: 38, 16
+  index: -1
+eff/skill0/daoguangtuowei/0_00009
+  rotate: true
+  xy: 890, 90
+  size: 182, 69
+  orig: 243, 95
+  offset: 39, 17
+  index: -1
+eff/skill0/daoguangtuowei/0_00010
+  rotate: true
+  xy: 961, 95
+  size: 177, 63
+  orig: 243, 95
+  offset: 41, 16
+  index: -1
+eff/skill0/daoguangtuowei/0_00011
+  rotate: false
+  xy: 402, 69
+  size: 163, 62
+  orig: 243, 95
+  offset: 51, 17
+  index: -1
+eff/skill0/daoguangtuowei/0_00012
+  rotate: false
+  xy: 0, 66
+  size: 163, 61
+  orig: 243, 95
+  offset: 53, 18
+  index: -1
+eff/skill0/daoguangtuowei/0_00013
+  rotate: false
+  xy: 567, 65
+  size: 156, 60
+  orig: 243, 95
+  offset: 52, 18
+  index: -1

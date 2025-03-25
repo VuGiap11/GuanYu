@@ -1,0 +1,47 @@
+{
+	"AchivementDatas":
+	[
+		{
+			"ID":0,
+			"Name":"Find Monsters",
+			"NameTask":"Find {0} Monters",
+			"Level":[5,15,20,40],
+			"Gift":[500,1000,1500,2000]
+		},
+				{
+			"ID":1,
+			"Name":"Find Equipment",
+			"NameTask":"Find {0} Equipment",
+			"Level":[5,15,20,40],
+			"Gift":[500,1000,1500,2000]
+		},
+		{
+			"ID":2,
+			"Name":"Win Battles",
+			"NameTask":"Win {0} Battles",
+			"Level":[15,15,20,40],
+			"Gift":[500,1000,1500,2000]
+		},
+		{
+			"ID":3,
+			"Name":"Defeat Monster",
+			"NameTask":"Defeat {0} Monster",
+			"Level":[25,15,20,40],
+			"Gift":[500,1000,1500,2000]
+		},
+		{
+			"ID":4,
+			"Name":"Reach Trophies Milestone",
+			"NameTask":"Reach {0} Trophies",
+			"Level":[35,15,20,40],
+			"Gift":[500,1000,1500,2000]
+		},
+		{
+			"ID":5,
+			"Name":"Endless Waves Defeated",
+			"NameTask":"Defeat {0} Waves",
+			"Level":[45,15,20,40],
+			"Gift":[500,1000,1500,2000]
+		}
+	]
+}

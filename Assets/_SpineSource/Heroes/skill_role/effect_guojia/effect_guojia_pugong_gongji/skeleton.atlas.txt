@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+longjuanfeng/longjuanfeng_00030_00016
+  rotate: false
+  xy: 0, 444
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00018
+  rotate: false
+  xy: 224, 666
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00020
+  rotate: false
+  xy: 0, 222
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00022
+  rotate: false
+  xy: 224, 444
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00024
+  rotate: false
+  xy: 448, 666
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00026
+  rotate: false
+  xy: 0, 0
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00028
+  rotate: false
+  xy: 224, 222
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00030
+  rotate: false
+  xy: 448, 444
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00032
+  rotate: false
+  xy: 672, 666
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00034
+  rotate: false
+  xy: 224, 0
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00036
+  rotate: false
+  xy: 448, 222
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00038
+  rotate: false
+  xy: 672, 444
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00040
+  rotate: false
+  xy: 448, 0
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00042
+  rotate: false
+  xy: 672, 222
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1
+longjuanfeng/longjuanfeng_00030_00044
+  rotate: false
+  xy: 0, 666
+  size: 222, 220
+  orig: 222, 220
+  offset: 0, 0
+  index: -1

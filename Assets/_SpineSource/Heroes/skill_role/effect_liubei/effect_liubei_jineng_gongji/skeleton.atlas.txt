@@ -1,0 +1,944 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/skill/quanpingxuehua/0_00
+  rotate: false
+  xy: 626, 1273
+  size: 189, 185
+  orig: 245, 245
+  offset: 24, 19
+  index: -1
+eff/skill/quanpingxuehua/0_01
+  rotate: true
+  xy: 1181, 1098
+  size: 190, 184
+  orig: 245, 245
+  offset: 23, 20
+  index: -1
+eff/skill/quanpingxuehua/0_02
+  rotate: true
+  xy: 1391, 708
+  size: 192, 188
+  orig: 245, 245
+  offset: 19, 20
+  index: -1
+eff/skill/quanpingxuehua/0_03
+  rotate: false
+  xy: 1083, 1290
+  size: 195, 195
+  orig: 245, 245
+  offset: 16, 19
+  index: -1
+eff/skill/quanpingxuehua/0_04
+  rotate: true
+  xy: 1383, 902
+  size: 194, 169
+  orig: 245, 245
+  offset: 16, 47
+  index: -1
+eff/skill/quanpingxuehua/0_05
+  rotate: true
+  xy: 1554, 909
+  size: 190, 170
+  orig: 245, 245
+  offset: 17, 45
+  index: -1
+eff/skill/quanpingxuehua/0_06
+  rotate: true
+  xy: 1367, 1098
+  size: 186, 177
+  orig: 245, 245
+  offset: 20, 34
+  index: -1
+eff/skill/quanpingxuehua/0_07
+  rotate: true
+  xy: 1546, 1101
+  size: 183, 176
+  orig: 245, 245
+  offset: 21, 27
+  index: -1
+eff/skill/quanpingxuehua/0_08
+  rotate: true
+  xy: 1581, 521
+  size: 179, 171
+  orig: 245, 245
+  offset: 22, 24
+  index: -1
+eff/skill/quanpingxuehua/0_09
+  rotate: true
+  xy: 1872, 946
+  size: 179, 156
+  orig: 245, 245
+  offset: 23, 36
+  index: -1
+eff/skill/quanpingxuehua/0_10
+  rotate: false
+  xy: 838, 1098
+  size: 150, 173
+  orig: 245, 245
+  offset: 24, 20
+  index: -1
+eff/skill/quanpingxuehua/0_11
+  rotate: false
+  xy: 1866, 769
+  size: 167, 175
+  orig: 245, 245
+  offset: 22, 17
+  index: -1
+eff/skill/quanpingxuehua/0_12
+  rotate: false
+  xy: 1724, 1150
+  size: 179, 180
+  orig: 245, 245
+  offset: 20, 17
+  index: -1
+eff/skill/quanpingxuehua/0_13
+  rotate: false
+  xy: 1394, 521
+  size: 185, 185
+  orig: 245, 245
+  offset: 22, 18
+  index: -1
+eff/skill/quanpingxuehua/0_14
+  rotate: false
+  xy: 990, 1098
+  size: 189, 181
+  orig: 245, 245
+  offset: 23, 24
+  index: -1
+eff/skill/sfbingheng/0_00
+  rotate: true
+  xy: 1998, 1930
+  size: 118, 50
+  orig: 336, 84
+  offset: 16, 18
+  index: -1
+eff/skill/sfbingheng/0_01
+  rotate: false
+  xy: 211, 7
+  size: 223, 61
+  orig: 336, 84
+  offset: 11, 12
+  index: -1
+eff/skill/sfbingheng/0_02
+  rotate: false
+  xy: 1163, 1780
+  size: 318, 66
+  orig: 336, 84
+  offset: 10, 9
+  index: -1
+eff/skill/sfbingheng/0_03
+  rotate: false
+  xy: 784, 1744
+  size: 318, 66
+  orig: 336, 84
+  offset: 10, 9
+  index: -1
+eff/skill/sfbingheng/0_04
+  rotate: true
+  xy: 297, 809
+  size: 254, 61
+  orig: 336, 84
+  offset: 41, 12
+  index: -1
+eff/skill/sfbingheng/0_05
+  rotate: true
+  xy: 647, 100
+  size: 243, 58
+  orig: 336, 84
+  offset: 57, 13
+  index: -1
+eff/skill/sfbingheng/0_06
+  rotate: true
+  xy: 1016, 159
+  size: 233, 55
+  orig: 336, 84
+  offset: 72, 15
+  index: -1
+eff/skill/sfbingheng/0_07
+  rotate: true
+  xy: 1729, 249
+  size: 224, 48
+  orig: 336, 84
+  offset: 86, 19
+  index: -1
+eff/skill/sfbingheng/0_08
+  rotate: false
+  xy: 1826, 241
+  size: 208, 29
+  orig: 336, 84
+  offset: 104, 29
+  index: -1
+eff/skill/sfchujianguang/0_00
+  rotate: false
+  xy: 1517, 142
+  size: 149, 81
+  orig: 161, 91
+  offset: 3, 4
+  index: -1
+eff/skill/sfchushou/0_00
+  rotate: false
+  xy: 1399, 134
+  size: 116, 30
+  orig: 315, 126
+  offset: 113, 47
+  index: -1
+eff/skill/sfchushou/0_01
+  rotate: false
+  xy: 1483, 1760
+  size: 282, 98
+  orig: 315, 126
+  offset: 14, 14
+  index: -1
+eff/skill/sfchushou/0_02
+  rotate: true
+  xy: 635, 1460
+  size: 278, 79
+  orig: 315, 126
+  offset: 16, 15
+  index: -1
+eff/skill/sfchushou/0_03
+  rotate: true
+  xy: 704, 572
+  size: 264, 73
+  orig: 315, 126
+  offset: 31, 23
+  index: -1
+eff/skill/sfchushou/0_04
+  rotate: true
+  xy: 607, 345
+  size: 241, 73
+  orig: 315, 126
+  offset: 54, 28
+  index: -1
+eff/skill/sfchushou/0_05
+  rotate: false
+  xy: 0, 0
+  size: 209, 72
+  orig: 315, 126
+  offset: 87, 33
+  index: -1
+eff/skill/sfchushou/0_06
+  rotate: false
+  xy: 1826, 337
+  size: 181, 71
+  orig: 315, 126
+  offset: 115, 35
+  index: -1
+eff/skill/sfdaoheng/0_00
+  rotate: false
+  xy: 849, 358
+  size: 121, 37
+  orig: 336, 70
+  offset: 11, 17
+  index: -1
+eff/skill/sfdaoheng/0_01
+  rotate: true
+  xy: 1779, 254
+  size: 219, 45
+  orig: 336, 70
+  offset: 11, 13
+  index: -1
+eff/skill/sfdaoheng/0_02
+  rotate: false
+  xy: 393, 1740
+  size: 315, 53
+  orig: 336, 70
+  offset: 11, 9
+  index: -1
+eff/skill/sfdaoheng/0_03
+  rotate: false
+  xy: 1394, 474
+  size: 256, 45
+  orig: 336, 70
+  offset: 53, 13
+  index: -1
+eff/skill/sfdaoheng/0_04
+  rotate: true
+  xy: 2008, 1128
+  size: 242, 40
+  orig: 336, 70
+  offset: 72, 15
+  index: -1
+eff/skill/sfdaoheng/0_05
+  rotate: true
+  xy: 1691, 244
+  size: 229, 36
+  orig: 336, 70
+  offset: 91, 17
+  index: -1
+eff/skill/sfdaoheng/0_06
+  rotate: false
+  xy: 1517, 113
+  size: 212, 27
+  orig: 336, 70
+  offset: 111, 22
+  index: -1
+eff/skill/sfhuan/0_00
+  rotate: true
+  xy: 985, 1281
+  size: 219, 96
+  orig: 263, 119
+  offset: 37, 5
+  index: -1
+eff/skill/sfhuan/0_01
+  rotate: true
+  xy: 1554, 225
+  size: 205, 105
+  orig: 263, 119
+  offset: 23, 4
+  index: -1
+eff/skill/sfhuan/0_02
+  rotate: true
+  xy: 1754, 534
+  size: 210, 102
+  orig: 263, 119
+  offset: 19, 4
+  index: -1
+eff/skill/sfhuan/0_03
+  rotate: false
+  xy: 707, 0
+  size: 215, 99
+  orig: 263, 119
+  offset: 11, 4
+  index: -1
+eff/skill/sfhuan/0_04
+  rotate: true
+  xy: 1905, 1127
+  size: 203, 89
+  orig: 263, 119
+  offset: 9, 4
+  index: -1
+eff/skill/sfhuan/0_05
+  rotate: false
+  xy: 1652, 479
+  size: 198, 40
+  orig: 263, 119
+  offset: 5, 4
+  index: -1
+eff/skill/sfhuan/0_06
+  rotate: false
+  xy: 1251, 102
+  size: 138, 38
+  orig: 263, 119
+  offset: 5, 5
+  index: -1
+eff/skill/sflizi1/0_00
+  rotate: true
+  xy: 2005, 1686
+  size: 242, 29
+  orig: 280, 63
+  offset: 14, 16
+  index: -1
+eff/skill/sflizi1/0_01
+  rotate: false
+  xy: 1754, 1332
+  size: 252, 38
+  orig: 280, 63
+  offset: 8, 12
+  index: -1
+eff/skill/sflizi1/0_02
+  rotate: true
+  xy: 1017, 394
+  size: 262, 46
+  orig: 280, 63
+  offset: 5, 8
+  index: -1
+eff/skill/sflizi1/0_03
+  rotate: false
+  xy: 1100, 1487
+  size: 264, 47
+  orig: 280, 63
+  offset: 6, 7
+  index: -1
+eff/skill/sflizi1/0_04
+  rotate: true
+  xy: 1065, 396
+  size: 260, 44
+  orig: 280, 63
+  offset: 9, 8
+  index: -1
+eff/skill/sflizi1/0_05
+  rotate: false
+  xy: 1394, 432
+  size: 257, 40
+  orig: 280, 63
+  offset: 11, 10
+  index: -1
+eff/skill/sflizi1/0_06
+  rotate: true
+  xy: 1073, 143
+  size: 251, 36
+  orig: 280, 63
+  offset: 15, 12
+  index: -1
+eff/skill/sflizi1/0_07
+  rotate: true
+  xy: 981, 148
+  size: 247, 33
+  orig: 280, 63
+  offset: 20, 14
+  index: -1
+eff/skill/sflizi1/0_08
+  rotate: true
+  xy: 1661, 230
+  size: 243, 28
+  orig: 280, 63
+  offset: 23, 15
+  index: -1
+eff/skill/sjbaozha/0_00
+  rotate: false
+  xy: 1399, 166
+  size: 116, 117
+  orig: 266, 294
+  offset: 75, 90
+  index: -1
+eff/skill/sjbaozha/0_01
+  rotate: false
+  xy: 0, 564
+  size: 240, 251
+  orig: 266, 294
+  offset: 17, 19
+  index: -1
+eff/skill/sjbaozha/0_02
+  rotate: false
+  xy: 1767, 1638
+  size: 236, 221
+  orig: 266, 294
+  offset: 21, 42
+  index: -1
+eff/skill/sjbaozha/0_03
+  rotate: false
+  xy: 391, 1511
+  size: 242, 227
+  orig: 266, 294
+  offset: 11, 43
+  index: -1
+eff/skill/sjbaozha/0_04
+  rotate: true
+  xy: 0, 74
+  size: 242, 238
+  orig: 266, 294
+  offset: 14, 44
+  index: -1
+eff/skill/sjbaozha/0_05
+  rotate: false
+  xy: 0, 318
+  size: 239, 244
+  orig: 266, 294
+  offset: 13, 41
+  index: -1
+eff/skill/sjbaozha/0_06
+  rotate: false
+  xy: 389, 1286
+  size: 235, 223
+  orig: 266, 294
+  offset: 15, 63
+  index: -1
+eff/skill/sjbaozha/0_07
+  rotate: true
+  xy: 240, 70
+  size: 227, 197
+  orig: 266, 294
+  offset: 21, 67
+  index: -1
+eff/skill/sjbaozha/0_08
+  rotate: false
+  xy: 1280, 1291
+  size: 196, 194
+  orig: 266, 294
+  offset: 26, 70
+  index: -1
+eff/skill/sjbaozha/0_09
+  rotate: true
+  xy: 1622, 1374
+  size: 187, 143
+  orig: 266, 294
+  offset: 32, 77
+  index: -1
+eff/skill/sjbaozha/0_10
+  rotate: false
+  xy: 1753, 144
+  size: 57, 103
+  orig: 266, 294
+  offset: 107, 114
+  index: -1
+eff/skill/sjbing/0_00
+  rotate: true
+  xy: 1111, 140
+  size: 113, 138
+  orig: 224, 252
+  offset: 18, 17
+  index: -1
+eff/skill/sjbing/0_01
+  rotate: false
+  xy: 716, 1508
+  size: 198, 234
+  orig: 224, 252
+  offset: 9, 6
+  index: -1
+eff/skill/sjbing/0_02
+  rotate: true
+  xy: 358, 1078
+  size: 206, 241
+  orig: 224, 252
+  offset: 8, 4
+  index: -1
+eff/skill/sjbing/0_03
+  rotate: false
+  xy: 360, 835
+  size: 206, 241
+  orig: 224, 252
+  offset: 8, 4
+  index: -1
+eff/skill/sjbing/0_04
+  rotate: false
+  xy: 399, 345
+  size: 206, 241
+  orig: 224, 252
+  offset: 8, 4
+  index: -1
+eff/skill/sjbing/0_05
+  rotate: false
+  xy: 439, 102
+  size: 206, 241
+  orig: 224, 252
+  offset: 8, 4
+  index: -1
+eff/skill/sjdi/0_00
+  rotate: false
+  xy: 1826, 272
+  size: 172, 63
+  orig: 179, 77
+  offset: 4, 5
+  index: -1
+eff/skill/sjdi1/0_00
+  rotate: false
+  xy: 1100, 1536
+  size: 273, 110
+  orig: 280, 126
+  offset: 3, 5
+  index: -1
+eff/skill/sjdi2/0_00
+  rotate: true
+  xy: 242, 562
+  size: 245, 135
+  orig: 245, 161
+  offset: 0, 7
+  index: -1
+eff/skill/sjdi2xiaoshi/0_00
+  rotate: true
+  xy: 567, 588
+  size: 245, 135
+  orig: 245, 161
+  offset: 0, 7
+  index: -1
+eff/skill/sjdi2xiaoshi/0_01
+  rotate: true
+  xy: 707, 101
+  size: 245, 135
+  orig: 245, 161
+  offset: 0, 7
+  index: -1
+eff/skill/sjdi2xiaoshi/0_02
+  rotate: true
+  xy: 844, 101
+  size: 245, 135
+  orig: 245, 161
+  offset: 0, 7
+  index: -1
+eff/skill/sjdi2xiaoshi/0_03
+  rotate: false
+  xy: 1383, 1623
+  size: 245, 135
+  orig: 245, 161
+  offset: 0, 7
+  index: -1
+eff/skill/sjdi2xiaoshi/0_04
+  rotate: false
+  xy: 1375, 1487
+  size: 245, 134
+  orig: 245, 161
+  offset: 0, 8
+  index: -1
+eff/skill/sjdi2xiaoshi/0_05
+  rotate: false
+  xy: 1767, 1502
+  size: 245, 134
+  orig: 245, 161
+  offset: 0, 8
+  index: -1
+eff/skill/sjdi2xiaoshi/0_06
+  rotate: false
+  xy: 1767, 1372
+  size: 244, 128
+  orig: 245, 161
+  offset: 1, 13
+  index: -1
+eff/skill/sjdi2xiaoshi/0_07
+  rotate: true
+  xy: 954, 658
+  size: 216, 123
+  orig: 245, 161
+  offset: 23, 16
+  index: -1
+eff/skill/sjdi2xiaoshi/0_08
+  rotate: false
+  xy: 1391, 61
+  size: 123, 71
+  orig: 245, 161
+  offset: 27, 20
+  index: -1
+eff/skill/sjlizi0/0_00
+  rotate: false
+  xy: 1516, 18
+  size: 122, 93
+  orig: 420, 336
+  offset: 152, 132
+  index: -1
+eff/skill/sjlizi0/0_01
+  rotate: true
+  xy: 743, 861
+  size: 235, 155
+  orig: 420, 336
+  offset: 98, 101
+  index: -1
+eff/skill/sjlizi0/0_02
+  rotate: false
+  xy: 1163, 1848
+  size: 314, 200
+  orig: 420, 336
+  offset: 58, 73
+  index: -1
+eff/skill/sjlizi0/0_03
+  rotate: false
+  xy: 0, 1065
+  size: 356, 223
+  orig: 420, 336
+  offset: 37, 56
+  index: -1
+eff/skill/sjlizi0/0_04
+  rotate: false
+  xy: 784, 1812
+  size: 377, 236
+  orig: 420, 336
+  offset: 26, 48
+  index: -1
+eff/skill/sjlizi0/0_05
+  rotate: false
+  xy: 0, 1290
+  size: 387, 245
+  orig: 420, 336
+  offset: 20, 41
+  index: -1
+eff/skill/sjlizi0/0_06
+  rotate: false
+  xy: 0, 1794
+  size: 391, 254
+  orig: 420, 336
+  offset: 18, 31
+  index: -1
+eff/skill/sjlizi0/0_07
+  rotate: false
+  xy: 0, 1537
+  size: 389, 255
+  orig: 420, 336
+  offset: 19, 26
+  index: -1
+eff/skill/sjlizi0/0_08
+  rotate: false
+  xy: 393, 1795
+  size: 389, 253
+  orig: 420, 336
+  offset: 20, 25
+  index: -1
+eff/skill/sjlizi0/0_09
+  rotate: false
+  xy: 0, 817
+  size: 295, 246
+  orig: 420, 336
+  offset: 59, 30
+  index: -1
+eff/skill/sjxuexian/0_00
+  rotate: false
+  xy: 1104, 1648
+  size: 277, 130
+  orig: 315, 210
+  offset: 18, 13
+  index: -1
+eff/skill/sjxuexian/0_01
+  rotate: true
+  xy: 241, 299
+  size: 261, 156
+  orig: 315, 210
+  offset: 35, 8
+  index: -1
+eff/skill/sjxuexian/0_02
+  rotate: false
+  xy: 1479, 1860
+  size: 267, 188
+  orig: 315, 210
+  offset: 33, 13
+  index: -1
+eff/skill/sjxuexian/0_03
+  rotate: false
+  xy: 1748, 1861
+  size: 248, 187
+  orig: 315, 210
+  offset: 51, 16
+  index: -1
+eff/skill/sjxuexian/0_04
+  rotate: true
+  xy: 379, 588
+  size: 245, 186
+  orig: 315, 210
+  offset: 54, 17
+  index: -1
+eff/skill/sjxuexian/0_05
+  rotate: true
+  xy: 916, 1502
+  size: 240, 182
+  orig: 315, 210
+  offset: 59, 20
+  index: -1
+eff/skill/sjxuexian/0_06
+  rotate: true
+  xy: 568, 838
+  size: 238, 173
+  orig: 315, 210
+  offset: 60, 29
+  index: -1
+eff/skill/sjxuexian/0_07
+  rotate: false
+  xy: 601, 1098
+  size: 235, 173
+  orig: 315, 210
+  offset: 62, 29
+  index: -1
+eff/skill/sjxuexian/0_08
+  rotate: true
+  xy: 779, 628
+  size: 231, 173
+  orig: 315, 210
+  offset: 64, 29
+  index: -1
+eff/skill/sjxuexian/0_09
+  rotate: true
+  xy: 849, 397
+  size: 229, 166
+  orig: 315, 210
+  offset: 66, 35
+  index: -1
+eff/skill/sjxuexian/0_10
+  rotate: true
+  xy: 817, 1273
+  size: 227, 166
+  orig: 315, 210
+  offset: 68, 35
+  index: -1
+eff/skill/sjxuexian/0_11
+  rotate: true
+  xy: 682, 348
+  size: 222, 165
+  orig: 315, 210
+  offset: 72, 36
+  index: -1
+eff/skill/sjxuexian/0_12
+  rotate: true
+  xy: 900, 876
+  size: 220, 163
+  orig: 315, 210
+  offset: 73, 37
+  index: -1
+eff/skill/sjxuexian/0_13
+  rotate: true
+  xy: 1065, 879
+  size: 217, 159
+  orig: 315, 210
+  offset: 74, 39
+  index: -1
+eff/skill/sjxuexian/0_14
+  rotate: false
+  xy: 1382, 285
+  size: 170, 145
+  orig: 315, 210
+  offset: 120, 46
+  index: -1
+eff/skill/sjxuexian/0_15
+  rotate: true
+  xy: 439, 0
+  size: 100, 144
+  orig: 315, 210
+  offset: 187, 47
+  index: -1
+eff/skill/sjxuexian/0_16
+  rotate: true
+  xy: 924, 3
+  size: 96, 113
+  orig: 315, 210
+  offset: 188, 75
+  index: -1
+eff/skill/sjxuexian/0_17
+  rotate: false
+  xy: 1617, 1292
+  size: 94, 80
+  orig: 315, 210
+  offset: 188, 107
+  index: -1
+eff/skill/sjxuexian/0_18
+  rotate: true
+  xy: 641, 5
+  size: 93, 63
+  orig: 315, 210
+  offset: 188, 123
+  index: -1
+eff/skill/sjxuexian/0_19
+  rotate: false
+  xy: 710, 1753
+  size: 62, 40
+  orig: 315, 210
+  offset: 189, 143
+  index: -1
+eff/skill/sjxuexian0/0_00
+  rotate: false
+  xy: 1826, 410
+  size: 194, 63
+  orig: 245, 182
+  offset: 9, 15
+  index: -1
+eff/skill/sjxuexian0/0_01
+  rotate: true
+  xy: 1111, 453
+  size: 211, 127
+  orig: 245, 182
+  offset: 22, 12
+  index: -1
+eff/skill/sjxuexian0/0_02
+  rotate: true
+  xy: 1226, 880
+  size: 216, 155
+  orig: 245, 182
+  offset: 20, 15
+  index: -1
+eff/skill/sjxuexian0/0_03
+  rotate: true
+  xy: 1079, 666
+  size: 211, 154
+  orig: 245, 182
+  offset: 26, 18
+  index: -1
+eff/skill/sjxuexian0/0_04
+  rotate: true
+  xy: 1235, 669
+  size: 209, 154
+  orig: 245, 182
+  offset: 28, 19
+  index: -1
+eff/skill/sjxuexian0/0_05
+  rotate: true
+  xy: 1240, 460
+  size: 207, 152
+  orig: 245, 182
+  offset: 29, 21
+  index: -1
+eff/skill/sjxuexian0/0_06
+  rotate: true
+  xy: 1581, 702
+  size: 205, 144
+  orig: 245, 182
+  offset: 30, 30
+  index: -1
+eff/skill/sjxuexian0/0_07
+  rotate: true
+  xy: 1726, 946
+  size: 202, 144
+  orig: 245, 182
+  offset: 32, 29
+  index: -1
+eff/skill/sjxuexian0/0_08
+  rotate: true
+  xy: 1478, 1286
+  size: 199, 137
+  orig: 245, 182
+  offset: 34, 36
+  index: -1
+eff/skill/sjxuexian0/0_09
+  rotate: true
+  xy: 1727, 746
+  size: 198, 137
+  orig: 245, 182
+  offset: 35, 36
+  index: -1
+eff/skill/sjxuexian0/0_10
+  rotate: true
+  xy: 1111, 255
+  size: 196, 136
+  orig: 245, 182
+  offset: 37, 37
+  index: -1
+eff/skill/sjxuexian0/0_11
+  rotate: true
+  xy: 1630, 1563
+  size: 195, 135
+  orig: 245, 182
+  offset: 38, 37
+  index: -1
+eff/skill/sjxuexian0/0_12
+  rotate: false
+  xy: 1858, 610
+  size: 190, 134
+  orig: 245, 182
+  offset: 42, 38
+  index: -1
+eff/skill/sjxuexian0/0_13
+  rotate: false
+  xy: 1858, 475
+  size: 189, 133
+  orig: 245, 182
+  offset: 42, 38
+  index: -1
+eff/skill/sjxuexian0/0_14
+  rotate: true
+  xy: 1249, 270
+  size: 188, 131
+  orig: 245, 182
+  offset: 43, 40
+  index: -1
+eff/skill/sjxuexian0/0_15
+  rotate: false
+  xy: 1251, 142
+  size: 146, 126
+  orig: 245, 182
+  offset: 83, 44
+  index: -1
+eff/skill/sjxuexian0/0_16
+  rotate: true
+  xy: 1640, 24
+  size: 87, 122
+  orig: 245, 182
+  offset: 141, 47
+  index: -1
+eff/skill/sjxuexian0/0_17
+  rotate: false
+  xy: 1668, 144
+  size: 83, 84
+  orig: 245, 182
+  offset: 141, 84
+  index: -1
+eff/skill/sjxuexian0/0_18
+  rotate: false
+  xy: 1812, 170
+  size: 81, 69
+  orig: 245, 182
+  offset: 141, 98
+  index: -1
+eff/skill/sjxuexian0/0_19
+  rotate: true
+  xy: 585, 20
+  size: 80, 54
+  orig: 245, 182
+  offset: 141, 112
+  index: -1

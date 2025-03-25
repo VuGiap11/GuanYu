@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huanrao/00
+  rotate: false
+  xy: 256, 336
+  size: 229, 202
+  orig: 289, 246
+  offset: 30, 18
+  index: -1
+effect/huanrao/01
+  rotate: false
+  xy: 593, 467
+  size: 248, 196
+  orig: 289, 246
+  offset: 20, 29
+  index: -1
+effect/huanrao/03
+  rotate: false
+  xy: 641, 665
+  size: 258, 201
+  orig: 289, 246
+  offset: 16, 27
+  index: -1
+effect/huanrao/05
+  rotate: false
+  xy: 337, 727
+  size: 262, 206
+  orig: 289, 246
+  offset: 14, 24
+  index: -1
+effect/huanrao/07
+  rotate: false
+  xy: 0, 729
+  size: 255, 202
+  orig: 289, 246
+  offset: 14, 29
+  index: -1
+effect/huanrao/09
+  rotate: false
+  xy: 0, 532
+  size: 254, 195
+  orig: 289, 246
+  offset: 13, 35
+  index: -1
+effect/huanrao/12
+  rotate: false
+  xy: 256, 540
+  size: 249, 185
+  orig: 289, 246
+  offset: 15, 45
+  index: -1
+effect/huanrao/15
+  rotate: true
+  xy: 843, 367
+  size: 229, 148
+  orig: 289, 246
+  offset: 21, 47
+  index: -1
+effect/huanrao/18
+  rotate: false
+  xy: 0, 384
+  size: 198, 146
+  orig: 289, 246
+  offset: 31, 49
+  index: -1
+effect/smoke-2/00
+  rotate: true
+  xy: 988, 878
+  size: 145, 33
+  orig: 800, 97
+  offset: 410, 3
+  index: -1
+effect/smoke-2/01
+  rotate: true
+  xy: 601, 741
+  size: 192, 38
+  orig: 800, 97
+  offset: 412, 3
+  index: -1
+effect/smoke-2/03
+  rotate: false
+  xy: 670, 868
+  size: 271, 68
+  orig: 800, 97
+  offset: 407, 3
+  index: -1
+effect/smoke-2/06
+  rotate: false
+  xy: 670, 938
+  size: 316, 85
+  orig: 800, 97
+  offset: 406, 3
+  index: -1
+effect/smoke-2/09
+  rotate: false
+  xy: 337, 935
+  size: 331, 88
+  orig: 800, 97
+  offset: 407, 3
+  index: -1
+effect/smoke-2/12
+  rotate: false
+  xy: 0, 933
+  size: 335, 90
+  orig: 800, 97
+  offset: 410, 3
+  index: -1
+effect/smoke-2/15
+  rotate: true
+  xy: 901, 598
+  size: 180, 89
+  orig: 800, 97
+  offset: 566, 3
+  index: -1
+effect/smoke-2/18
+  rotate: true
+  xy: 507, 554
+  size: 171, 84
+  orig: 800, 97
+  offset: 573, 4
+  index: -1
+effect/smoke-2/21
+  rotate: true
+  xy: 943, 780
+  size: 96, 80
+  orig: 800, 97
+  offset: 646, 4
+  index: -1

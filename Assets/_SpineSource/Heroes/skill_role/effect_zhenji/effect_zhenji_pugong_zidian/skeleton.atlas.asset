@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/qiu/1_00000
+  rotate: false
+  xy: 609, 154
+  size: 120, 119
+  orig: 170, 179
+  offset: 29, 23
+  index: -1
+atk/qiu/1_00002
+  rotate: false
+  xy: 852, 144
+  size: 139, 129
+  orig: 170, 179
+  offset: 17, 19
+  index: -1
+atk/qiu/1_00004
+  rotate: false
+  xy: 420, 15
+  size: 154, 139
+  orig: 170, 179
+  offset: 9, 16
+  index: -1
+atk/qiu/1_00006
+  rotate: false
+  xy: 138, 18
+  size: 139, 138
+  orig: 170, 179
+  offset: 16, 16
+  index: -1
+atk/qiu/1_00008
+  rotate: true
+  xy: 732, 0
+  size: 142, 144
+  orig: 170, 179
+  offset: 16, 13
+  index: -1
+atk/qiu/1_00010
+  rotate: false
+  xy: 731, 154
+  size: 119, 119
+  orig: 170, 179
+  offset: 29, 27
+  index: -1
+atk/qiu/1_00012
+  rotate: true
+  xy: 486, 156
+  size: 117, 121
+  orig: 170, 179
+  offset: 31, 25
+  index: -1
+atk/qiu/1_00014
+  rotate: true
+  xy: 362, 157
+  size: 116, 122
+  orig: 170, 179
+  offset: 32, 25
+  index: -1
+atk/qiu/1_00016
+  rotate: false
+  xy: 0, 23
+  size: 136, 134
+  orig: 170, 179
+  offset: 20, 18
+  index: -1
+atk/qiu/1_00018
+  rotate: false
+  xy: 576, 11
+  size: 154, 141
+  orig: 170, 179
+  offset: 9, 14
+  index: -1
+atk/qiu/1_00020
+  rotate: false
+  xy: 279, 17
+  size: 139, 138
+  orig: 170, 179
+  offset: 16, 16
+  index: -1
+atk/qiu/1_00022
+  rotate: true
+  xy: 878, 0
+  size: 142, 144
+  orig: 170, 179
+  offset: 16, 13
+  index: -1
+atk/qiu/1_00024
+  rotate: true
+  xy: 238, 158
+  size: 115, 122
+  orig: 170, 179
+  offset: 33, 24
+  index: -1
+atk/qiu/1_00026
+  rotate: false
+  xy: 0, 161
+  size: 116, 112
+  orig: 170, 179
+  offset: 32, 24
+  index: -1
+atk/qiu/1_00028
+  rotate: false
+  xy: 118, 159
+  size: 118, 114
+  orig: 170, 179
+  offset: 30, 24
+  index: -1

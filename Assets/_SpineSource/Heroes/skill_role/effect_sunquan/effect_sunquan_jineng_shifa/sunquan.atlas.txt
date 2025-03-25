@@ -1,0 +1,111 @@
+
+sunquan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/fengquan/fengquan_00049
+  rotate: false
+  xy: 0, 381
+  size: 60, 16
+  orig: 116, 57
+  offset: 9, 33
+  index: -1
+atk/fengquan/fengquan_00050
+  rotate: false
+  xy: 269, 359
+  size: 101, 38
+  orig: 116, 57
+  offset: 7, 8
+  index: -1
+atk/fengquan/fengquan_00052
+  rotate: false
+  xy: 372, 359
+  size: 101, 38
+  orig: 116, 57
+  offset: 8, 5
+  index: -1
+atk/fengquan/fengquan_00054
+  rotate: false
+  xy: 0, 320
+  size: 100, 38
+  orig: 116, 57
+  offset: 9, 5
+  index: -1
+atk/fengquan/fengquan_00056
+  rotate: false
+  xy: 62, 360
+  size: 95, 37
+  orig: 116, 57
+  offset: 14, 6
+  index: -1
+atk/yanci/yanci_00049
+  rotate: true
+  xy: 404, 114
+  size: 243, 67
+  orig: 365, 92
+  offset: 116, 9
+  index: -1
+atk/yanci/yanci_00051
+  rotate: false
+  xy: 0, 0
+  size: 344, 69
+  orig: 365, 92
+  offset: 20, 9
+  index: -1
+atk/yanci/yanci_00053
+  rotate: false
+  xy: 0, 195
+  size: 351, 58
+  orig: 365, 92
+  offset: 7, 10
+  index: -1
+atk/yanci/yanci_00055
+  rotate: false
+  xy: 0, 133
+  size: 281, 60
+  orig: 365, 92
+  offset: 61, 10
+  index: -1
+atk/yanci/yanci_00057
+  rotate: false
+  xy: 0, 71
+  size: 269, 60
+  orig: 365, 92
+  offset: 61, 9
+  index: -1
+atk/yanci/yanci_00059
+  rotate: false
+  xy: 102, 314
+  size: 134, 44
+  orig: 365, 92
+  offset: 184, 10
+  index: -1
+atk/yanquan/yanquan_00012
+  rotate: false
+  xy: 159, 360
+  size: 108, 37
+  orig: 178, 61
+  offset: 36, 10
+  index: -1
+atk/yanquan/yanquan_00014
+  rotate: false
+  xy: 0, 259
+  size: 159, 53
+  orig: 178, 61
+  offset: 14, 6
+  index: -1
+atk/yanquan/yanquan_00016
+  rotate: false
+  xy: 161, 255
+  size: 167, 54
+  orig: 178, 61
+  offset: 8, 4
+  index: -1
+atk/yanquan/yanquan_00018
+  rotate: false
+  xy: 238, 311
+  size: 164, 46
+  orig: 178, 61
+  offset: 7, 4
+  index: -1

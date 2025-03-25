@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441267117eb82124a86ba962d3b6191c, type: 3}
+  m_Name: dianwei
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 5524476588350610046, guid: 0209df65c38a3f94db7a128b20fec8b5, type: 3}
+  nameHero: dianwei
+  countAtk: 2
+  countSkill: 4
+  attackAudio: {fileID: 8300000, guid: ef7eed8c52cf9074b8ec3824a0944dcb, type: 3}
+  attackhitAudio: {fileID: 8300000, guid: 0debbc8ba67a22740b9d9ad4e509a5f4, type: 3}
+  skillAudio: {fileID: 8300000, guid: 8ac382407093a1c42bdcdfade53fea90, type: 3}
+  skillhitAudio: {fileID: 8300000, guid: 9c507f5b48ab2644a9295d9943ec2afc, type: 3}

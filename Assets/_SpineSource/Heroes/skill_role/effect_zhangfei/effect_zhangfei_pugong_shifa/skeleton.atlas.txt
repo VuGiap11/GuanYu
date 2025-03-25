@@ -1,0 +1,188 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/attack/huichen/huc_000
+  rotate: true
+  xy: 985, 866
+  size: 25, 34
+  orig: 74, 61
+  offset: 25, 3
+  index: -1
+TX/attack/huichen/huc_002
+  rotate: false
+  xy: 966, 769
+  size: 55, 48
+  orig: 74, 61
+  offset: 7, 0
+  index: -1
+TX/attack/huichen/huc_004
+  rotate: true
+  xy: 966, 704
+  size: 63, 54
+  orig: 74, 61
+  offset: 4, 0
+  index: -1
+TX/attack/huichen/huc_006
+  rotate: true
+  xy: 966, 635
+  size: 67, 52
+  orig: 74, 61
+  offset: 4, 4
+  index: -1
+TX/attack/huichen/huc_008
+  rotate: true
+  xy: 964, 568
+  size: 65, 50
+  orig: 74, 61
+  offset: 4, 8
+  index: -1
+TX/attack/huichen/huc_010
+  rotate: false
+  xy: 985, 819
+  size: 30, 45
+  orig: 74, 61
+  offset: 5, 11
+  index: -1
+TX/attack/liuguang/lig_000
+  rotate: false
+  xy: 582, 89
+  size: 229, 203
+  orig: 304, 255
+  offset: 37, 17
+  index: -1
+TX/attack/liuguang/lig_002
+  rotate: false
+  xy: 1, 280
+  size: 286, 222
+  orig: 304, 255
+  offset: 9, 6
+  index: -1
+TX/attack/liuguang/lig_004
+  rotate: false
+  xy: 1, 504
+  size: 290, 220
+  orig: 304, 255
+  offset: 7, 4
+  index: -1
+TX/attack/liuguang/lig_006
+  rotate: false
+  xy: 589, 735
+  size: 292, 221
+  orig: 304, 255
+  offset: 6, 3
+  index: -1
+TX/attack/liuguang/lig_008
+  rotate: false
+  xy: 295, 728
+  size: 292, 228
+  orig: 304, 255
+  offset: 6, 3
+  index: -1
+TX/attack/liuguang/lig_010
+  rotate: false
+  xy: 1, 726
+  size: 292, 230
+  orig: 304, 255
+  offset: 6, 3
+  index: -1
+TX/attack/liuguang/lig_012
+  rotate: false
+  xy: 589, 512
+  size: 292, 221
+  orig: 304, 255
+  offset: 6, 3
+  index: -1
+TX/attack/liuguang/lig_014
+  rotate: false
+  xy: 295, 505
+  size: 292, 221
+  orig: 304, 255
+  offset: 6, 3
+  index: -1
+TX/attack/liuguang/lig_016
+  rotate: false
+  xy: 589, 294
+  size: 290, 216
+  orig: 304, 255
+  offset: 7, 4
+  index: -1
+TX/attack/liuguang/lig_018
+  rotate: false
+  xy: 293, 291
+  size: 287, 212
+  orig: 304, 255
+  offset: 8, 5
+  index: -1
+TX/attack/liuguang/lig_020
+  rotate: true
+  xy: 1, 1
+  size: 277, 199
+  orig: 304, 255
+  offset: 13, 8
+  index: -1
+TX/attack/zhuanquan/zhuq_000
+  rotate: true
+  xy: 964, 488
+  size: 78, 45
+  orig: 218, 95
+  offset: 64, 32
+  index: -1
+TX/attack/zhuanquan/zhuq_002
+  rotate: false
+  xy: 883, 846
+  size: 100, 45
+  orig: 218, 95
+  offset: 53, 32
+  index: -1
+TX/attack/zhuanquan/zhuq_004
+  rotate: false
+  xy: 883, 893
+  size: 125, 63
+  orig: 218, 95
+  offset: 44, 18
+  index: -1
+TX/attack/zhuanquan/zhuq_006
+  rotate: false
+  xy: 202, 11
+  size: 171, 72
+  orig: 218, 95
+  offset: 21, 11
+  index: -1
+TX/attack/zhuanquan/zhuq_008
+  rotate: true
+  xy: 881, 296
+  size: 164, 79
+  orig: 218, 95
+  offset: 25, 8
+  index: -1
+TX/attack/zhuanquan/zhuq_010
+  rotate: true
+  xy: 202, 86
+  size: 192, 71
+  orig: 218, 95
+  offset: 11, 8
+  index: -1
+TX/attack/zhuanquan/zhuq_012
+  rotate: true
+  xy: 883, 660
+  size: 184, 81
+  orig: 218, 95
+  offset: 15, 4
+  index: -1
+TX/attack/zhuanquan/zhuq_014
+  rotate: true
+  xy: 883, 462
+  size: 196, 79
+  orig: 218, 95
+  offset: 9, 4
+  index: -1
+TX/attack/zhuanquan/zhuq_016
+  rotate: true
+  xy: 881, 85
+  size: 209, 74
+  orig: 218, 95
+  offset: 2, 5
+  index: -1

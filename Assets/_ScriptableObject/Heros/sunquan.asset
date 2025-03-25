@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441267117eb82124a86ba962d3b6191c, type: 3}
+  m_Name: sunquan
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 6984938482126894957, guid: 64867a249215def498d69d0659d70510, type: 3}
+  nameHero: sunquan
+  countAtk: 3
+  countSkill: 3
+  attackAudio: {fileID: 8300000, guid: 738a049baa22bd742981ad755178b6b9, type: 3}
+  attackhitAudio: {fileID: 8300000, guid: a181ea5680ce5c944adca8db23aa1fc7, type: 3}
+  skillAudio: {fileID: 8300000, guid: 7744117f680e71a4f830caa9c7579c42, type: 3}
+  skillhitAudio: {fileID: 8300000, guid: 91e439eefb5b2854f99e24569377570a, type: 3}

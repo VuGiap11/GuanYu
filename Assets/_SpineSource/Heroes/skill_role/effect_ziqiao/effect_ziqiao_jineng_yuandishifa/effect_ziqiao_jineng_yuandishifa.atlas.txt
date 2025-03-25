@@ -1,0 +1,146 @@
+
+effect_ziqiao_jineng_yuandishifa.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/skill1/beijing/wuyun/wuyun_00000
+  rotate: true
+  xy: 572, 894
+  size: 388, 305
+  orig: 394, 325
+  offset: 3, 15
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00001
+  rotate: true
+  xy: 1493, 894
+  size: 388, 303
+  orig: 394, 325
+  offset: 3, 17
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00002
+  rotate: false
+  xy: 0, 410
+  size: 387, 300
+  orig: 394, 325
+  offset: 3, 20
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00003
+  rotate: false
+  xy: 960, 292
+  size: 386, 295
+  orig: 394, 325
+  offset: 4, 24
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00004
+  rotate: false
+  xy: 1348, 214
+  size: 386, 290
+  orig: 394, 325
+  offset: 4, 29
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00005
+  rotate: false
+  xy: 0, 118
+  size: 386, 290
+  orig: 394, 325
+  offset: 4, 29
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00006
+  rotate: true
+  xy: 1736, 118
+  size: 386, 290
+  orig: 394, 325
+  offset: 4, 29
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00007
+  rotate: false
+  xy: 388, 0
+  size: 386, 290
+  orig: 394, 325
+  offset: 4, 29
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00008
+  rotate: false
+  xy: 389, 292
+  size: 386, 294
+  orig: 394, 325
+  offset: 4, 25
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00009
+  rotate: true
+  xy: 1736, 506
+  size: 386, 298
+  orig: 394, 325
+  offset: 4, 21
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00010
+  rotate: false
+  xy: 1348, 591
+  size: 386, 301
+  orig: 394, 326
+  offset: 4, 19
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00011
+  rotate: false
+  xy: 960, 589
+  size: 386, 303
+  orig: 394, 326
+  offset: 4, 18
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00012
+  rotate: false
+  xy: 572, 588
+  size: 386, 304
+  orig: 394, 326
+  offset: 4, 17
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00013
+  rotate: true
+  xy: 879, 894
+  size: 388, 305
+  orig: 394, 326
+  offset: 3, 17
+  index: -1
+eff/skill1/beijing/wuyun/wuyun_00014
+  rotate: true
+  xy: 1186, 894
+  size: 388, 305
+  orig: 394, 326
+  offset: 3, 17
+  index: -1
+eff/skill1/beijing/xingkong_00000
+  rotate: false
+  xy: 0, 712
+  size: 570, 570
+  orig: 570, 570
+  offset: 0, 0
+  index: -1
+eff/skill1/caihong_00000
+  rotate: false
+  xy: 1798, 940
+  size: 204, 342
+  orig: 238, 380
+  offset: 17, 20
+  index: -1
+eff/skill1/dian_00001
+  rotate: false
+  xy: 389, 633
+  size: 73, 77
+  orig: 95, 95
+  offset: 11, 9
+  index: -1
+eff/skill1/sangsuo2_00000
+  rotate: false
+  xy: 777, 464
+  size: 118, 122
+  orig: 122, 122
+  offset: 2, 0
+  index: -1
+eff/skill1/xian1_00000
+  rotate: false
+  xy: 1798, 929
+  size: 83, 9
+  orig: 91, 15
+  offset: 5, 3
+  index: -1

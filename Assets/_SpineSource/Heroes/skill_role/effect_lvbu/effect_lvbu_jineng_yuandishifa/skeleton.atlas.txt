@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/dilie/0_00000
+  rotate: true
+  xy: 370, 34
+  size: 132, 50
+  orig: 192, 80
+  offset: 31, 16
+  index: -1
+eff/dilie/0_00001
+  rotate: true
+  xy: 344, 317
+  size: 192, 74
+  orig: 192, 80
+  offset: 0, 4
+  index: -1
+eff/dilie/0_00002
+  rotate: true
+  xy: 130, 189
+  size: 192, 78
+  orig: 192, 80
+  offset: 0, 1
+  index: -1
+eff/yanwu/0_00000
+  rotate: true
+  xy: 409, 222
+  size: 93, 39
+  orig: 256, 128
+  offset: 134, 0
+  index: -1
+eff/yanwu/0_00001
+  rotate: false
+  xy: 207, 76
+  size: 161, 90
+  orig: 256, 128
+  offset: 79, 0
+  index: -1
+eff/yanwu/0_00002
+  rotate: false
+  xy: 0, 383
+  size: 212, 126
+  orig: 256, 128
+  offset: 21, 0
+  index: -1
+eff/yanwu/0_00003
+  rotate: true
+  xy: 214, 298
+  size: 211, 128
+  orig: 256, 128
+  offset: 3, 0
+  index: -1
+eff/yanwu/0_00004
+  rotate: true
+  xy: 0, 175
+  size: 206, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+eff/yanwu/0_00005
+  rotate: false
+  xy: 210, 168
+  size: 197, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+eff/yanwu/0_00006
+  rotate: true
+  xy: 0, 0
+  size: 173, 118
+  orig: 256, 128
+  offset: 0, 1
+  index: -1
+eff/yanwu/0_00007
+  rotate: true
+  xy: 130, 29
+  size: 158, 75
+  orig: 256, 128
+  offset: 0, 1
+  index: -1

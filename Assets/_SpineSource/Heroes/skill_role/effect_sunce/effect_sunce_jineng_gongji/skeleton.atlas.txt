@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack/4/4_00032
+  rotate: true
+  xy: 879, 820
+  size: 189, 121
+  orig: 341, 175
+  offset: 69, 18
+  index: -1
+effect/attack/4/4_00033
+  rotate: false
+  xy: 2, 862
+  size: 338, 147
+  orig: 341, 175
+  offset: 0, 11
+  index: -1
+effect/attack/4/4_00034
+  rotate: false
+  xy: 2, 521
+  size: 257, 163
+  orig: 341, 175
+  offset: 33, 2
+  index: -1
+effect/attack/4/4_00036
+  rotate: false
+  xy: 342, 836
+  size: 272, 173
+  orig: 341, 175
+  offset: 18, 0
+  index: -1
+effect/attack/4/4_00038
+  rotate: false
+  xy: 616, 834
+  size: 261, 175
+  orig: 341, 175
+  offset: 10, 0
+  index: -1
+effect/attack/4/4_00040
+  rotate: false
+  xy: 2, 686
+  size: 267, 174
+  orig: 341, 175
+  offset: 7, 0
+  index: -1
+effect/attack/4/4_00042
+  rotate: false
+  xy: 327, 665
+  size: 267, 169
+  orig: 341, 175
+  offset: 8, 3
+  index: -1
+effect/attack/4/4_00044
+  rotate: false
+  xy: 596, 681
+  size: 261, 151
+  orig: 341, 175
+  offset: 10, 21
+  index: -1
+effect/attack/4/4_00046
+  rotate: true
+  xy: 859, 558
+  size: 260, 150
+  orig: 341, 175
+  offset: 12, 21
+  index: -1
+effect/attack/glow_00000
+  rotate: false
+  xy: 271, 806
+  size: 54, 54
+  orig: 80, 80
+  offset: 13, 13
+  index: -1

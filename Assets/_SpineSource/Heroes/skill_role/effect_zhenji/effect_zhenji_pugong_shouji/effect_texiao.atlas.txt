@@ -1,0 +1,97 @@
+
+effect_texiao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/bao/1_00022
+  rotate: true
+  xy: 0, 691
+  size: 120, 124
+  orig: 374, 283
+  offset: 115, 89
+  index: -1
+atk/bao/1_00023
+  rotate: false
+  xy: 331, 636
+  size: 237, 175
+  orig: 374, 283
+  offset: 78, 61
+  index: -1
+atk/bao/1_00024
+  rotate: false
+  xy: 0, 447
+  size: 277, 189
+  orig: 374, 283
+  offset: 62, 48
+  index: -1
+atk/bao/1_00026
+  rotate: false
+  xy: 0, 228
+  size: 318, 213
+  orig: 374, 283
+  offset: 39, 39
+  index: -1
+atk/bao/1_00028
+  rotate: false
+  xy: 611, 121
+  size: 328, 225
+  orig: 374, 283
+  offset: 22, 33
+  index: -1
+atk/bao/1_00030
+  rotate: true
+  xy: 748, 348
+  size: 279, 231
+  orig: 374, 283
+  offset: 12, 28
+  index: -1
+atk/bao/1_00032
+  rotate: false
+  xy: 0, 0
+  size: 289, 226
+  orig: 374, 283
+  offset: 8, 28
+  index: -1
+atk/bao/1_00034
+  rotate: false
+  xy: 320, 195
+  size: 289, 224
+  orig: 374, 283
+  offset: 8, 27
+  index: -1
+atk/bao/1_00036
+  rotate: false
+  xy: 126, 638
+  size: 203, 173
+  orig: 374, 283
+  offset: 86, 53
+  index: -1
+atk/bao/1_00038
+  rotate: false
+  xy: 570, 636
+  size: 210, 175
+  orig: 374, 283
+  offset: 80, 49
+  index: -1
+atk/bao/1_00040
+  rotate: false
+  xy: 782, 629
+  size: 209, 182
+  orig: 374, 283
+  offset: 85, 46
+  index: -1
+atk/glow_00000
+  rotate: false
+  xy: 279, 443
+  size: 191, 191
+  orig: 221, 220
+  offset: 22, 15
+  index: -1
+skill/k_00020
+  rotate: true
+  xy: 472, 421
+  size: 213, 274
+  orig: 224, 285
+  offset: 7, 4
+  index: -1

@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/yan/yanchen_00010
+  rotate: false
+  xy: 0, 128
+  size: 59, 58
+  orig: 93, 95
+  offset: 22, 6
+  index: -1
+effect/yan/yanchen_00011
+  rotate: false
+  xy: 61, 110
+  size: 79, 75
+  orig: 93, 95
+  offset: 5, 3
+  index: -1
+effect/yan/yanchen_00013
+  rotate: true
+  xy: 142, 103
+  size: 82, 83
+  orig: 93, 95
+  offset: 5, 3
+  index: -1
+effect/yan/yanchen_00015
+  rotate: false
+  xy: 83, 187
+  size: 78, 56
+  orig: 93, 95
+  offset: 4, 4
+  index: -1
+effect/yan/yanchen_00017
+  rotate: false
+  xy: 163, 187
+  size: 80, 56
+  orig: 93, 95
+  offset: 3, 4
+  index: -1
+effect/yan/yanchen_00019
+  rotate: false
+  xy: 0, 188
+  size: 81, 55
+  orig: 93, 95
+  offset: 3, 4
+  index: -1

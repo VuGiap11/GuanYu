@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/smoke01/00
+  rotate: false
+  xy: 130, 432
+  size: 152, 36
+  orig: 285, 85
+  offset: 131, 2
+  index: -1
+effect/smoke01/01
+  rotate: false
+  xy: 284, 424
+  size: 184, 44
+  orig: 285, 85
+  offset: 94, 2
+  index: -1
+effect/smoke01/03
+  rotate: false
+  xy: 2, 377
+  size: 208, 53
+  orig: 285, 85
+  offset: 63, 2
+  index: -1
+effect/smoke01/06
+  rotate: false
+  xy: 212, 353
+  size: 227, 69
+  orig: 285, 85
+  offset: 35, 2
+  index: -1
+effect/smoke01/09
+  rotate: false
+  xy: 2, 296
+  size: 193, 79
+  orig: 285, 85
+  offset: 17, 2
+  index: -1
+effect/smoke01/12
+  rotate: false
+  xy: 197, 271
+  size: 194, 80
+  orig: 285, 85
+  offset: 10, 3
+  index: -1
+effect/smoke01/15
+  rotate: false
+  xy: 2, 189
+  size: 194, 80
+  orig: 285, 85
+  offset: 5, 3
+  index: -1
+effect/smoke01/18
+  rotate: false
+  xy: 2, 453
+  size: 126, 15
+  orig: 285, 85
+  offset: 68, 3
+  index: -1

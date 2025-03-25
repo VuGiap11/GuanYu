@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack/2/2_00010
+  rotate: false
+  xy: 100, 463
+  size: 80, 43
+  orig: 208, 137
+  offset: 56, 4
+  index: -1
+effect/attack/2/2_00011
+  rotate: false
+  xy: 195, 237
+  size: 139, 83
+  orig: 208, 137
+  offset: 32, 4
+  index: -1
+effect/attack/2/2_00012
+  rotate: false
+  xy: 2, 158
+  size: 184, 105
+  orig: 208, 137
+  offset: 13, 5
+  index: -1
+effect/attack/2/2_00013
+  rotate: false
+  xy: 234, 39
+  size: 191, 107
+  orig: 208, 137
+  offset: 12, 12
+  index: -1
+effect/attack/2/2_00015
+  rotate: false
+  xy: 2, 265
+  size: 191, 75
+  orig: 208, 137
+  offset: 14, 50
+  index: -1
+effect/attack/5/5_00010
+  rotate: false
+  xy: 182, 463
+  size: 132, 43
+  orig: 226, 83
+  offset: 44, 16
+  index: -1
+effect/attack/5/5_00011
+  rotate: false
+  xy: 316, 449
+  size: 190, 57
+  orig: 226, 83
+  offset: 19, 12
+  index: -1
+effect/attack/5/5_00013
+  rotate: false
+  xy: 2, 342
+  size: 198, 62
+  orig: 226, 83
+  offset: 15, 9
+  index: -1
+effect/attack/5/5_00015
+  rotate: false
+  xy: 202, 322
+  size: 205, 65
+  orig: 226, 83
+  offset: 10, 8
+  index: -1
+effect/attack/5/5_00017
+  rotate: false
+  xy: 2, 406
+  size: 200, 55
+  orig: 226, 83
+  offset: 8, 8
+  index: -1
+effect/attack/6/6_00010
+  rotate: false
+  xy: 2, 470
+  size: 96, 36
+  orig: 235, 116
+  offset: 81, 5
+  index: -1
+effect/attack/6/6_00011
+  rotate: true
+  xy: 437, 278
+  size: 169, 66
+  orig: 235, 116
+  offset: 39, 5
+  index: -1
+effect/attack/6/6_00012
+  rotate: false
+  xy: 188, 148
+  size: 221, 87
+  orig: 235, 116
+  offset: 13, 5
+  index: -1
+effect/attack/6/6_00013
+  rotate: false
+  xy: 2, 59
+  size: 230, 87
+  orig: 235, 116
+  offset: 4, 13
+  index: -1
+effect/attack/6/6_00015
+  rotate: false
+  xy: 204, 389
+  size: 231, 58
+  orig: 235, 116
+  offset: 2, 46
+  index: -1

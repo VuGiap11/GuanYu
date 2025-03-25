@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441267117eb82124a86ba962d3b6191c, type: 3}
+  m_Name: dongzhuo
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 6135476450522362329, guid: ebebf65848263284c88af89778e9e94f, type: 3}
+  nameHero: dongzhuo
+  countAtk: 1
+  countSkill: 2
+  attackAudio: {fileID: 8300000, guid: 2d1b615e4e74b784eb68f111f4503b0b, type: 3}
+  attackhitAudio: {fileID: 8300000, guid: afb28d40ba66d814e8ad2072898d0668, type: 3}
+  skillAudio: {fileID: 8300000, guid: 5c10284ef12f02d4b8c7f683d784b7ad, type: 3}
+  skillhitAudio: {fileID: 8300000, guid: cbcc40f60ebe8d646b986082c45fea3c, type: 3}

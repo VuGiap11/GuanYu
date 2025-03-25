@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack/4/4_00053
+  rotate: false
+  xy: 396, 1776
+  size: 341, 205
+  orig: 604, 412
+  offset: 116, 117
+  index: -1
+effect/attack/4/4_00054
+  rotate: false
+  xy: 871, 1102
+  size: 542, 372
+  orig: 604, 412
+  offset: 16, 21
+  index: -1
+effect/attack/4/4_00056
+  rotate: false
+  xy: 1118, 1476
+  size: 574, 260
+  orig: 604, 412
+  offset: 16, 103
+  index: -1
+effect/attack/4/4_00058
+  rotate: false
+  xy: 2, 1257
+  size: 573, 263
+  orig: 604, 412
+  offset: 16, 111
+  index: -1
+effect/attack/4/4_00060
+  rotate: false
+  xy: 275, 1522
+  size: 545, 249
+  orig: 604, 412
+  offset: 17, 133
+  index: -1
+effect/attack/4/4_00062
+  rotate: false
+  xy: 1553, 1738
+  size: 342, 243
+  orig: 604, 412
+  offset: 232, 144
+  index: -1
+effect/attack/4/4_00064
+  rotate: false
+  xy: 2, 1873
+  size: 195, 108
+  orig: 604, 412
+  offset: 380, 278
+  index: -1
+effect/skill/10/10_00088
+  rotate: true
+  xy: 199, 1817
+  size: 164, 195
+  orig: 309, 314
+  offset: 80, 47
+  index: -1
+effect/skill/10/10_00089
+  rotate: true
+  xy: 1281, 1749
+  size: 232, 270
+  orig: 309, 314
+  offset: 37, 10
+  index: -1
+effect/skill/10/10_00090
+  rotate: true
+  xy: 2, 1553
+  size: 262, 271
+  orig: 309, 314
+  offset: 14, 10
+  index: -1
+effect/skill/10/10_00092
+  rotate: false
+  xy: 1694, 1457
+  size: 287, 279
+  orig: 309, 314
+  offset: 10, 10
+  index: -1
+effect/skill/10/10_00094
+  rotate: false
+  xy: 577, 1211
+  size: 292, 279
+  orig: 309, 314
+  offset: 7, 11
+  index: -1
+effect/skill/10/10_00096
+  rotate: false
+  xy: 822, 1492
+  size: 294, 270
+  orig: 309, 314
+  offset: 4, 26
+  index: -1
+effect/skill/10/10_00098
+  rotate: false
+  xy: 997, 1764
+  size: 282, 217
+  orig: 309, 314
+  offset: 21, 85
+  index: -1
+effect/skill/10/10_00100
+  rotate: false
+  xy: 739, 1773
+  size: 256, 208
+  orig: 309, 314
+  offset: 18, 99
+  index: -1

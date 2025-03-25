@@ -1,0 +1,314 @@
+
+jiaxu_jinenggongji.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/glow_00000
+  rotate: true
+  xy: 1378, 161
+  size: 47, 46
+  orig: 50, 50
+  offset: 1, 2
+  index: -1
+skill/bao/1_00075
+  rotate: false
+  xy: 1300, 386
+  size: 120, 88
+  orig: 190, 156
+  offset: 27, 33
+  index: -1
+skill/bao/1_00076
+  rotate: false
+  xy: 1255, 1
+  size: 148, 133
+  orig: 190, 156
+  offset: 20, 4
+  index: -1
+skill/bao/1_00078
+  rotate: false
+  xy: 1557, 714
+  size: 163, 140
+  orig: 190, 156
+  offset: 14, 4
+  index: -1
+skill/bao/1_00080
+  rotate: false
+  xy: 1378, 711
+  size: 177, 143
+  orig: 190, 156
+  offset: 8, 4
+  index: -1
+skill/bao/1_00082
+  rotate: true
+  xy: 1117, 28
+  size: 101, 136
+  orig: 190, 156
+  offset: 17, 12
+  index: -1
+skill/bao/1_00084
+  rotate: true
+  xy: 958, 362
+  size: 84, 117
+  orig: 190, 156
+  offset: 32, 18
+  index: -1
+skill/bao/1_00086
+  rotate: false
+  xy: 1464, 174
+  size: 78, 108
+  orig: 190, 156
+  offset: 35, 21
+  index: -1
+skill/bao/1_00088
+  rotate: true
+  xy: 1277, 163
+  size: 45, 99
+  orig: 190, 156
+  offset: 40, 23
+  index: -1
+skill/bao2/1_00075
+  rotate: true
+  xy: 1464, 284
+  size: 97, 95
+  orig: 178, 179
+  offset: 43, 41
+  index: -1
+skill/bao2/1_00076
+  rotate: false
+  xy: 985, 10
+  size: 130, 119
+  orig: 178, 179
+  offset: 30, 28
+  index: -1
+skill/bao2/1_00077
+  rotate: true
+  xy: 1587, 874
+  size: 149, 139
+  orig: 178, 179
+  offset: 20, 18
+  index: -1
+skill/bao2/1_00079
+  rotate: false
+  xy: 584, 696
+  size: 154, 138
+  orig: 178, 179
+  offset: 21, 19
+  index: -1
+skill/bao2/1_00081
+  rotate: true
+  xy: 1422, 383
+  size: 119, 111
+  orig: 178, 179
+  offset: 41, 31
+  index: -1
+skill/bao2/1_00083
+  rotate: true
+  xy: 1077, 366
+  size: 80, 115
+  orig: 178, 179
+  offset: 42, 31
+  index: -1
+skill/bao2/1_00085
+  rotate: true
+  xy: 1181, 136
+  size: 72, 94
+  orig: 178, 179
+  offset: 51, 54
+  index: -1
+skill/canliu/1_00078
+  rotate: false
+  xy: 1160, 476
+  size: 172, 222
+  orig: 255, 375
+  offset: 27, 15
+  index: -1
+skill/canliu/1_00080
+  rotate: false
+  xy: 985, 131
+  size: 194, 229
+  orig: 255, 375
+  offset: 22, 14
+  index: -1
+skill/canliu/1_00082
+  rotate: false
+  xy: 958, 448
+  size: 200, 250
+  orig: 255, 375
+  offset: 21, 17
+  index: -1
+skill/canliu/1_00084
+  rotate: false
+  xy: 613, 47
+  size: 204, 304
+  orig: 255, 375
+  offset: 19, 18
+  index: -1
+skill/canliu/1_00086
+  rotate: false
+  xy: 402, 28
+  size: 209, 316
+  orig: 255, 375
+  offset: 17, 18
+  index: -1
+skill/canliu/1_00088
+  rotate: false
+  xy: 211, 695
+  size: 208, 328
+  orig: 255, 375
+  offset: 19, 20
+  index: -1
+skill/canliu/1_00090
+  rotate: false
+  xy: 1, 690
+  size: 208, 333
+  orig: 255, 375
+  offset: 19, 19
+  index: -1
+skill/canliu/1_00092
+  rotate: false
+  xy: 1, 8
+  size: 203, 338
+  orig: 255, 375
+  offset: 19, 19
+  index: -1
+skill/canliu/1_00094
+  rotate: false
+  xy: 1, 348
+  size: 203, 340
+  orig: 255, 375
+  offset: 19, 19
+  index: -1
+skill/canliu/1_00096
+  rotate: false
+  xy: 206, 346
+  size: 200, 342
+  orig: 255, 375
+  offset: 19, 19
+  index: -1
+skill/canliu/1_00098
+  rotate: false
+  xy: 206, 2
+  size: 194, 342
+  orig: 255, 375
+  offset: 19, 19
+  index: -1
+skill/canliu/1_00100
+  rotate: false
+  xy: 408, 351
+  size: 191, 342
+  orig: 255, 375
+  offset: 20, 19
+  index: -1
+skill/canliu/1_00102
+  rotate: true
+  xy: 421, 836
+  size: 187, 341
+  orig: 255, 375
+  offset: 22, 20
+  index: -1
+skill/canliu/1_00104
+  rotate: false
+  xy: 601, 353
+  size: 184, 341
+  orig: 255, 375
+  offset: 23, 20
+  index: -1
+skill/canliu/1_00106
+  rotate: true
+  xy: 764, 849
+  size: 174, 340
+  orig: 255, 375
+  offset: 33, 21
+  index: -1
+skill/canliu/1_00108
+  rotate: false
+  xy: 787, 359
+  size: 169, 339
+  orig: 255, 375
+  offset: 36, 22
+  index: -1
+skill/canliu/1_00110
+  rotate: true
+  xy: 1106, 856
+  size: 167, 334
+  orig: 255, 375
+  offset: 36, 24
+  index: -1
+skill/canliu/1_00112
+  rotate: false
+  xy: 819, 33
+  size: 164, 324
+  orig: 255, 375
+  offset: 36, 29
+  index: -1
+skill/canliu/1_00114
+  rotate: true
+  xy: 1181, 210
+  size: 154, 281
+  orig: 255, 375
+  offset: 36, 32
+  index: -1
+skill/canliu/1_00116
+  rotate: true
+  xy: 1405, 8
+  size: 151, 276
+  orig: 255, 375
+  offset: 36, 36
+  index: -1
+skill/canliu/1_00118
+  rotate: true
+  xy: 900, 700
+  size: 147, 271
+  orig: 255, 375
+  offset: 37, 40
+  index: -1
+skill/canliu/1_00120
+  rotate: true
+  xy: 1173, 708
+  size: 146, 203
+  orig: 255, 375
+  offset: 37, 45
+  index: -1
+skill/canliu/1_00122
+  rotate: false
+  xy: 1334, 504
+  size: 145, 202
+  orig: 255, 375
+  offset: 37, 49
+  index: -1
+skill/canliu/1_00124
+  rotate: false
+  xy: 1442, 856
+  size: 143, 167
+  orig: 255, 375
+  offset: 38, 87
+  index: -1
+skill/canliu/1_00126
+  rotate: false
+  xy: 1481, 546
+  size: 141, 163
+  orig: 255, 375
+  offset: 38, 93
+  index: -1
+skill/canliu/1_00128
+  rotate: true
+  xy: 421, 696
+  size: 138, 161
+  orig: 255, 375
+  offset: 39, 98
+  index: -1
+skill/canliu/1_00130
+  rotate: true
+  xy: 740, 700
+  size: 134, 158
+  orig: 255, 375
+  offset: 41, 102
+  index: -1
+skill/quan_00020
+  rotate: false
+  xy: 1194, 368
+  size: 104, 106
+  orig: 111, 119
+  offset: 4, 5
+  index: -1

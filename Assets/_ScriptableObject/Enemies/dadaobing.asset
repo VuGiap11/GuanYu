@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441267117eb82124a86ba962d3b6191c, type: 3}
+  m_Name: dadaobing
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 3956857281312482394, guid: 3a01770fcc99d46488c21dce88f32d97, type: 3}
+  nameHero: dadaobing
+  countAtk: 1
+  countSkill: 2
+  attackAudio: {fileID: 8300000, guid: 33f800b5aaf9d8a49b4a24404db89789, type: 3}
+  attackhitAudio: {fileID: 8300000, guid: 7c32f6cfa315da24589b8c9324cf9912, type: 3}
+  skillAudio: {fileID: 8300000, guid: f5a16f390ad389346ba902183723186c, type: 3}
+  skillhitAudio: {fileID: 8300000, guid: 8aa7e11d97b11b243800032a80a56cff, type: 3}

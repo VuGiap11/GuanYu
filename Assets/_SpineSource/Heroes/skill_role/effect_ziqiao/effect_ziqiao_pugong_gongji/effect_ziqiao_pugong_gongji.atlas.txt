@@ -1,0 +1,111 @@
+
+effect_ziqiao_pugong_gongji.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/skill0/shouji/0_00000
+  rotate: false
+  xy: 352, 223
+  size: 349, 283
+  orig: 361, 323
+  offset: 5, 20
+  index: -1
+eff/skill0/shouji/0_00001
+  rotate: false
+  xy: 0, 223
+  size: 350, 283
+  orig: 361, 323
+  offset: 5, 20
+  index: -1
+eff/skill0/shouji/0_00002
+  rotate: false
+  xy: 703, 277
+  size: 347, 229
+  orig: 361, 323
+  offset: 8, 30
+  index: -1
+eff/skill0/shouji/0_00003
+  rotate: false
+  xy: 1052, 278
+  size: 346, 228
+  orig: 361, 323
+  offset: 8, 33
+  index: -1
+eff/skill0/shouji/0_00004
+  rotate: false
+  xy: 1400, 277
+  size: 343, 229
+  orig: 361, 323
+  offset: 9, 35
+  index: -1
+eff/skill0/shouji/0_00005
+  rotate: true
+  xy: 1745, 169
+  size: 337, 228
+  orig: 361, 323
+  offset: 13, 37
+  index: -1
+eff/skill0/shouji/0_00006
+  rotate: false
+  xy: 1052, 59
+  size: 329, 217
+  orig: 361, 323
+  offset: 17, 42
+  index: -1
+eff/skill0/shouji/0_00007
+  rotate: false
+  xy: 703, 85
+  size: 313, 190
+  orig: 361, 323
+  offset: 25, 45
+  index: -1
+eff/skill0/shouji/0_00008
+  rotate: false
+  xy: 1383, 103
+  size: 273, 172
+  orig: 361, 323
+  offset: 46, 57
+  index: -1
+eff/skill0/shouji/0_00009
+  rotate: false
+  xy: 0, 67
+  size: 232, 154
+  orig: 361, 323
+  offset: 66, 78
+  index: -1
+eff/skill0/shouji/0_00010
+  rotate: false
+  xy: 234, 74
+  size: 231, 147
+  orig: 361, 323
+  offset: 67, 88
+  index: -1
+eff/skill0/shouji/0_00011
+  rotate: false
+  xy: 467, 85
+  size: 227, 136
+  orig: 361, 323
+  offset: 70, 101
+  index: -1
+eff/skill0/shouji/0_00012
+  rotate: false
+  xy: 1831, 35
+  size: 163, 132
+  orig: 361, 323
+  offset: 97, 105
+  index: -1
+eff/skill0/shouji/0_00013
+  rotate: false
+  xy: 1658, 36
+  size: 171, 131
+  orig: 361, 323
+  offset: 93, 107
+  index: -1
+eff/skill0/shouji/0_00014
+  rotate: false
+  xy: 1383, 0
+  size: 167, 101
+  orig: 361, 323
+  offset: 100, 109
+  index: -1

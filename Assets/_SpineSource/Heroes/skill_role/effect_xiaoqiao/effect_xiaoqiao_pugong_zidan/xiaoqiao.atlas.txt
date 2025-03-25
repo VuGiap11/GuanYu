@@ -1,0 +1,69 @@
+
+xiaoqiao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk/fx/0_00000
+  rotate: false
+  xy: 0, 52
+  size: 229, 120
+  orig: 240, 128
+  offset: 7, 3
+  index: -1
+effect/atk/fx/0_00002
+  rotate: false
+  xy: 0, 174
+  size: 232, 119
+  orig: 240, 128
+  offset: 4, 4
+  index: -1
+effect/atk/fx/0_00004
+  rotate: false
+  xy: 234, 174
+  size: 231, 119
+  orig: 240, 128
+  offset: 4, 4
+  index: -1
+effect/atk/js/0_00000
+  rotate: false
+  xy: 404, 37
+  size: 85, 17
+  orig: 270, 64
+  offset: 0, 34
+  index: -1
+effect/atk/js/0_00002
+  rotate: true
+  xy: 467, 77
+  size: 216, 45
+  orig: 270, 64
+  offset: 17, 9
+  index: -1
+effect/atk/js/0_00004
+  rotate: false
+  xy: 231, 56
+  size: 199, 55
+  orig: 270, 64
+  offset: 47, 3
+  index: -1
+effect/atk/js/0_00006
+  rotate: false
+  xy: 231, 113
+  size: 190, 59
+  orig: 270, 64
+  offset: 67, 1
+  index: -1
+effect/atk/js/0_00008
+  rotate: false
+  xy: 231, 0
+  size: 171, 54
+  orig: 270, 64
+  offset: 90, 4
+  index: -1
+effect/atk/js/0_00010
+  rotate: false
+  xy: 0, 5
+  size: 161, 45
+  orig: 270, 64
+  offset: 108, 7
+  index: -1

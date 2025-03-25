@@ -1,0 +1,195 @@
+
+sunjian.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/11/11_00033
+  rotate: false
+  xy: 206, 967
+  size: 75, 34
+  orig: 113, 79
+  offset: 17, 3
+  index: -1
+attack/11/11_00034
+  rotate: false
+  xy: 0, 3
+  size: 92, 48
+  orig: 113, 79
+  offset: 10, 7
+  index: -1
+attack/11/11_00036
+  rotate: false
+  xy: 200, 593
+  size: 104, 64
+  orig: 113, 79
+  offset: 6, 12
+  index: -1
+attack/11/11_00038
+  rotate: false
+  xy: 206, 792
+  size: 104, 50
+  orig: 113, 79
+  offset: 6, 24
+  index: -1
+attack/14/14_00033
+  rotate: false
+  xy: 306, 609
+  size: 49, 40
+  orig: 100, 57
+  offset: 26, 4
+  index: -1
+attack/14/14_00034
+  rotate: true
+  xy: 302, 858
+  size: 69, 51
+  orig: 100, 57
+  offset: 16, 3
+  index: -1
+attack/14/14_00035
+  rotate: false
+  xy: 95, 37
+  size: 84, 54
+  orig: 100, 57
+  offset: 12, 2
+  index: -1
+attack/14/14_00037
+  rotate: false
+  xy: 0, 53
+  size: 93, 53
+  orig: 100, 57
+  offset: 7, 4
+  index: -1
+attack/14/14_00039
+  rotate: false
+  xy: 206, 905
+  size: 94, 53
+  orig: 100, 57
+  offset: 6, 3
+  index: -1
+attack/15/15_00033
+  rotate: false
+  xy: 200, 664
+  size: 100, 126
+  orig: 236, 215
+  offset: 83, 51
+  index: -1
+attack/15/15_00034
+  rotate: false
+  xy: 176, 93
+  size: 146, 169
+  orig: 236, 215
+  offset: 61, 33
+  index: -1
+attack/15/15_00036
+  rotate: true
+  xy: 0, 593
+  size: 197, 198
+  orig: 236, 215
+  offset: 39, 10
+  index: -1
+attack/15/15_00038
+  rotate: false
+  xy: 0, 792
+  size: 204, 209
+  orig: 236, 215
+  offset: 32, 1
+  index: -1
+attack/15/15_00040
+  rotate: true
+  xy: 0, 436
+  size: 155, 184
+  orig: 236, 215
+  offset: 27, 29
+  index: -1
+attack/15/15_00041
+  rotate: false
+  xy: 176, 264
+  size: 159, 170
+  orig: 236, 215
+  offset: 25, 36
+  index: -1
+attack/15/15_00043
+  rotate: true
+  xy: 0, 108
+  size: 161, 174
+  orig: 236, 215
+  offset: 25, 34
+  index: -1
+attack/15/15_00045
+  rotate: true
+  xy: 0, 271
+  size: 163, 172
+  orig: 236, 215
+  offset: 25, 33
+  index: -1
+attack/15/15_00047
+  rotate: false
+  xy: 186, 438
+  size: 153, 153
+  orig: 236, 215
+  offset: 34, 32
+  index: -1
+attack/16/16_00033
+  rotate: true
+  xy: 260, 0
+  size: 91, 48
+  orig: 119, 51
+  offset: 0, 2
+  index: -1
+attack/16/16_00035
+  rotate: true
+  xy: 302, 703
+  size: 87, 42
+  orig: 119, 51
+  offset: 24, 3
+  index: -1
+attack/16/16_00037
+  rotate: true
+  xy: 310, 17
+  size: 74, 27
+  orig: 119, 51
+  offset: 43, 3
+  index: -1
+attack/16/16_00039
+  rotate: false
+  xy: 94, 16
+  size: 37, 19
+  orig: 119, 51
+  offset: 59, 6
+  index: -1
+attack/17/17_00033
+  rotate: true
+  xy: 302, 929
+  size: 72, 55
+  orig: 95, 73
+  offset: 2, 10
+  index: -1
+attack/17/17_00034
+  rotate: false
+  xy: 206, 844
+  size: 86, 59
+  orig: 95, 73
+  offset: 4, 8
+  index: -1
+attack/17/17_00035
+  rotate: false
+  xy: 181, 33
+  size: 77, 58
+  orig: 95, 73
+  offset: 14, 8
+  index: -1
+attack/17/17_00036
+  rotate: false
+  xy: 306, 651
+  size: 41, 50
+  orig: 95, 73
+  offset: 51, 13
+  index: -1
+attack/glow_00000
+  rotate: false
+  xy: 324, 93
+  size: 28, 28
+  orig: 50, 50
+  offset: 11, 11
+  index: -1

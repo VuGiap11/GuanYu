@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack-dg/01
+  rotate: false
+  xy: 0, 436
+  size: 506, 520
+  orig: 536, 540
+  offset: 6, 0
+  index: -1
+effect/attack-dg/02
+  rotate: true
+  xy: 0, 0
+  size: 434, 496
+  orig: 536, 540
+  offset: 82, 9
+  index: -1
+effect/attack-dg/03
+  rotate: false
+  xy: 508, 478
+  size: 422, 478
+  orig: 536, 540
+  offset: 91, 19
+  index: -1
+effect/attack-dg/04
+  rotate: false
+  xy: 498, 33
+  size: 311, 401
+  orig: 536, 540
+  offset: 155, 69
+  index: -1
+effect/attack-dg/06
+  rotate: false
+  xy: 811, 162
+  size: 111, 314
+  orig: 536, 540
+  offset: 311, 109
+  index: -1

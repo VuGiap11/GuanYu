@@ -1,0 +1,167 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic/fengchang/fengchang_00001
+  rotate: true
+  xy: 879, 759
+  size: 263, 140
+  orig: 326, 185
+  offset: 23, 16
+  index: -1
+pic/fengchang/fengchang_00003
+  rotate: false
+  xy: 2, 888
+  size: 299, 134
+  orig: 326, 185
+  offset: 12, 8
+  index: -1
+pic/fengchang/fengchang_00005
+  rotate: false
+  xy: 599, 884
+  size: 278, 138
+  orig: 326, 185
+  offset: 18, 20
+  index: -1
+pic/fengchang/fengchang_00007
+  rotate: false
+  xy: 2, 726
+  size: 280, 160
+  orig: 326, 185
+  offset: 28, 11
+  index: -1
+pic/fengchang/fengchang_00009
+  rotate: false
+  xy: 814, 575
+  size: 208, 131
+  orig: 326, 185
+  offset: 53, 25
+  index: -1
+pic/fengchang/fengchang_00011
+  rotate: false
+  xy: 284, 599
+  size: 242, 137
+  orig: 326, 185
+  offset: 29, 20
+  index: -1
+pic/fengchang/fengchang_00013
+  rotate: false
+  xy: 599, 752
+  size: 272, 130
+  orig: 326, 185
+  offset: 28, 11
+  index: -1
+pic/fengchang/fengchang_00015
+  rotate: false
+  xy: 599, 634
+  size: 213, 116
+  orig: 326, 185
+  offset: 52, 25
+  index: -1
+pic/fengchang/fengchang_00017
+  rotate: false
+  xy: 284, 738
+  size: 244, 135
+  orig: 326, 185
+  offset: 42, 16
+  index: -1
+pic/fengchang/fengchang_00019
+  rotate: false
+  xy: 303, 875
+  size: 294, 147
+  orig: 326, 185
+  offset: 17, 8
+  index: -1
+pic/gl_00043
+  rotate: false
+  xy: 528, 643
+  size: 46, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+pic/zhuanlun/zhuanlun_00003
+  rotate: false
+  xy: 873, 708
+  size: 140, 49
+  orig: 235, 121
+  offset: 60, 35
+  index: -1
+pic/zhuanlun/zhuanlun_00004
+  rotate: false
+  xy: 813, 412
+  size: 167, 76
+  orig: 235, 121
+  offset: 57, 30
+  index: -1
+pic/zhuanlun/zhuanlun_00006
+  rotate: false
+  xy: 2, 654
+  size: 207, 70
+  orig: 235, 121
+  offset: 16, 39
+  index: -1
+pic/zhuanlun/zhuanlun_00008
+  rotate: true
+  xy: 201, 466
+  size: 186, 79
+  orig: 235, 121
+  offset: 7, 28
+  index: -1
+pic/zhuanlun/zhuanlun_00010
+  rotate: false
+  xy: 282, 507
+  size: 160, 90
+  orig: 235, 121
+  offset: 11, 24
+  index: -1
+pic/zhuanlun/zhuanlun_00012
+  rotate: false
+  xy: 813, 490
+  size: 183, 83
+  orig: 235, 121
+  offset: 24, 26
+  index: -1
+pic/zhuanlun/zhuanlun_00014
+  rotate: true
+  xy: 530, 691
+  size: 182, 67
+  orig: 235, 121
+  offset: 35, 34
+  index: -1
+pic/zhuanlun/zhuanlun_00016
+  rotate: false
+  xy: 2, 429
+  size: 190, 109
+  orig: 235, 121
+  offset: 17, 8
+  index: -1
+pic/zhuanlun/zhuanlun_00018
+  rotate: false
+  xy: 2, 540
+  size: 197, 112
+  orig: 235, 121
+  offset: 19, 5
+  index: -1
+pic/zhuanlun/zhuanlun_00020
+  rotate: false
+  xy: 528, 523
+  size: 184, 109
+  orig: 235, 121
+  offset: 43, 7
+  index: -1
+pic/zhuanlun/zhuanlun_00022
+  rotate: true
+  xy: 714, 468
+  size: 164, 97
+  orig: 235, 121
+  offset: 61, 16
+  index: -1
+pic/zhuanlun/zhuanlun_00024
+  rotate: false
+  xy: 444, 433
+  size: 152, 88
+  orig: 235, 121
+  offset: 62, 23
+  index: -1

@@ -1,0 +1,160 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/gy
+  rotate: false
+  xy: 420, 377
+  size: 58, 58
+  orig: 64, 64
+  offset: 3, 3
+  index: -1
+effect/jianshe/00
+  rotate: true
+  xy: 461, 437
+  size: 71, 47
+  orig: 125, 92
+  offset: 33, 25
+  index: -1
+effect/jianshe/01
+  rotate: false
+  xy: 344, 307
+  size: 112, 68
+  orig: 125, 92
+  offset: 4, 14
+  index: -1
+effect/jianshe/02
+  rotate: false
+  xy: 173, 249
+  size: 116, 78
+  orig: 125, 92
+  offset: 3, 8
+  index: -1
+effect/jianshe/03
+  rotate: false
+  xy: 291, 223
+  size: 115, 82
+  orig: 125, 92
+  offset: 4, 6
+  index: -1
+effect/jianshe/04
+  rotate: false
+  xy: 264, 139
+  size: 114, 82
+  orig: 125, 92
+  offset: 4, 6
+  index: -1
+effect/jianshe/06
+  rotate: false
+  xy: 380, 135
+  size: 113, 82
+  orig: 125, 92
+  offset: 4, 5
+  index: -1
+effect/jianshe/08
+  rotate: true
+  xy: 2, 356
+  size: 59, 78
+  orig: 125, 92
+  offset: 5, 5
+  index: -1
+effect/mz-1
+  rotate: true
+  xy: 408, 219
+  size: 86, 95
+  orig: 100, 100
+  offset: 2, 1
+  index: -1
+effect/mz-2
+  rotate: true
+  xy: 82, 338
+  size: 77, 83
+  orig: 100, 100
+  offset: 7, 7
+  index: -1
+effect/mz-3/00
+  rotate: false
+  xy: 2, 267
+  size: 169, 60
+  orig: 297, 89
+  offset: 7, 8
+  index: -1
+effect/mz-3/01
+  rotate: false
+  xy: 2, 185
+  size: 260, 62
+  orig: 297, 89
+  offset: 22, 7
+  index: -1
+effect/mz-3/03
+  rotate: false
+  xy: 2, 63
+  size: 262, 74
+  orig: 297, 89
+  offset: 27, 7
+  index: -1
+effect/mz-3/05
+  rotate: false
+  xy: 167, 329
+  size: 175, 55
+  orig: 297, 89
+  offset: 113, 14
+  index: -1
+effect/mz-3/07
+  rotate: false
+  xy: 2, 463
+  size: 164, 34
+  orig: 297, 89
+  offset: 119, 21
+  index: -1
+effect/mz-3/09
+  rotate: false
+  xy: 235, 488
+  size: 74, 20
+  orig: 297, 89
+  offset: 204, 28
+  index: -1
+effect/mz-4/00
+  rotate: false
+  xy: 311, 476
+  size: 148, 32
+  orig: 297, 89
+  offset: 18, 22
+  index: -1
+effect/mz-4/01
+  rotate: false
+  xy: 168, 442
+  size: 245, 32
+  orig: 297, 89
+  offset: 29, 22
+  index: -1
+effect/mz-4/03
+  rotate: false
+  xy: 168, 386
+  size: 250, 54
+  orig: 297, 89
+  offset: 31, 19
+  index: -1
+effect/mz-4/05
+  rotate: false
+  xy: 2, 417
+  size: 164, 44
+  orig: 297, 89
+  offset: 119, 18
+  index: -1
+effect/mz-4/07
+  rotate: false
+  xy: 75, 499
+  size: 158, 9
+  orig: 297, 89
+  offset: 120, 34
+  index: -1
+effect/mz-4/09
+  rotate: false
+  xy: 2, 506
+  size: 71, 2
+  orig: 297, 89
+  offset: 206, 37
+  index: -1

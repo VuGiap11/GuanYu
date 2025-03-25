@@ -1,0 +1,90 @@
+
+jiaxu_attack_shifa.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/bao/1_00020
+  rotate: false
+  xy: 1, 100
+  size: 144, 144
+  orig: 173, 168
+  offset: 15, 12
+  index: -1
+atk/bao/1_00021
+  rotate: true
+  xy: 676, 227
+  size: 136, 138
+  orig: 173, 168
+  offset: 21, 9
+  index: -1
+atk/bao/1_00023
+  rotate: true
+  xy: 147, 90
+  size: 144, 147
+  orig: 173, 168
+  offset: 17, 9
+  index: -1
+atk/bao/1_00025
+  rotate: true
+  xy: 530, 228
+  size: 135, 144
+  orig: 173, 168
+  offset: 22, 9
+  index: -1
+atk/bao/1_00027
+  rotate: false
+  xy: 400, 235
+  size: 128, 128
+  orig: 173, 168
+  offset: 22, 18
+  index: -1
+atk/bao/1_00029
+  rotate: false
+  xy: 267, 236
+  size: 131, 127
+  orig: 173, 168
+  offset: 20, 19
+  index: -1
+atk/bao/1_00031
+  rotate: false
+  xy: 133, 246
+  size: 132, 117
+  orig: 173, 168
+  offset: 18, 20
+  index: -1
+atk/bao/1_00033
+  rotate: false
+  xy: 1, 252
+  size: 130, 111
+  orig: 173, 168
+  offset: 18, 23
+  index: -1
+atk/ci2/1_00020
+  rotate: true
+  xy: 816, 221
+  size: 142, 159
+  orig: 233, 269
+  offset: 44, 56
+  index: -1
+atk/ci2/1_00021
+  rotate: true
+  xy: 296, 49
+  size: 184, 207
+  orig: 233, 269
+  offset: 25, 28
+  index: -1
+atk/ci2/1_00023
+  rotate: true
+  xy: 505, 24
+  size: 201, 228
+  orig: 233, 269
+  offset: 19, 16
+  index: -1
+atk/ci2/1_00025
+  rotate: true
+  xy: 735, 1
+  size: 218, 248
+  orig: 233, 269
+  offset: 12, 4
+  index: -1

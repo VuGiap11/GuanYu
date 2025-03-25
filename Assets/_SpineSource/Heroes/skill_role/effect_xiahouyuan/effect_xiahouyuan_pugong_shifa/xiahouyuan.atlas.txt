@@ -1,0 +1,62 @@
+
+xiahouyuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/skill0/shifa/0_00000
+  rotate: false
+  xy: 267, 439
+  size: 443, 257
+  orig: 450, 280
+  offset: 7, 9
+  index: -1
+eff/skill0/shifa/0_00001
+  rotate: false
+  xy: 0, 748
+  size: 448, 266
+  orig: 450, 280
+  offset: 2, 7
+  index: -1
+eff/skill0/shifa/0_00003
+  rotate: true
+  xy: 267, 0
+  size: 437, 255
+  orig: 450, 280
+  offset: 13, 11
+  index: -1
+eff/skill0/shifa/0_00005
+  rotate: true
+  xy: 0, 310
+  size: 436, 265
+  orig: 450, 280
+  offset: 14, 3
+  index: -1
+eff/skill0/shifa/0_00007
+  rotate: true
+  xy: 712, 306
+  size: 390, 265
+  orig: 450, 280
+  offset: 23, 3
+  index: -1
+eff/skill0/shifa/0_00009
+  rotate: true
+  xy: 450, 698
+  size: 316, 275
+  orig: 450, 280
+  offset: 108, 4
+  index: -1
+eff/skill0/shifa/0_00011
+  rotate: true
+  xy: 727, 738
+  size: 276, 257
+  orig: 450, 280
+  offset: 117, 6
+  index: -1
+eff/skill0/shifa/0_00013
+  rotate: true
+  xy: 0, 50
+  size: 258, 251
+  orig: 450, 280
+  offset: 130, 8
+  index: -1

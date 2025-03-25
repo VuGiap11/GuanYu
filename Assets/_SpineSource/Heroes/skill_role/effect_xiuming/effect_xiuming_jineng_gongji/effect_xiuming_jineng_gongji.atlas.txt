@@ -1,0 +1,293 @@
+
+effect_xiuming_jineng_gongji.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/skill1/baozhashanguang/0_00000
+  rotate: false
+  xy: 688, 1521
+  size: 222, 229
+  orig: 243, 243
+  offset: 9, 6
+  index: -1
+eff/skill1/fazhen/0_00000
+  rotate: false
+  xy: 379, 305
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00001
+  rotate: false
+  xy: 393, 627
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00002
+  rotate: false
+  xy: 395, 968
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00003
+  rotate: false
+  xy: 401, 1752
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00004
+  rotate: false
+  xy: 401, 1465
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00005
+  rotate: false
+  xy: 590, 18
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00006
+  rotate: false
+  xy: 666, 340
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00007
+  rotate: false
+  xy: 680, 681
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00008
+  rotate: false
+  xy: 682, 1178
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00009
+  rotate: false
+  xy: 688, 1752
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00010
+  rotate: false
+  xy: 877, 53
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00011
+  rotate: false
+  xy: 953, 394
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00012
+  rotate: false
+  xy: 967, 891
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00013
+  rotate: false
+  xy: 969, 1465
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhen/0_00014
+  rotate: false
+  xy: 1164, 107
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhengbowen/0_00000
+  rotate: true
+  xy: 1376, 472
+  size: 280, 129
+  orig: 304, 143
+  offset: 13, 0
+  index: -1
+eff/skill1/fazhengbowen/0_00001
+  rotate: false
+  xy: 401, 1332
+  size: 277, 131
+  orig: 304, 143
+  offset: 21, 0
+  index: -1
+eff/skill1/fazhengbowen/0_00002
+  rotate: false
+  xy: 975, 1769
+  size: 292, 132
+  orig: 304, 143
+  offset: 12, 0
+  index: -1
+eff/skill1/fazhengbowen/0_00003
+  rotate: true
+  xy: 1254, 906
+  size: 284, 134
+  orig: 304, 143
+  offset: 8, 0
+  index: -1
+eff/skill1/fazhengbowen/0_00004
+  rotate: false
+  xy: 969, 1192
+  size: 293, 135
+  orig: 304, 143
+  offset: 6, 0
+  index: -1
+eff/skill1/fazhengbowen/0_00005
+  rotate: false
+  xy: 682, 1043
+  size: 280, 133
+  orig: 304, 143
+  offset: 24, 0
+  index: -1
+eff/skill1/fazhengbowen/0_00006
+  rotate: true
+  xy: 1240, 465
+  size: 287, 134
+  orig: 304, 143
+  offset: 17, 0
+  index: -1
+eff/skill1/fazhengbowen/0_00007
+  rotate: false
+  xy: 975, 1903
+  size: 292, 134
+  orig: 304, 143
+  offset: 10, 0
+  index: -1
+eff/skill1/fazhengbowen/0_00008
+  rotate: false
+  xy: 969, 1329
+  size: 300, 134
+  orig: 304, 143
+  offset: 4, 0
+  index: -1
+eff/skill1/fazhengbowen/0_00009
+  rotate: false
+  xy: 967, 754
+  size: 304, 135
+  orig: 304, 143
+  offset: 0, 0
+  index: -1
+eff/skill1/fazhengbowen/0_00010
+  rotate: true
+  xy: 1390, 890
+  size: 300, 119
+  orig: 304, 143
+  offset: 4, 16
+  index: -1
+eff/skill1/fazhengbowen/0_00011
+  rotate: true
+  xy: 1271, 1192
+  size: 297, 123
+  orig: 304, 143
+  offset: 7, 12
+  index: -1
+eff/skill1/fazhengbowen/0_00012
+  rotate: true
+  xy: 1269, 1734
+  size: 303, 124
+  orig: 304, 143
+  offset: 1, 8
+  index: -1
+eff/skill1/fazhengbowen/0_00013
+  rotate: true
+  xy: 1395, 1741
+  size: 296, 119
+  orig: 304, 143
+  offset: 8, 7
+  index: -1
+eff/skill1/fazhengbowen/0_00014
+  rotate: false
+  xy: 1273, 764
+  size: 274, 124
+  orig: 304, 143
+  offset: 14, 3
+  index: -1
+eff/skill1/qiu/0_00000
+  rotate: false
+  xy: 1396, 1227
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+eff/skill1/shouji/0_00000
+  rotate: false
+  xy: 0, 1626
+  size: 399, 411
+  orig: 399, 426
+  offset: 0, 7
+  index: -1
+eff/skill1/shouji/0_00001
+  rotate: false
+  xy: 0, 294
+  size: 377, 296
+  orig: 399, 426
+  offset: 17, 51
+  index: -1
+eff/skill1/shouji/0_00002
+  rotate: false
+  xy: 0, 914
+  size: 393, 339
+  orig: 399, 426
+  offset: 3, 24
+  index: -1
+eff/skill1/shouji/0_00003
+  rotate: false
+  xy: 0, 1255
+  size: 399, 369
+  orig: 399, 426
+  offset: 0, 3
+  index: -1
+eff/skill1/shouji/0_00004
+  rotate: false
+  xy: 0, 592
+  size: 391, 320
+  orig: 399, 426
+  offset: 8, 46
+  index: -1
+eff/skill1/shouji/0_00005
+  rotate: false
+  xy: 0, 0
+  size: 297, 292
+  orig: 399, 426
+  offset: 57, 51
+  index: -1
+eff/skill1/shouji/0_00006
+  rotate: false
+  xy: 299, 0
+  size: 289, 292
+  orig: 399, 426
+  offset: 62, 51
+  index: -1
+eff/skill1/shouji/0_00007
+  rotate: false
+  xy: 1256, 1562
+  size: 210, 170
+  orig: 399, 426
+  offset: 90, 132
+  index: -1
+eff/skill1/shouji/0_00008
+  rotate: true
+  xy: 1396, 1351
+  size: 209, 168
+  orig: 399, 426
+  offset: 91, 133
+  index: -1

@@ -1,0 +1,83 @@
+
+xuchu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/dimian/dimian_00009
+  rotate: false
+  xy: 414, 80
+  size: 186, 129
+  orig: 515, 205
+  offset: 159, 34
+  index: -1
+skill1/dimian/dimian_00011
+  rotate: true
+  xy: 791, 166
+  size: 338, 160
+  orig: 515, 205
+  offset: 86, 19
+  index: -1
+skill1/dimian/dimian_00013
+  rotate: false
+  xy: 1, 335
+  size: 419, 169
+  orig: 515, 205
+  offset: 49, 15
+  index: -1
+skill1/dimian/dimian_00015
+  rotate: false
+  xy: 422, 356
+  size: 367, 148
+  orig: 515, 205
+  offset: 68, 26
+  index: -1
+skill1/dimian/dimian_00017
+  rotate: false
+  xy: 422, 211
+  size: 349, 143
+  orig: 515, 205
+  offset: 77, 30
+  index: -1
+skill1/dimian/dimian_00019
+  rotate: false
+  xy: 1, 191
+  size: 299, 142
+  orig: 515, 205
+  offset: 102, 34
+  index: -1
+skill1/dimian/dimian_00021
+  rotate: false
+  xy: 1, 52
+  size: 259, 137
+  orig: 515, 205
+  offset: 108, 39
+  index: -1
+skill1/dimian/dimian_00023
+  rotate: true
+  xy: 302, 74
+  size: 259, 110
+  orig: 515, 205
+  offset: 106, 48
+  index: -1
+skill1/dimian/dimian_00025
+  rotate: true
+  xy: 602, 1
+  size: 208, 73
+  orig: 515, 205
+  offset: 156, 64
+  index: -1
+skill1/dimian/dimian_00027
+  rotate: true
+  xy: 677, 1
+  size: 208, 73
+  orig: 515, 205
+  offset: 156, 64
+  index: -1
+skill1/dimian/dimian_00029
+  rotate: false
+  xy: 752, 91
+  size: 206, 73
+  orig: 515, 205
+  offset: 157, 64
+  index: -1

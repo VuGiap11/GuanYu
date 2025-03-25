@@ -1,0 +1,83 @@
+
+xuzhu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/sk1/js/0_00000
+  rotate: false
+  xy: 0, 0
+  size: 454, 91
+  orig: 810, 180
+  offset: 180, 26
+  index: -1
+effect/sk1/js/0_00002
+  rotate: false
+  xy: 0, 176
+  size: 594, 163
+  orig: 810, 180
+  offset: 96, 10
+  index: -1
+effect/sk1/js/0_00004
+  rotate: true
+  xy: 812, 318
+  size: 664, 156
+  orig: 810, 180
+  offset: 57, 14
+  index: -1
+effect/sk1/js/0_00006
+  rotate: false
+  xy: 0, 654
+  size: 792, 160
+  orig: 810, 180
+  offset: 18, 7
+  index: -1
+effect/sk1/js/0_00008
+  rotate: false
+  xy: 0, 495
+  size: 806, 157
+  orig: 810, 180
+  offset: 4, 9
+  index: -1
+effect/sk1/js/0_00010
+  rotate: false
+  xy: 0, 816
+  size: 810, 166
+  orig: 810, 180
+  offset: 0, 0
+  index: -1
+effect/sk1/js/0_00012
+  rotate: false
+  xy: 0, 341
+  size: 792, 152
+  orig: 810, 180
+  offset: 17, 0
+  index: -1
+effect/sk1/js/0_00014
+  rotate: false
+  xy: 0, 93
+  size: 570, 81
+  orig: 810, 180
+  offset: 181, 44
+  index: -1
+effect/sk1/q/0_00000
+  rotate: false
+  xy: 456, 34
+  size: 25, 57
+  orig: 54, 207
+  offset: 26, 78
+  index: -1
+effect/sk1/q/0_00002
+  rotate: false
+  xy: 596, 136
+  size: 54, 203
+  orig: 54, 207
+  offset: 0, 2
+  index: -1
+effect/sk1/q/0_00004
+  rotate: false
+  xy: 652, 132
+  size: 44, 207
+  orig: 54, 207
+  offset: 0, 0
+  index: -1

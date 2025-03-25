@@ -1,0 +1,41 @@
+
+lvmeng.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill/yan/1_00066
+  rotate: true
+  xy: 172, 0
+  size: 87, 29
+  orig: 215, 92
+  offset: 116, 17
+  index: -1
+skill/yan/1_00070
+  rotate: true
+  xy: 196, 89
+  size: 167, 41
+  orig: 215, 92
+  offset: 42, 12
+  index: -1
+skill/yan/1_00074
+  rotate: false
+  xy: 0, 178
+  size: 194, 78
+  orig: 215, 92
+  offset: 12, 4
+  index: -1
+skill/yan/1_00078
+  rotate: false
+  xy: 0, 94
+  size: 172, 82
+  orig: 215, 92
+  offset: 7, 4
+  index: -1
+skill/yan/1_00082
+  rotate: false
+  xy: 0, 13
+  size: 170, 79
+  orig: 215, 92
+  offset: 5, 3
+  index: -1

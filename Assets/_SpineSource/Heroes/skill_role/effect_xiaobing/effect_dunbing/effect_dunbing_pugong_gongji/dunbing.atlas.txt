@@ -1,0 +1,69 @@
+
+dunbing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huahen_1
+  rotate: false
+  xy: 0, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huahen_2
+  rotate: false
+  xy: 0, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huahen_3
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huahen_4
+  rotate: false
+  xy: 130, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huahen_5
+  rotate: false
+  xy: 130, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huahen_6
+  rotate: false
+  xy: 130, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huahen_7
+  rotate: false
+  xy: 260, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huahen_8
+  rotate: false
+  xy: 260, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huahen_9
+  rotate: false
+  xy: 260, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

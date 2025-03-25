@@ -1,0 +1,104 @@
+
+pangtong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TP/pugong/tuowei/tuowei_00039
+  rotate: true
+  xy: 73, 91
+  size: 163, 68
+  orig: 317, 84
+  offset: 133, 9
+  index: -1
+TP/pugong/tuowei/tuowei_00041
+  rotate: false
+  xy: 0, 431
+  size: 268, 74
+  orig: 317, 84
+  offset: 32, 8
+  index: -1
+TP/pugong/tuowei/tuowei_00043
+  rotate: true
+  xy: 0, 0
+  size: 254, 71
+  orig: 317, 84
+  offset: 46, 9
+  index: -1
+TP/pugong/tuowei/tuowei_00045
+  rotate: true
+  xy: 428, 356
+  size: 149, 63
+  orig: 317, 84
+  offset: 145, 10
+  index: -1
+chibang_L
+  rotate: false
+  xy: 235, 147
+  size: 138, 174
+  orig: 138, 174
+  offset: 0, 0
+  index: -1
+chibang_R
+  rotate: true
+  xy: 270, 323
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+niaotou
+  rotate: true
+  xy: 211, 89
+  size: 56, 77
+  orig: 56, 78
+  offset: 0, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 375, 44
+  size: 126, 109
+  orig: 126, 109
+  offset: 0, 0
+  index: -1
+weiba_1
+  rotate: false
+  xy: 375, 172
+  size: 120, 149
+  orig: 120, 149
+  offset: 0, 0
+  index: -1
+weiba_2
+  rotate: false
+  xy: 0, 256
+  size: 149, 173
+  orig: 149, 173
+  offset: 0, 0
+  index: -1
+weiba_3
+  rotate: false
+  xy: 151, 199
+  size: 82, 230
+  orig: 82, 230
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: false
+  xy: 143, 127
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+zhuazi_L
+  rotate: true
+  xy: 143, 83
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+zhuazi_R
+  rotate: false
+  xy: 235, 403
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

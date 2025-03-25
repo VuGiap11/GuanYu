@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic/bda/bda_00000
+  rotate: false
+  xy: 2, 356
+  size: 216, 184
+  orig: 382, 283
+  offset: 71, 44
+  index: -1
+pic/bda/bda_00001
+  rotate: false
+  xy: 704, 392
+  size: 292, 260
+  orig: 382, 283
+  offset: 49, 11
+  index: -1
+pic/bda/bda_00003
+  rotate: false
+  xy: 2, 542
+  size: 310, 224
+  orig: 382, 283
+  offset: 40, 34
+  index: -1
+pic/bda/bda_00005
+  rotate: false
+  xy: 362, 539
+  size: 340, 234
+  orig: 382, 283
+  offset: 30, 27
+  index: -1
+pic/bda/bda_00007
+  rotate: false
+  xy: 2, 768
+  size: 358, 243
+  orig: 382, 283
+  offset: 23, 25
+  index: -1
+pic/bda/bda_00009
+  rotate: true
+  xy: 727, 654
+  size: 357, 236
+  orig: 382, 283
+  offset: 10, 36
+  index: -1
+pic/bda/bda_00010
+  rotate: false
+  xy: 362, 775
+  size: 363, 236
+  orig: 382, 283
+  offset: 6, 37
+  index: -1
+pic/gl_00043
+  rotate: false
+  xy: 965, 965
+  size: 46, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1

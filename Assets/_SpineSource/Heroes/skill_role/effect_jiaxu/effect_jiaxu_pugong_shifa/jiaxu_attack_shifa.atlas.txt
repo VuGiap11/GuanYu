@@ -1,0 +1,160 @@
+
+jiaxu_attack_shifa.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/ci/1_00017
+  rotate: true
+  xy: 473, 186
+  size: 48, 67
+  orig: 79, 112
+  offset: 3, 19
+  index: -1
+atk/ci/1_00018
+  rotate: true
+  xy: 502, 342
+  size: 63, 87
+  orig: 79, 112
+  offset: 2, 10
+  index: -1
+atk/ci/1_00019
+  rotate: false
+  xy: 578, 413
+  size: 70, 98
+  orig: 79, 112
+  offset: 2, 5
+  index: -1
+atk/ci/1_00020
+  rotate: false
+  xy: 473, 236
+  size: 74, 104
+  orig: 79, 112
+  offset: 2, 3
+  index: -1
+atk/ci/1_00021
+  rotate: false
+  xy: 502, 407
+  size: 74, 104
+  orig: 79, 112
+  offset: 2, 3
+  index: -1
+atk/fz_00017
+  rotate: false
+  xy: 1, 128
+  size: 188, 189
+  orig: 223, 212
+  offset: 12, 14
+  index: -1
+atk/glow_00000
+  rotate: true
+  xy: 542, 187
+  size: 47, 46
+  orig: 50, 50
+  offset: 1, 2
+  index: -1
+atk/ju/1_00001
+  rotate: true
+  xy: 191, 146
+  size: 181, 148
+  orig: 232, 189
+  offset: 30, 28
+  index: -1
+atk/ju/1_00004
+  rotate: true
+  xy: 1, 319
+  size: 192, 165
+  orig: 232, 189
+  offset: 17, 18
+  index: -1
+atk/ju/1_00006
+  rotate: true
+  xy: 168, 329
+  size: 182, 167
+  orig: 232, 189
+  offset: 24, 16
+  index: -1
+atk/ju/1_00008
+  rotate: true
+  xy: 337, 342
+  size: 169, 163
+  orig: 232, 189
+  offset: 31, 19
+  index: -1
+atk/ju/1_00010
+  rotate: false
+  xy: 367, 34
+  size: 146, 150
+  orig: 232, 189
+  offset: 39, 13
+  index: -1
+atk/ju/1_00012
+  rotate: true
+  xy: 201, 9
+  size: 135, 164
+  orig: 232, 189
+  offset: 43, 17
+  index: -1
+atk/ju/1_00014
+  rotate: false
+  xy: 341, 186
+  size: 130, 154
+  orig: 232, 189
+  offset: 55, 21
+  index: -1
+atk/ju/1_00016
+  rotate: true
+  xy: 107, 20
+  size: 106, 92
+  orig: 232, 189
+  offset: 66, 46
+  index: -1
+atk/quan_00017
+  rotate: false
+  xy: 515, 116
+  size: 39, 68
+  orig: 43, 74
+  offset: 2, 3
+  index: -1
+atk/sg/1_00017
+  rotate: false
+  xy: 549, 280
+  size: 59, 60
+  orig: 71, 73
+  offset: 6, 7
+  index: -1
+atk/sg/1_00021
+  rotate: false
+  xy: 549, 280
+  size: 59, 60
+  orig: 71, 73
+  offset: 6, 7
+  index: -1
+atk/sg/1_00018
+  rotate: true
+  xy: 515, 1
+  size: 55, 49
+  orig: 71, 73
+  offset: 8, 13
+  index: -1
+atk/sg/1_00019
+  rotate: true
+  xy: 591, 355
+  size: 56, 53
+  orig: 71, 73
+  offset: 6, 11
+  index: -1
+atk/sg/1_00020
+  rotate: true
+  xy: 515, 58
+  size: 56, 53
+  orig: 71, 73
+  offset: 6, 11
+  index: -1
+skill/quan_00020
+  rotate: false
+  xy: 1, 20
+  size: 104, 106
+  orig: 111, 119
+  offset: 4, 5
+  index: -1

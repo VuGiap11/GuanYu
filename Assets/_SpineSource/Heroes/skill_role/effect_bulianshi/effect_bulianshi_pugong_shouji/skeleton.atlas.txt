@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/1guangqiu/1_00000
+  rotate: true
+  xy: 0, 816
+  size: 52, 54
+  orig: 64, 64
+  offset: 6, 5
+  index: -1
+skill1/1shouji/1_00000
+  rotate: false
+  xy: 56, 765
+  size: 115, 103
+  orig: 260, 240
+  offset: 79, 76
+  index: -1
+skill1/1shouji/1_00001
+  rotate: true
+  xy: 690, 695
+  size: 173, 178
+  orig: 260, 240
+  offset: 43, 31
+  index: -1
+skill1/1shouji/1_00002
+  rotate: false
+  xy: 242, 240
+  size: 260, 240
+  orig: 260, 240
+  offset: 0, 0
+  index: -1
+skill1/1shouji/1_00003
+  rotate: false
+  xy: 504, 236
+  size: 253, 240
+  orig: 260, 240
+  offset: 3, 0
+  index: -1
+skill1/1shouji/1_00004
+  rotate: true
+  xy: 0, 261
+  size: 237, 240
+  orig: 260, 240
+  offset: 11, 0
+  index: -1
+skill1/1shouji/1_00005
+  rotate: true
+  xy: 608, 478
+  size: 215, 219
+  orig: 260, 240
+  offset: 22, 11
+  index: -1
+skill1/1shouji/1_00006
+  rotate: true
+  xy: 389, 482
+  size: 212, 217
+  orig: 260, 240
+  offset: 23, 12
+  index: -1
+skill1/1shouji/1_00007
+  rotate: true
+  xy: 189, 500
+  size: 196, 198
+  orig: 260, 240
+  offset: 32, 21
+  index: -1
+skill1/1shouji/1_00008
+  rotate: false
+  xy: 0, 515
+  size: 187, 182
+  orig: 260, 240
+  offset: 39, 29
+  index: -1
+skill1/1shouji/1_00009
+  rotate: false
+  xy: 173, 699
+  size: 169, 169
+  orig: 260, 240
+  offset: 41, 41
+  index: -1
+skill1/1shouji/1_00010
+  rotate: false
+  xy: 344, 698
+  size: 170, 170
+  orig: 260, 240
+  offset: 40, 41
+  index: -1
+skill1/1shouji/1_00011
+  rotate: false
+  xy: 516, 696
+  size: 172, 172
+  orig: 260, 240
+  offset: 39, 40
+  index: -1

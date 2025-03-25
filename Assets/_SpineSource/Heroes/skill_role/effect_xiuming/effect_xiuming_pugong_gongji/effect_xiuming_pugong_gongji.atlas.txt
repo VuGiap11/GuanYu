@@ -1,0 +1,83 @@
+
+effect_xiuming_pugong_gongji.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/skill0/guang/0_00000
+  rotate: false
+  xy: 200, 98
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+eff/skill0/shouji/0_00000
+  rotate: false
+  xy: 0, 1696
+  size: 306, 209
+  orig: 314, 209
+  offset: 0, 0
+  index: -1
+eff/skill0/shouji/0_00001
+  rotate: false
+  xy: 0, 345
+  size: 299, 180
+  orig: 314, 209
+  offset: 9, 16
+  index: -1
+eff/skill0/shouji/0_00002
+  rotate: false
+  xy: 0, 916
+  size: 301, 184
+  orig: 314, 209
+  offset: 11, 12
+  index: -1
+eff/skill0/shouji/0_00003
+  rotate: false
+  xy: 0, 1102
+  size: 297, 191
+  orig: 314, 209
+  offset: 17, 9
+  index: -1
+eff/skill0/shouji/0_00004
+  rotate: false
+  xy: 0, 1295
+  size: 304, 197
+  orig: 314, 209
+  offset: 10, 6
+  index: -1
+eff/skill0/shouji/0_00005
+  rotate: false
+  xy: 0, 1494
+  size: 302, 200
+  orig: 314, 209
+  offset: 8, 4
+  index: -1
+eff/skill0/shouji/0_00006
+  rotate: false
+  xy: 0, 720
+  size: 285, 194
+  orig: 314, 209
+  offset: 7, 7
+  index: -1
+eff/skill0/shouji/0_00007
+  rotate: false
+  xy: 0, 527
+  size: 282, 191
+  orig: 314, 209
+  offset: 9, 9
+  index: -1
+eff/skill0/shouji/0_00008
+  rotate: false
+  xy: 0, 161
+  size: 275, 182
+  orig: 314, 209
+  offset: 13, 12
+  index: -1
+eff/skill0/shouji/0_00009
+  rotate: false
+  xy: 0, 0
+  size: 198, 159
+  orig: 314, 209
+  offset: 91, 24
+  index: -1

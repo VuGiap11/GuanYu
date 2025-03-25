@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/attack/shouji/shj_000
+  rotate: true
+  xy: 520, 325
+  size: 203, 206
+  orig: 360, 360
+  offset: 81, 73
+  index: -1
+TX/attack/shouji/shj_002
+  rotate: true
+  xy: 1, 78
+  size: 315, 321
+  orig: 360, 360
+  offset: 25, 16
+  index: -1
+TX/attack/shouji/shj_004
+  rotate: true
+  xy: 324, 3
+  size: 320, 326
+  orig: 360, 360
+  offset: 23, 13
+  index: -1
+TX/attack/shouji/shj_006
+  rotate: true
+  xy: 652, 1
+  size: 322, 327
+  orig: 360, 360
+  offset: 22, 13
+  index: -1
+TX/attack/shouji/shj_008
+  rotate: false
+  xy: 161, 395
+  size: 205, 133
+  orig: 360, 360
+  offset: 75, 133
+  index: -1
+TX/attack/shouji/shj_010
+  rotate: false
+  xy: 368, 387
+  size: 150, 141
+  orig: 360, 360
+  offset: 67, 131
+  index: -1
+TX/attack/shouji/shj_012
+  rotate: false
+  xy: 1, 441
+  size: 158, 87
+  orig: 360, 360
+  offset: 60, 191
+  index: -1

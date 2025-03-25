@@ -1,0 +1,90 @@
+
+zuoci.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill0/baozha/baozha_00024
+  rotate: false
+  xy: 1, 582
+  size: 391, 403
+  orig: 412, 424
+  offset: 9, 10
+  index: -1
+skill0/baozha/baozha_00026
+  rotate: true
+  xy: 688, 681
+  size: 304, 287
+  orig: 412, 424
+  offset: 33, 66
+  index: -1
+skill0/baozha/baozha_00028
+  rotate: true
+  xy: 394, 668
+  size: 317, 292
+  orig: 412, 424
+  offset: 30, 69
+  index: -1
+skill0/baozha/baozha_00030
+  rotate: false
+  xy: 688, 413
+  size: 306, 266
+  orig: 412, 424
+  offset: 34, 88
+  index: -1
+skill0/baozha/baozha_00032
+  rotate: false
+  xy: 394, 413
+  size: 263, 253
+  orig: 412, 424
+  offset: 58, 81
+  index: -1
+skill0/baozha/baozha_00034
+  rotate: false
+  xy: 1, 341
+  size: 254, 239
+  orig: 412, 424
+  offset: 65, 79
+  index: -1
+skill0/baozha/baozha_00036
+  rotate: false
+  xy: 257, 174
+  size: 254, 237
+  orig: 412, 424
+  offset: 66, 80
+  index: -1
+skill0/baozha/baozha_00038
+  rotate: false
+  xy: 513, 182
+  size: 253, 229
+  orig: 412, 424
+  offset: 68, 82
+  index: -1
+skill0/baozha/baozha_00040
+  rotate: true
+  xy: 768, 161
+  size: 250, 217
+  orig: 412, 424
+  offset: 70, 85
+  index: -1
+skill0/baozha/baozha_00042
+  rotate: false
+  xy: 1, 144
+  size: 245, 195
+  orig: 412, 424
+  offset: 74, 89
+  index: -1
+skill0/baozha/baozha_00044
+  rotate: false
+  xy: 513, 1
+  size: 232, 179
+  orig: 412, 424
+  offset: 85, 95
+  index: -1
+skill0/baozha/baozha_00046
+  rotate: false
+  xy: 248, 14
+  size: 221, 158
+  orig: 412, 424
+  offset: 93, 109
+  index: -1

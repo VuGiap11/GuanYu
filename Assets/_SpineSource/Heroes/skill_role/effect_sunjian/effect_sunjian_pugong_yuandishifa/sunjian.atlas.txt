@@ -1,0 +1,83 @@
+
+sunjian.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/10/10_00024
+  rotate: false
+  xy: 0, 142
+  size: 100, 45
+  orig: 125, 120
+  offset: 2, 29
+  index: -1
+attack/10/10_00026
+  rotate: false
+  xy: 136, 200
+  size: 103, 47
+  orig: 125, 120
+  offset: 8, 29
+  index: -1
+attack/10/10_00028
+  rotate: false
+  xy: 136, 150
+  size: 95, 48
+  orig: 125, 120
+  offset: 16, 29
+  index: -1
+attack/10/10_00030
+  rotate: false
+  xy: 102, 103
+  size: 89, 45
+  orig: 125, 120
+  offset: 20, 29
+  index: -1
+attack/10/10_00032
+  rotate: false
+  xy: 0, 105
+  size: 74, 35
+  orig: 125, 120
+  offset: 36, 29
+  index: -1
+attack/4/4_00024
+  rotate: false
+  xy: 0, 189
+  size: 134, 58
+  orig: 139, 66
+  offset: 5, 4
+  index: -1
+attack/9_1/9_00025
+  rotate: false
+  xy: 102, 175
+  size: 21, 12
+  orig: 72, 39
+  offset: 0, 11
+  index: -1
+attack/9_1/9_00026
+  rotate: true
+  xy: 76, 89
+  size: 51, 20
+  orig: 72, 39
+  offset: 0, 8
+  index: -1
+attack/9_1/9_00028
+  rotate: false
+  xy: 193, 125
+  size: 54, 23
+  orig: 72, 39
+  offset: 0, 7
+  index: -1
+attack/9_1/9_00030
+  rotate: false
+  xy: 193, 95
+  size: 43, 28
+  orig: 72, 39
+  offset: 14, 5
+  index: -1
+attack/9_1/9_00031
+  rotate: false
+  xy: 0, 88
+  size: 44, 15
+  orig: 72, 39
+  offset: 17, 17
+  index: -1

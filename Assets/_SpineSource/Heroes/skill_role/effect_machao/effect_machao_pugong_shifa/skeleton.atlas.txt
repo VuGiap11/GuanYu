@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/attack/ci/ci_00
+  rotate: true
+  xy: 342, 473
+  size: 397, 114
+  orig: 498, 165
+  offset: 85, 24
+  index: -1
+TX/attack/ci/ci_02
+  rotate: false
+  xy: 0, 872
+  size: 477, 147
+  orig: 498, 165
+  offset: 11, 7
+  index: -1
+TX/attack/ci/ci_04
+  rotate: false
+  xy: 316, 320
+  size: 469, 151
+  orig: 498, 165
+  offset: 20, 5
+  index: -1
+TX/attack/ci/ci_06
+  rotate: false
+  xy: 458, 480
+  size: 404, 59
+  orig: 498, 165
+  offset: 43, 51
+  index: -1
+TX/attack/ci/ci_08
+  rotate: true
+  xy: 853, 632
+  size: 387, 53
+  orig: 498, 165
+  offset: 57, 54
+  index: -1
+TX/attack/ci/ci_10
+  rotate: true
+  xy: 908, 643
+  size: 376, 26
+  orig: 498, 165
+  offset: 63, 79
+  index: -1
+TX/attack/ci_37
+  rotate: true
+  xy: 0, 150
+  size: 376, 314
+  orig: 390, 332
+  offset: 0, 5
+  index: -1
+TX/attack/fashe/fas_00
+  rotate: false
+  xy: 751, 550
+  size: 87, 79
+  orig: 410, 392
+  offset: 160, 163
+  index: -1
+TX/attack/fashe/fas_02
+  rotate: true
+  xy: 0, 528
+  size: 342, 340
+  orig: 410, 392
+  offset: 32, 32
+  index: -1
+TX/attack/fashe/fas_04
+  rotate: true
+  xy: 479, 631
+  size: 388, 372
+  orig: 410, 392
+  offset: 10, 13
+  index: -1
+TX/attack/fashe/fas_06
+  rotate: false
+  xy: 936, 689
+  size: 32, 29
+  orig: 410, 392
+  offset: 190, 187
+  index: -1
+TX/attack/huichen/huic_00
+  rotate: true
+  xy: 787, 207
+  size: 155, 49
+  orig: 224, 91
+  offset: 60, 6
+  index: -1
+TX/attack/huichen/huic_02
+  rotate: false
+  xy: 840, 562
+  size: 179, 67
+  orig: 224, 91
+  offset: 24, 6
+  index: -1
+TX/attack/huichen/huic_04
+  rotate: true
+  xy: 936, 720
+  size: 173, 71
+  orig: 224, 91
+  offset: 20, 6
+  index: -1
+TX/attack/huichen/huic_06
+  rotate: true
+  xy: 936, 895
+  size: 124, 74
+  orig: 224, 91
+  offset: 15, 6
+  index: -1
+TX/attack/huichen/huic_08
+  rotate: true
+  xy: 787, 364
+  size: 114, 61
+  orig: 224, 91
+  offset: 11, 7
+  index: -1
+TX/effect_renyan
+  rotate: false
+  xy: 458, 541
+  size: 291, 88
+  orig: 302, 91
+  offset: 5, 3
+  index: -1

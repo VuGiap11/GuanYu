@@ -1,0 +1,62 @@
+
+gongjianshou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouji_1
+  rotate: false
+  xy: 0, 276
+  size: 230, 90
+  orig: 230, 90
+  offset: 0, 0
+  index: -1
+shouji_2
+  rotate: false
+  xy: 232, 276
+  size: 230, 90
+  orig: 230, 90
+  offset: 0, 0
+  index: -1
+shouji_3
+  rotate: false
+  xy: 0, 184
+  size: 230, 90
+  orig: 230, 90
+  offset: 0, 0
+  index: -1
+shouji_4
+  rotate: false
+  xy: 232, 184
+  size: 230, 90
+  orig: 230, 90
+  offset: 0, 0
+  index: -1
+shouji_5
+  rotate: false
+  xy: 0, 92
+  size: 230, 90
+  orig: 230, 90
+  offset: 0, 0
+  index: -1
+shouji_6
+  rotate: false
+  xy: 232, 92
+  size: 230, 90
+  orig: 230, 90
+  offset: 0, 0
+  index: -1
+shouji_7
+  rotate: false
+  xy: 0, 0
+  size: 230, 90
+  orig: 230, 90
+  offset: 0, 0
+  index: -1
+shouji_8
+  rotate: false
+  xy: 232, 0
+  size: 230, 90
+  orig: 230, 90
+  offset: 0, 0
+  index: -1

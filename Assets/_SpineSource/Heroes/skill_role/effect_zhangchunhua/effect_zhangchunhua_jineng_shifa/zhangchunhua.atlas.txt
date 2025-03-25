@@ -1,0 +1,104 @@
+
+zhangchunhua.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk/rao/1_00045
+  rotate: true
+  xy: 476, 326
+  size: 186, 127
+  orig: 231, 217
+  offset: 28, 48
+  index: -1
+atk/rao/1_00046
+  rotate: true
+  xy: 191, 302
+  size: 210, 153
+  orig: 231, 217
+  offset: 16, 32
+  index: -1
+atk/rao/1_00048
+  rotate: true
+  xy: 257, 98
+  size: 202, 158
+  orig: 231, 217
+  offset: 16, 29
+  index: -1
+atk/rao/1_00050
+  rotate: true
+  xy: 346, 313
+  size: 199, 128
+  orig: 231, 217
+  offset: 19, 48
+  index: -1
+atk/rao/1_00052
+  rotate: true
+  xy: 417, 114
+  size: 197, 107
+  orig: 231, 217
+  offset: 14, 63
+  index: -1
+atk/rao/1_00054
+  rotate: true
+  xy: 526, 140
+  size: 184, 97
+  orig: 231, 217
+  offset: 20, 71
+  index: -1
+atk/rao/1_00056
+  rotate: false
+  xy: 257, 4
+  size: 144, 92
+  orig: 231, 217
+  offset: 32, 67
+  index: -1
+atk/rao/1_00058
+  rotate: false
+  xy: 403, 12
+  size: 121, 84
+  orig: 231, 217
+  offset: 36, 60
+  index: -1
+atk/yan2/1_00015
+  rotate: false
+  xy: 0, 0
+  size: 103, 58
+  orig: 252, 115
+  offset: 93, 16
+  index: -1
+atk/yan2/1_00016
+  rotate: true
+  xy: 164, 78
+  size: 212, 91
+  orig: 252, 115
+  offset: 20, 7
+  index: -1
+atk/yan2/1_00017
+  rotate: true
+  xy: 95, 292
+  size: 220, 94
+  orig: 252, 115
+  offset: 16, 7
+  index: -1
+atk/yan2/1_00019
+  rotate: true
+  xy: 0, 60
+  size: 225, 92
+  orig: 252, 115
+  offset: 14, 11
+  index: -1
+atk/yan2/1_00021
+  rotate: true
+  xy: 0, 287
+  size: 225, 93
+  orig: 252, 115
+  offset: 14, 11
+  index: -1
+atk/yan2/1_00023
+  rotate: true
+  xy: 94, 61
+  size: 224, 68
+  orig: 252, 115
+  offset: 17, 17
+  index: -1

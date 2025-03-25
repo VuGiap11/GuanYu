@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/BHtexture_glow
+  rotate: false
+  xy: 660, 432
+  size: 144, 144
+  orig: 154, 154
+  offset: 5, 5
+  index: -1
+effect/BHtexture_glow1
+  rotate: false
+  xy: 0, 365
+  size: 658, 658
+  orig: 698, 698
+  offset: 20, 20
+  index: -1
+effect/dtg1
+  rotate: false
+  xy: 0, 120
+  size: 263, 243
+  orig: 307, 307
+  offset: 8, 63
+  index: -1
+effect/tiaoqi_00000
+  rotate: true
+  xy: 825, 807
+  size: 216, 156
+  orig: 360, 210
+  offset: 0, 32
+  index: -1
+effect/tiaoqi_00001
+  rotate: false
+  xy: 265, 34
+  size: 308, 163
+  orig: 360, 210
+  offset: 10, 28
+  index: -1
+effect/tiaoqi_00002
+  rotate: true
+  xy: 660, 719
+  size: 304, 163
+  orig: 360, 210
+  offset: 24, 28
+  index: -1
+effect/tiaoqi_00003
+  rotate: false
+  xy: 583, 200
+  size: 315, 163
+  orig: 360, 210
+  offset: 24, 28
+  index: -1
+effect/tiaoqi_00004
+  rotate: false
+  xy: 265, 199
+  size: 316, 164
+  orig: 360, 210
+  offset: 30, 27
+  index: -1
+effect/tiaoqi_00005
+  rotate: false
+  xy: 583, 34
+  size: 309, 164
+  orig: 360, 210
+  offset: 35, 27
+  index: -1
+effect/tiaoqi_00006
+  rotate: false
+  xy: 660, 578
+  size: 285, 139
+  orig: 360, 210
+  offset: 59, 44
+  index: -1
+effect/tiaoqi_00007
+  rotate: false
+  xy: 806, 443
+  size: 204, 133
+  orig: 360, 210
+  offset: 117, 44
+  index: -1
+effect/xuanwo
+  rotate: false
+  xy: 916, 733
+  size: 74, 72
+  orig: 77, 77
+  offset: 2, 4
+  index: -1
+effect/yanchen_00000
+  rotate: false
+  xy: 88, 25
+  size: 22, 17
+  orig: 115, 115
+  offset: 87, 22
+  index: -1
+effect/yanchen_00002
+  rotate: false
+  xy: 947, 600
+  size: 76, 52
+  orig: 115, 115
+  offset: 35, 16
+  index: -1
+effect/yanchen_00004
+  rotate: false
+  xy: 825, 732
+  size: 89, 73
+  orig: 115, 115
+  offset: 21, 12
+  index: -1
+effect/yanchen_00006
+  rotate: true
+  xy: 183, 28
+  size: 90, 73
+  orig: 115, 115
+  offset: 19, 12
+  index: -1
+effect/yanchen_00008
+  rotate: false
+  xy: 894, 27
+  size: 92, 75
+  orig: 115, 115
+  offset: 16, 12
+  index: -1
+effect/yanchen_00010
+  rotate: false
+  xy: 88, 44
+  size: 93, 74
+  orig: 115, 115
+  offset: 15, 12
+  index: -1
+effect/yanchen_00012
+  rotate: true
+  xy: 894, 104
+  size: 94, 75
+  orig: 115, 115
+  offset: 12, 12
+  index: -1
+effect/yanchen_00014
+  rotate: false
+  xy: 0, 43
+  size: 86, 75
+  orig: 115, 115
+  offset: 10, 12
+  index: -1
+effect/yanchen_00015
+  rotate: false
+  xy: 947, 654
+  size: 57, 77
+  orig: 115, 115
+  offset: 10, 11
+  index: -1

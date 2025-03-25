@@ -1,0 +1,111 @@
+
+xiaoqiao.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/atk/sf/y/0_00000
+  rotate: false
+  xy: 336, 574
+  size: 47, 22
+  orig: 280, 80
+  offset: 83, 3
+  index: -1
+effect/atk/sf/y/0_00002
+  rotate: true
+  xy: 336, 656
+  size: 80, 52
+  orig: 280, 80
+  offset: 45, 3
+  index: -1
+effect/atk/sf/y/0_00004
+  rotate: true
+  xy: 269, 537
+  size: 199, 65
+  orig: 280, 80
+  offset: 19, 0
+  index: -1
+effect/atk/sf/y/0_00006
+  rotate: true
+  xy: 278, 1
+  size: 244, 70
+  orig: 280, 80
+  offset: 10, 1
+  index: -1
+effect/atk/sf/y/0_00008
+  rotate: true
+  xy: 268, 738
+  size: 265, 73
+  orig: 280, 80
+  offset: 7, 2
+  index: -1
+effect/atk/sf/y/0_00010
+  rotate: false
+  xy: 1, 22
+  size: 271, 76
+  orig: 280, 80
+  offset: 5, 1
+  index: -1
+effect/atk/sf/y/0_00012
+  rotate: false
+  xy: 1, 100
+  size: 275, 75
+  orig: 280, 80
+  offset: 4, 2
+  index: -1
+effect/atk/sf/y/0_00014
+  rotate: true
+  xy: 265, 247
+  size: 275, 74
+  orig: 280, 80
+  offset: 5, 2
+  index: -1
+effect/atk/sf/z/0_00000
+  rotate: false
+  xy: 1, 389
+  size: 262, 133
+  orig: 270, 170
+  offset: 5, 14
+  index: -1
+effect/atk/sf/z/0_00002
+  rotate: false
+  xy: 1, 839
+  size: 262, 164
+  orig: 270, 170
+  offset: 5, 2
+  index: -1
+effect/atk/sf/z/0_00004
+  rotate: false
+  xy: 1, 676
+  size: 265, 161
+  orig: 270, 170
+  offset: 2, 4
+  index: -1
+effect/atk/sf/z/0_00006
+  rotate: false
+  xy: 1, 524
+  size: 266, 150
+  orig: 270, 170
+  offset: 1, 8
+  index: -1
+effect/atk/sf/z/0_00008
+  rotate: false
+  xy: 1, 277
+  size: 253, 110
+  orig: 270, 170
+  offset: 1, 37
+  index: -1
+effect/atk/sf/z/0_00010
+  rotate: false
+  xy: 1, 177
+  size: 215, 98
+  orig: 270, 170
+  offset: 22, 47
+  index: -1
+effect/gd_00000
+  rotate: false
+  xy: 336, 598
+  size: 54, 56
+  orig: 64, 64
+  offset: 5, 4
+  index: -1

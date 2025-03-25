@@ -1,0 +1,188 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/pugong/15/15_00030
+  rotate: true
+  xy: 2, 320
+  size: 190, 146
+  orig: 202, 152
+  offset: 5, 2
+  index: -1
+effect/pugong/15/15_00033
+  rotate: true
+  xy: 281, 171
+  size: 177, 146
+  orig: 202, 152
+  offset: 25, 3
+  index: -1
+effect/pugong/15/15_00036
+  rotate: true
+  xy: 537, 25
+  size: 163, 137
+  orig: 202, 152
+  offset: 39, 10
+  index: -1
+effect/pugong/15/15_00039
+  rotate: true
+  xy: 882, 365
+  size: 145, 115
+  orig: 202, 152
+  offset: 51, 25
+  index: -1
+effect/pugong/16/16_00016
+  rotate: false
+  xy: 2, 3
+  size: 167, 117
+  orig: 176, 123
+  offset: 5, 1
+  index: -1
+effect/pugong/16/16_00018
+  rotate: true
+  xy: 674, 221
+  size: 167, 119
+  orig: 176, 123
+  offset: 5, 2
+  index: -1
+effect/pugong/16/16_00020
+  rotate: false
+  xy: 171, 2
+  size: 168, 119
+  orig: 176, 123
+  offset: 5, 2
+  index: -1
+effect/pugong/16/16_00022
+  rotate: true
+  xy: 553, 220
+  size: 168, 119
+  orig: 176, 123
+  offset: 5, 2
+  index: -1
+effect/pugong/16/16_00024
+  rotate: false
+  xy: 719, 395
+  size: 161, 115
+  orig: 176, 123
+  offset: 10, 5
+  index: -1
+effect/pugong/16/16_00026
+  rotate: true
+  xy: 676, 97
+  size: 122, 103
+  orig: 176, 123
+  offset: 42, 12
+  index: -1
+effect/pugong/4/4_00000
+  rotate: false
+  xy: 795, 143
+  size: 80, 124
+  orig: 148, 206
+  offset: 27, 43
+  index: -1
+effect/pugong/4/4_00002
+  rotate: false
+  xy: 795, 269
+  size: 85, 124
+  orig: 148, 206
+  offset: 22, 41
+  index: -1
+effect/pugong/4/4_00004
+  rotate: false
+  xy: 802, 19
+  size: 70, 122
+  orig: 148, 206
+  offset: 37, 42
+  index: -1
+effect/pugong/4/4_00006
+  rotate: true
+  xy: 676, 25
+  size: 70, 124
+  orig: 148, 206
+  offset: 37, 40
+  index: -1
+effect/pugong/4/4_00008
+  rotate: false
+  xy: 874, 19
+  size: 61, 122
+  orig: 148, 206
+  offset: 46, 42
+  index: -1
+effect/pugong/4/4_00010
+  rotate: true
+  xy: 877, 191
+  size: 57, 122
+  orig: 148, 206
+  offset: 50, 41
+  index: -1
+effect/pugong/4/4_00012
+  rotate: true
+  xy: 150, 320
+  size: 54, 112
+  orig: 148, 206
+  offset: 52, 48
+  index: -1
+effect/pugong/4/4_00014
+  rotate: true
+  xy: 264, 350
+  size: 24, 62
+  orig: 148, 206
+  offset: 80, 89
+  index: -1
+effect/pugong/5/5_00000
+  rotate: false
+  xy: 2, 122
+  size: 139, 196
+  orig: 148, 206
+  offset: 9, 6
+  index: -1
+effect/pugong/5/5_00002
+  rotate: false
+  xy: 143, 123
+  size: 136, 195
+  orig: 148, 206
+  offset: 12, 6
+  index: -1
+effect/pugong/5/5_00004
+  rotate: true
+  xy: 150, 376
+  size: 134, 196
+  orig: 148, 206
+  offset: 14, 5
+  index: -1
+effect/pugong/5/5_00006
+  rotate: true
+  xy: 348, 379
+  size: 131, 196
+  orig: 148, 206
+  offset: 17, 5
+  index: -1
+effect/pugong/5/5_00008
+  rotate: true
+  xy: 341, 42
+  size: 127, 194
+  orig: 148, 206
+  offset: 21, 6
+  index: -1
+effect/pugong/5/5_00010
+  rotate: false
+  xy: 429, 190
+  size: 122, 187
+  orig: 148, 206
+  offset: 26, 10
+  index: -1
+effect/pugong/5/5_00012
+  rotate: true
+  xy: 546, 390
+  size: 120, 171
+  orig: 148, 206
+  offset: 28, 20
+  index: -1
+effect/pugong/5/5_00014
+  rotate: true
+  xy: 882, 250
+  size: 113, 130
+  orig: 148, 206
+  offset: 32, 42
+  index: -1

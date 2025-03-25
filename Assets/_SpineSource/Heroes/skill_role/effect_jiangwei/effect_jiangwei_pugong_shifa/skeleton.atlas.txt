@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/caihong2_00000
+  rotate: false
+  xy: 0, 334
+  size: 349, 177
+  orig: 400, 400
+  offset: 26, 21
+  index: -1
+effect/caihonga
+  rotate: false
+  xy: 349, 86
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/caihongxian
+  rotate: false
+  xy: 0, 286
+  size: 220, 46
+  orig: 256, 256
+  offset: 18, 105
+  index: -1
+effect/jianshe_00000
+  rotate: true
+  xy: 112, 76
+  size: 108, 109
+  orig: 192, 192
+  offset: 45, 13
+  index: -1
+effect/jianshe_00001
+  rotate: false
+  xy: 351, 216
+  size: 134, 139
+  orig: 192, 192
+  offset: 28, 17
+  index: -1
+effect/jianshe_00002
+  rotate: false
+  xy: 351, 357
+  size: 151, 154
+  orig: 192, 192
+  offset: 13, 22
+  index: -1
+effect/jianshe_00003
+  rotate: true
+  xy: 222, 186
+  size: 146, 125
+  orig: 192, 192
+  offset: 14, 49
+  index: -1
+effect/jianshe_00004
+  rotate: true
+  xy: 0, 149
+  size: 135, 110
+  orig: 192, 192
+  offset: 20, 61
+  index: -1
+effect/jianshe_00005
+  rotate: true
+  xy: 0, 27
+  size: 120, 88
+  orig: 192, 192
+  offset: 30, 77
+  index: -1
+effect/jianshe_00006
+  rotate: false
+  xy: 112, 216
+  size: 97, 68
+  orig: 192, 192
+  offset: 39, 90
+  index: -1
+effect/jianshe_00007
+  rotate: true
+  xy: 479, 139
+  size: 75, 32
+  orig: 192, 192
+  offset: 56, 102
+  index: -1

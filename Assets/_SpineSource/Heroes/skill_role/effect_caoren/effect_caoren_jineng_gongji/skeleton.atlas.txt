@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/skill/ci01/ci01_00
+  rotate: false
+  xy: 1037, 560
+  size: 421, 315
+  orig: 492, 384
+  offset: 42, 22
+  index: -1
+TX/skill/ci01/ci01_02
+  rotate: false
+  xy: 1, 535
+  size: 421, 358
+  orig: 492, 384
+  offset: 42, 0
+  index: -1
+TX/skill/ci01/ci01_04
+  rotate: false
+  xy: 1465, 876
+  size: 422, 359
+  orig: 492, 384
+  offset: 41, 0
+  index: -1
+TX/skill/ci01/ci01_06
+  rotate: false
+  xy: 1037, 877
+  size: 426, 358
+  orig: 492, 384
+  offset: 33, 4
+  index: -1
+TX/skill/ci01/ci01_08
+  rotate: false
+  xy: 1460, 533
+  size: 381, 341
+  orig: 492, 384
+  offset: 63, 12
+  index: -1
+TX/skill/ci01/ci01_10
+  rotate: false
+  xy: 424, 493
+  size: 349, 341
+  orig: 492, 384
+  offset: 83, 18
+  index: -1
+TX/skill/ci01/ci01_14
+  rotate: true
+  xy: 1, 255
+  size: 278, 343
+  orig: 492, 384
+  offset: 119, 18
+  index: -1
+TX/skill/ci01/ci01_16
+  rotate: true
+  xy: 1111, 277
+  size: 281, 335
+  orig: 492, 384
+  offset: 119, 18
+  index: -1
+TX/skill/ci01/ci01_20
+  rotate: true
+  xy: 1, 10
+  size: 243, 335
+  orig: 492, 384
+  offset: 119, 18
+  index: -1
+TX/skill/ci01/ci01_28
+  rotate: true
+  xy: 560, 837
+  size: 399, 475
+  orig: 984, 768
+  offset: 281, 60
+  index: -1
+TX/skill/ci02/ci02_00
+  rotate: false
+  xy: 338, 6
+  size: 274, 208
+  orig: 329, 360
+  offset: 16, 5
+  index: -1
+TX/skill/ci02/ci02_01
+  rotate: true
+  xy: 1111, 1
+  size: 274, 301
+  orig: 329, 360
+  offset: 16, 5
+  index: -1
+TX/skill/ci02/ci02_03
+  rotate: true
+  xy: 1448, 256
+  size: 275, 329
+  orig: 329, 360
+  offset: 15, 4
+  index: -1
+TX/skill/ci02/ci02_05
+  rotate: true
+  xy: 346, 216
+  size: 275, 327
+  orig: 329, 360
+  offset: 15, 4
+  index: -1
+TX/skill/ci02/ci02_09
+  rotate: true
+  xy: 1414, 10
+  size: 244, 309
+  orig: 329, 360
+  offset: 35, 4
+  index: -1
+TX/skill/ci02/ci02_13
+  rotate: true
+  xy: 1, 895
+  size: 341, 557
+  orig: 658, 720
+  offset: 118, 10
+  index: -1
+TX/skill/shouji01/shj01_00
+  rotate: false
+  xy: 775, 234
+  size: 334, 324
+  orig: 608, 564
+  offset: 141, 105
+  index: -1
+TX/skill/shouji01/shj01_01
+  rotate: true
+  xy: 521, 1238
+  size: 494, 487
+  orig: 608, 564
+  offset: 37, 30
+  index: -1
+TX/skill/shouji01/shj01_03
+  rotate: false
+  xy: 1, 1238
+  size: 518, 505
+  orig: 608, 564
+  offset: 34, 9
+  index: -1
+TX/skill/shouji01/shj01_05
+  rotate: true
+  xy: 1010, 1237
+  size: 506, 457
+  orig: 608, 564
+  offset: 61, 40
+  index: -1
+TX/skill/shouji01/shj01_07
+  rotate: true
+  xy: 1469, 1237
+  size: 488, 422
+  orig: 608, 564
+  offset: 78, 57
+  index: -1

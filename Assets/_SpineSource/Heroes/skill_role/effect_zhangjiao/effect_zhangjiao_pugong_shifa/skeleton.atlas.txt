@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/attack/guiji/guic_00
+  rotate: false
+  xy: 0, 888
+  size: 138, 48
+  orig: 235, 79
+  offset: 84, 6
+  index: -1
+TX/attack/guiji/guic_02
+  rotate: false
+  xy: 733, 864
+  size: 203, 72
+  orig: 235, 79
+  offset: 24, 6
+  index: -1
+TX/attack/guiji/guic_04
+  rotate: false
+  xy: 140, 884
+  size: 214, 52
+  orig: 235, 79
+  offset: 12, 8
+  index: -1
+TX/attack/guiji/guic_06
+  rotate: false
+  xy: 356, 882
+  size: 205, 54
+  orig: 235, 79
+  offset: 6, 9
+  index: -1
+TX/attack/xuli/quan/qua_00
+  rotate: false
+  xy: 0, 573
+  size: 210, 207
+  orig: 242, 228
+  offset: 14, 7
+  index: -1
+TX/attack/xuli/quan/qua_02
+  rotate: false
+  xy: 464, 548
+  size: 227, 216
+  orig: 242, 228
+  offset: 6, 6
+  index: -1
+TX/attack/xuli/quan/qua_04
+  rotate: true
+  xy: 693, 667
+  size: 195, 196
+  orig: 242, 228
+  offset: 22, 11
+  index: -1
+TX/attack/xuli/xx_00
+  rotate: false
+  xy: 212, 564
+  size: 250, 212
+  orig: 250, 225
+  offset: 0, 9
+  index: -1
+TX/attack/xuli/zhuanquan/zhq_00
+  rotate: true
+  xy: 563, 880
+  size: 56, 78
+  orig: 167, 170
+  offset: 18, 14
+  index: -1
+TX/attack/xuli/zhuanquan/zhq_02
+  rotate: false
+  xy: 0, 786
+  size: 135, 100
+  orig: 167, 170
+  offset: 23, 6
+  index: -1
+TX/attack/xuli/zhuanquan/zhq_04
+  rotate: true
+  xy: 547, 766
+  size: 111, 144
+  orig: 167, 170
+  offset: 50, 17
+  index: -1
+TX/attack/xuli/zhuanquan/zhq_06
+  rotate: true
+  xy: 137, 782
+  size: 100, 146
+  orig: 167, 170
+  offset: 53, 17
+  index: -1
+TX/attack/xuli/zhuanquan/zhq_08
+  rotate: true
+  xy: 403, 778
+  size: 102, 142
+  orig: 167, 170
+  offset: 48, 20
+  index: -1
+TX/attack/xuli/zhuanquan/zhq_10
+  rotate: true
+  xy: 285, 780
+  size: 100, 116
+  orig: 167, 170
+  offset: 45, 42
+  index: -1
+TX/attack/xuli/zhuanquan/zhq_12
+  rotate: false
+  xy: 643, 879
+  size: 88, 57
+  orig: 167, 170
+  offset: 48, 92
+  index: -1

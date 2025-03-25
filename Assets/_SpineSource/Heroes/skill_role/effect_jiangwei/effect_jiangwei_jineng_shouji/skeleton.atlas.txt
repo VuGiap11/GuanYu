@@ -1,0 +1,279 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baozha_00000
+  rotate: true
+  xy: 1828, 751
+  size: 282, 216
+  orig: 510, 450
+  offset: 117, 0
+  index: -1
+effect/baozha_00001
+  rotate: true
+  xy: 868, 147
+  size: 311, 276
+  orig: 510, 450
+  offset: 101, 0
+  index: -1
+effect/baozha_00002
+  rotate: true
+  xy: 334, 58
+  size: 375, 318
+  orig: 510, 450
+  offset: 74, 0
+  index: -1
+effect/baozha_00003
+  rotate: false
+  xy: 1452, 1412
+  size: 437, 358
+  orig: 510, 450
+  offset: 43, 0
+  index: -1
+effect/baozha_00004
+  rotate: false
+  xy: 973, 1663
+  size: 477, 381
+  orig: 510, 450
+  offset: 22, 0
+  index: -1
+effect/baozha_00005
+  rotate: false
+  xy: 0, 1640
+  size: 489, 404
+  orig: 510, 450
+  offset: 19, 0
+  index: -1
+effect/baozha_00006
+  rotate: true
+  xy: 0, 567
+  size: 382, 408
+  orig: 510, 450
+  offset: 59, 13
+  index: -1
+effect/baozha_00007
+  rotate: true
+  xy: 427, 715
+  size: 398, 409
+  orig: 510, 450
+  offset: 43, 12
+  index: -1
+effect/baozha_00008
+  rotate: true
+  xy: 917, 863
+  size: 408, 414
+  orig: 510, 450
+  offset: 36, 17
+  index: -1
+effect/baozha_00009
+  rotate: true
+  xy: 489, 1224
+  size: 395, 426
+  orig: 510, 450
+  offset: 67, 15
+  index: -1
+effect/baozha_00010
+  rotate: true
+  xy: 1402, 993
+  size: 417, 424
+  orig: 510, 450
+  offset: 65, 20
+  index: -1
+effect/baozha_00011
+  rotate: false
+  xy: 0, 951
+  size: 425, 424
+  orig: 510, 450
+  offset: 62, 20
+  index: -1
+effect/baozha_00012
+  rotate: true
+  xy: 968, 1273
+  size: 388, 432
+  orig: 510, 450
+  offset: 75, 17
+  index: -1
+effect/baozha_00013
+  rotate: true
+  xy: 0, 37
+  size: 396, 332
+  orig: 510, 450
+  offset: 69, 13
+  index: -1
+effect/baozha_00014
+  rotate: false
+  xy: 1333, 689
+  size: 407, 302
+  orig: 510, 450
+  offset: 64, 52
+  index: -1
+effect/baozha_00015
+  rotate: true
+  xy: 654, 90
+  size: 359, 212
+  orig: 510, 450
+  offset: 59, 54
+  index: -1
+effect/baozha_00016
+  rotate: false
+  xy: 1742, 544
+  size: 280, 205
+  orig: 510, 450
+  offset: 54, 67
+  index: -1
+effect/baozha_00017
+  rotate: false
+  xy: 969, 1894
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/baozhad_00000
+  rotate: false
+  xy: 410, 583
+  size: 397, 130
+  orig: 510, 210
+  offset: 59, 45
+  index: -1
+effect/baozhad_00001
+  rotate: false
+  xy: 1237, 557
+  size: 397, 130
+  orig: 510, 210
+  offset: 59, 45
+  index: -1
+effect/baozhad_00002
+  rotate: false
+  xy: 809, 460
+  size: 397, 130
+  orig: 510, 210
+  offset: 59, 45
+  index: -1
+effect/baozhad_00003
+  rotate: false
+  xy: 410, 451
+  size: 397, 130
+  orig: 510, 210
+  offset: 59, 45
+  index: -1
+effect/baozhad_00004
+  rotate: false
+  xy: 0, 435
+  size: 397, 130
+  orig: 510, 210
+  offset: 59, 45
+  index: -1
+effect/baozhad_00005
+  rotate: false
+  xy: 838, 592
+  size: 397, 131
+  orig: 510, 210
+  offset: 59, 44
+  index: -1
+effect/baozhad_00006
+  rotate: false
+  xy: 838, 725
+  size: 397, 136
+  orig: 510, 210
+  offset: 59, 39
+  index: -1
+effect/baozhad_00007
+  rotate: true
+  xy: 1891, 1035
+  size: 428, 140
+  orig: 510, 210
+  offset: 48, 33
+  index: -1
+effect/baozhad_00008
+  rotate: false
+  xy: 1452, 1772
+  size: 453, 146
+  orig: 510, 210
+  offset: 31, 27
+  index: -1
+effect/baozhad_00009
+  rotate: false
+  xy: 491, 1897
+  size: 480, 147
+  orig: 510, 210
+  offset: 26, 26
+  index: -1
+effect/baozhad_00010
+  rotate: false
+  xy: 491, 1755
+  size: 476, 140
+  orig: 510, 210
+  offset: 28, 26
+  index: -1
+effect/baozhad_00011
+  rotate: false
+  xy: 491, 1621
+  size: 475, 132
+  orig: 510, 210
+  offset: 29, 27
+  index: -1
+effect/baozhad_00012
+  rotate: false
+  xy: 0, 1508
+  size: 475, 130
+  orig: 510, 210
+  offset: 29, 28
+  index: -1
+effect/baozhad_00013
+  rotate: false
+  xy: 0, 1377
+  size: 472, 129
+  orig: 510, 210
+  offset: 31, 29
+  index: -1
+effect/baozhad_00014
+  rotate: false
+  xy: 1452, 1920
+  size: 472, 124
+  orig: 510, 210
+  offset: 31, 31
+  index: -1
+effect/baozhad_00015
+  rotate: true
+  xy: 1926, 1465
+  size: 463, 109
+  orig: 510, 210
+  offset: 37, 35
+  index: -1
+effect/baozhad_00016
+  rotate: false
+  xy: 427, 1115
+  size: 414, 107
+  orig: 510, 210
+  offset: 50, 36
+  index: -1
+effect/baozhad_00017
+  rotate: true
+  xy: 477, 1487
+  size: 151, 10
+  orig: 510, 210
+  offset: 187, 116
+  index: -1
+effect/shizixing_00000
+  rotate: false
+  xy: 1146, 149
+  size: 308, 309
+  orig: 480, 480
+  offset: 86, 70
+  index: -1
+effect/yuan1
+  rotate: false
+  xy: 1456, 340
+  size: 215, 215
+  orig: 307, 307
+  offset: 46, 46
+  index: -1
+effect/yuan2
+  rotate: false
+  xy: 1926, 1930
+  size: 114, 114
+  orig: 307, 307
+  offset: 96, 97
+  index: -1

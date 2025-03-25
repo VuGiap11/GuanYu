@@ -1,0 +1,174 @@
+
+yuanshao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1/di/di_00016
+  rotate: false
+  xy: 876, 380
+  size: 129, 131
+  orig: 215, 165
+  offset: 36, 21
+  index: -1
+skill1/di/di_00018
+  rotate: true
+  xy: 874, 193
+  size: 175, 149
+  orig: 215, 165
+  offset: 20, 8
+  index: -1
+skill1/di/di_00020
+  rotate: false
+  xy: 206, 55
+  size: 189, 156
+  orig: 215, 165
+  offset: 13, 6
+  index: -1
+skill1/di/di_00022
+  rotate: false
+  xy: 1, 222
+  size: 197, 157
+  orig: 215, 165
+  offset: 9, 4
+  index: -1
+skill1/di/di_00024
+  rotate: false
+  xy: 1, 68
+  size: 203, 152
+  orig: 215, 165
+  offset: 6, 3
+  index: -1
+skill1/di/di_00026
+  rotate: false
+  xy: 397, 76
+  size: 210, 106
+  orig: 215, 165
+  offset: 3, 2
+  index: -1
+skill1/di/di_00028
+  rotate: false
+  xy: 397, 1
+  size: 211, 73
+  orig: 215, 165
+  offset: 2, 2
+  index: -1
+skill1/di/di_00030
+  rotate: false
+  xy: 846, 88
+  size: 174, 27
+  orig: 215, 165
+  offset: 11, 45
+  index: -1
+skill1/di/di_00032
+  rotate: false
+  xy: 846, 117
+  size: 166, 30
+  orig: 215, 165
+  offset: 21, 43
+  index: -1
+skill1/fazheng/fazheng_00016
+  rotate: false
+  xy: 874, 669
+  size: 149, 149
+  orig: 161, 161
+  offset: 7, 6
+  index: -1
+skill1/guangdan/guangdan_00022
+  rotate: false
+  xy: 846, 149
+  size: 161, 42
+  orig: 172, 45
+  offset: 4, 2
+  index: -1
+skill1/guangzhu/guangzhu_00016
+  rotate: true
+  xy: 219, 382
+  size: 215, 217
+  orig: 248, 235
+  offset: 14, 10
+  index: -1
+skill1/guangzhu/guangzhu_00019
+  rotate: false
+  xy: 438, 382
+  size: 215, 215
+  orig: 248, 235
+  offset: 14, 12
+  index: -1
+skill1/guangzhu/guangzhu_00022
+  rotate: false
+  xy: 1, 381
+  size: 216, 216
+  orig: 248, 235
+  offset: 15, 11
+  index: -1
+skill1/guangzhu/guangzhu_00025
+  rotate: false
+  xy: 222, 599
+  size: 217, 219
+  orig: 248, 235
+  offset: 18, 8
+  index: -1
+skill1/guangzhu/guangzhu_00028
+  rotate: false
+  xy: 1, 599
+  size: 219, 219
+  orig: 248, 235
+  offset: 14, 8
+  index: -1
+skill1/guangzhu/guangzhu_00031
+  rotate: false
+  xy: 658, 599
+  size: 214, 219
+  orig: 248, 235
+  offset: 21, 8
+  index: -1
+skill1/guangzhu/guangzhu_00034
+  rotate: false
+  xy: 441, 599
+  size: 215, 219
+  orig: 248, 235
+  offset: 21, 8
+  index: -1
+skill1/guangzhu/guangzhu_00037
+  rotate: true
+  xy: 655, 193
+  size: 200, 217
+  orig: 248, 235
+  offset: 36, 9
+  index: -1
+skill1/guangzhu/guangzhu_00040
+  rotate: true
+  xy: 655, 395
+  size: 202, 219
+  orig: 248, 235
+  offset: 27, 8
+  index: -1
+skill1/guangzhu/guangzhu_00043
+  rotate: true
+  xy: 438, 184
+  size: 196, 207
+  orig: 248, 235
+  offset: 25, 11
+  index: -1
+skill1/guangzhu/guangzhu_00046
+  rotate: true
+  xy: 219, 213
+  size: 167, 203
+  orig: 248, 235
+  offset: 40, 14
+  index: -1
+skill1/guangzhu/guangzhu_00049
+  rotate: true
+  xy: 647, 44
+  size: 147, 197
+  orig: 248, 235
+  offset: 48, 18
+  index: -1
+skill1/guangzhu/guangzhu_00052
+  rotate: false
+  xy: 876, 513
+  size: 117, 154
+  orig: 248, 235
+  offset: 63, 26
+  index: -1

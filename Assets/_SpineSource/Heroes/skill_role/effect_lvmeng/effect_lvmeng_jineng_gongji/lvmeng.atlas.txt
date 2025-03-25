@@ -1,0 +1,97 @@
+
+lvmeng.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attack/glow_00067
+  rotate: false
+  xy: 473, 18
+  size: 41, 42
+  orig: 45, 46
+  offset: 2, 2
+  index: -1
+skill/hit/1_00099
+  rotate: false
+  xy: 415, 254
+  size: 85, 64
+  orig: 324, 182
+  offset: 122, 59
+  index: -1
+skill/hit/1_00100
+  rotate: true
+  xy: 253, 0
+  size: 233, 101
+  orig: 324, 182
+  offset: 49, 44
+  index: -1
+skill/hit/1_00101
+  rotate: true
+  xy: 356, 5
+  size: 244, 115
+  orig: 324, 182
+  offset: 43, 33
+  index: -1
+skill/hit/1_00103
+  rotate: true
+  xy: 290, 251
+  size: 260, 123
+  orig: 324, 182
+  offset: 35, 29
+  index: -1
+skill/hit/1_00105
+  rotate: true
+  xy: 148, 235
+  size: 276, 140
+  orig: 324, 182
+  offset: 27, 20
+  index: -1
+skill/hit/1_00107
+  rotate: true
+  xy: 0, 232
+  size: 279, 146
+  orig: 324, 182
+  offset: 26, 21
+  index: -1
+skill/hit/1_00109
+  rotate: true
+  xy: 0, 29
+  size: 201, 145
+  orig: 324, 182
+  offset: 55, 23
+  index: -1
+skill/hit/1_00111
+  rotate: true
+  xy: 147, 30
+  size: 200, 104
+  orig: 324, 182
+  offset: 58, 23
+  index: -1
+skill/hit/1_00113
+  rotate: true
+  xy: 524, 325
+  size: 186, 107
+  orig: 324, 182
+  offset: 76, 21
+  index: -1
+skill/hit/1_00115
+  rotate: true
+  xy: 473, 62
+  size: 190, 107
+  orig: 324, 182
+  offset: 74, 20
+  index: -1
+skill/hit/1_00117
+  rotate: true
+  xy: 415, 320
+  size: 191, 107
+  orig: 324, 182
+  offset: 73, 20
+  index: -1
+skill/x_00002
+  rotate: false
+  xy: 0, 3
+  size: 165, 24
+  orig: 168, 30
+  offset: 2, 2
+  index: -1

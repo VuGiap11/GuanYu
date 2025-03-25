@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/attack/shouji/shj_00
+  rotate: false
+  xy: 1349, 1
+  size: 324, 302
+  orig: 1008, 712
+  offset: 265, 191
+  index: -1
+TX/attack/shouji/shj_02
+  rotate: false
+  xy: 937, 1105
+  size: 916, 667
+  orig: 1008, 712
+  offset: 56, 15
+  index: -1
+TX/attack/shouji/shj_04
+  rotate: false
+  xy: 1, 1102
+  size: 934, 670
+  orig: 1008, 712
+  offset: 36, 14
+  index: -1
+TX/attack/shouji/shj_06
+  rotate: false
+  xy: 937, 635
+  size: 716, 468
+  orig: 1008, 712
+  offset: 258, 125
+  index: -1
+TX/attack/shouji/shj_08
+  rotate: false
+  xy: 1, 667
+  size: 692, 433
+  orig: 1008, 712
+  offset: 258, 130
+  index: -1
+TX/attack/shouji/shj_10
+  rotate: false
+  xy: 1, 272
+  size: 485, 393
+  orig: 1008, 712
+  offset: 383, 173
+  index: -1
+TX/attack/shouji/shj_12
+  rotate: false
+  xy: 488, 250
+  size: 450, 383
+  orig: 1008, 712
+  offset: 413, 180
+  index: -1
+TX/attack/shoujihuichen/huc_-10
+  rotate: false
+  xy: 940, 311
+  size: 504, 322
+  orig: 606, 356
+  offset: 17, 7
+  index: -1
+TX/attack/shoujihuichen/huc_-2
+  rotate: false
+  xy: 1675, 25
+  size: 272, 278
+  orig: 606, 356
+  offset: 300, 1
+  index: -1
+TX/attack/shoujihuichen/huc_-4
+  rotate: false
+  xy: 940, 20
+  size: 407, 289
+  orig: 606, 356
+  offset: 166, 1
+  index: -1
+TX/attack/shoujihuichen/huc_-6
+  rotate: true
+  xy: 1655, 665
+  size: 438, 303
+  orig: 606, 356
+  offset: 129, 2
+  index: -1
+TX/attack/shoujihuichen/huc_-8
+  rotate: false
+  xy: 1446, 305
+  size: 483, 328
+  orig: 606, 356
+  offset: 73, 4
+  index: -1

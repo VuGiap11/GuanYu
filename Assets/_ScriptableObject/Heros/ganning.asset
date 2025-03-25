@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 441267117eb82124a86ba962d3b6191c, type: 3}
+  m_Name: ganning
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 7870055126102402296, guid: 23604b33ef0f8724ba8bebc052e4fb37, type: 3}
+  nameHero: ganning
+  countAtk: 1
+  countSkill: 3
+  attackAudio: {fileID: 8300000, guid: c6d11aa1b7403994094f8a3ca7abc474, type: 3}
+  attackhitAudio: {fileID: 8300000, guid: e34123d26b9122943ad73e29585e9cc6, type: 3}
+  skillAudio: {fileID: 8300000, guid: 861453e8725d53c47ba22ab90dfef9c0, type: 3}
+  skillhitAudio: {fileID: 8300000, guid: adcf7af44bd30b446abbd43bdb918bfd, type: 3}

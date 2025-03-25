@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/skill_1/qitiao/1_00000
+  rotate: false
+  xy: 2, 232
+  size: 157, 83
+  orig: 256, 256
+  offset: 51, 85
+  index: -1
+eff/skill_1/qitiao/1_00001
+  rotate: false
+  xy: 2, 374
+  size: 248, 126
+  orig: 256, 256
+  offset: 7, 60
+  index: -1
+eff/skill_1/qitiao/1_00002
+  rotate: false
+  xy: 252, 375
+  size: 248, 125
+  orig: 256, 256
+  offset: 7, 61
+  index: -1
+eff/skill_1/qitiao/1_00003
+  rotate: false
+  xy: 252, 254
+  size: 247, 119
+  orig: 256, 256
+  offset: 7, 65
+  index: -1
+eff/skill_1/qitiao/1_00004
+  rotate: false
+  xy: 2, 317
+  size: 165, 55
+  orig: 256, 256
+  offset: 38, 102
+  index: -1

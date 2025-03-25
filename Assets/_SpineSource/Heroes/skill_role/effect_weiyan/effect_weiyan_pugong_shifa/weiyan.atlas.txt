@@ -1,0 +1,118 @@
+
+weiyan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/skill0_weiyan/hit/0_00000
+  rotate: true
+  xy: 371, 543
+  size: 329, 50
+  orig: 512, 160
+  offset: 56, 54
+  index: -1
+eff/skill0_weiyan/hit/0_00001
+  rotate: false
+  xy: 224, 304
+  size: 363, 130
+  orig: 512, 160
+  offset: 55, 15
+  index: -1
+eff/skill0_weiyan/hit/0_00003
+  rotate: false
+  xy: 1, 874
+  size: 441, 145
+  orig: 512, 160
+  offset: 60, 8
+  index: -1
+eff/skill0_weiyan/hit/0_00005
+  rotate: true
+  xy: 225, 436
+  size: 436, 144
+  orig: 512, 160
+  offset: 68, 8
+  index: -1
+eff/skill0_weiyan/start/0_00000
+  rotate: true
+  xy: 816, 127
+  size: 131, 120
+  orig: 320, 320
+  offset: 97, 77
+  index: -1
+eff/skill0_weiyan/start/0_00001
+  rotate: false
+  xy: 679, 836
+  size: 320, 183
+  orig: 320, 320
+  offset: 0, 68
+  index: -1
+eff/skill0_weiyan/start/0_00002
+  rotate: true
+  xy: 804, 260
+  size: 273, 190
+  orig: 320, 320
+  offset: 26, 67
+  index: -1
+eff/skill0_weiyan/start/0_00003
+  rotate: true
+  xy: 1, 1
+  size: 264, 217
+  orig: 320, 320
+  offset: 29, 54
+  index: -1
+eff/skill0_weiyan/start/0_00004
+  rotate: true
+  xy: 444, 735
+  size: 284, 233
+  orig: 320, 320
+  offset: 24, 49
+  index: -1
+eff/skill0_weiyan/start/0_00005
+  rotate: true
+  xy: 1, 574
+  size: 298, 222
+  orig: 320, 320
+  offset: 19, 65
+  index: -1
+eff/skill0_weiyan/start/0_00006
+  rotate: true
+  xy: 1, 267
+  size: 305, 221
+  orig: 320, 320
+  offset: 15, 67
+  index: -1
+eff/skill0_weiyan/start/0_00007
+  rotate: false
+  xy: 423, 516
+  size: 305, 217
+  orig: 320, 320
+  offset: 15, 69
+  index: -1
+eff/skill0_weiyan/start/0_00008
+  rotate: true
+  xy: 589, 212
+  size: 302, 213
+  orig: 320, 320
+  offset: 18, 69
+  index: -1
+eff/skill0_weiyan/start/0_00009
+  rotate: true
+  xy: 730, 535
+  size: 299, 205
+  orig: 320, 320
+  offset: 21, 73
+  index: -1
+eff/skill0_weiyan/start/0_00010
+  rotate: false
+  xy: 224, 103
+  size: 296, 199
+  orig: 320, 320
+  offset: 24, 75
+  index: -1
+eff/skill0_weiyan/start/0_00011
+  rotate: false
+  xy: 522, 19
+  size: 292, 191
+  orig: 320, 320
+  offset: 28, 78
+  index: -1

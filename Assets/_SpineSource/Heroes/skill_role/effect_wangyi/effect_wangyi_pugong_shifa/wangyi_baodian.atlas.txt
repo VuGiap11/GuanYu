@@ -1,0 +1,181 @@
+
+wangyi_baodian.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack/11/11_00034
+  rotate: true
+  xy: 376, 2
+  size: 81, 20
+  orig: 186, 45
+  offset: 17, 10
+  index: -1
+effect/attack/11/11_00035
+  rotate: true
+  xy: 583, 25
+  size: 186, 43
+  orig: 186, 45
+  offset: 0, 2
+  index: -1
+effect/attack/11/11_00037
+  rotate: false
+  xy: 398, 41
+  size: 182, 42
+  orig: 186, 45
+  offset: 4, 1
+  index: -1
+effect/attack/11/11_00039
+  rotate: false
+  xy: 530, 196
+  size: 43, 15
+  orig: 186, 45
+  offset: 30, 13
+  index: -1
+effect/attack/2/2_00021
+  rotate: false
+  xy: 323, 85
+  size: 258, 104
+  orig: 319, 113
+  offset: 61, 5
+  index: -1
+effect/attack/2/2_00022
+  rotate: false
+  xy: 2, 73
+  size: 319, 107
+  orig: 319, 113
+  offset: 0, 0
+  index: -1
+effect/attack/2/2_00023
+  rotate: true
+  xy: 270, 191
+  size: 319, 91
+  orig: 319, 113
+  offset: 0, 17
+  index: -1
+effect/attack/2/2_00025
+  rotate: false
+  xy: 55, 6
+  size: 319, 65
+  orig: 319, 113
+  offset: 0, 24
+  index: -1
+effect/attack/2/2_00027
+  rotate: true
+  xy: 424, 195
+  size: 315, 63
+  orig: 319, 113
+  offset: 0, 25
+  index: -1
+effect/attack/2/2_00029
+  rotate: true
+  xy: 489, 202
+  size: 308, 39
+  orig: 319, 113
+  offset: 9, 40
+  index: -1
+effect/attack/2/2_00031
+  rotate: false
+  xy: 398, 2
+  size: 282, 21
+  orig: 319, 113
+  offset: 30, 46
+  index: -1
+effect/attack/3/3_00023
+  rotate: false
+  xy: 2, 3
+  size: 51, 68
+  orig: 71, 90
+  offset: 7, 10
+  index: -1
+effect/attack/3/3_00024
+  rotate: true
+  xy: 682, 2
+  size: 49, 54
+  orig: 71, 90
+  offset: 16, 31
+  index: -1
+effect/attack/4/4_00020
+  rotate: true
+  xy: 628, 26
+  size: 82, 26
+  orig: 116, 55
+  offset: 1, 9
+  index: -1
+effect/attack/4/4_00022
+  rotate: true
+  xy: 672, 113
+  size: 100, 30
+  orig: 116, 55
+  offset: 0, 5
+  index: -1
+effect/attack/4/4_00024
+  rotate: true
+  xy: 628, 110
+  size: 103, 42
+  orig: 116, 55
+  offset: 9, 3
+  index: -1
+effect/attack/4/4_00026
+  rotate: false
+  xy: 625, 215
+  size: 96, 46
+  orig: 116, 55
+  offset: 16, 3
+  index: -1
+effect/attack/4/4_00028
+  rotate: true
+  xy: 656, 53
+  size: 55, 35
+  orig: 116, 55
+  offset: 57, 5
+  index: -1
+effect/attack/5/5_00021
+  rotate: true
+  xy: 625, 263
+  size: 247, 104
+  orig: 347, 116
+  offset: 78, 7
+  index: -1
+effect/attack/5/5_00022
+  rotate: true
+  xy: 2, 182
+  size: 328, 109
+  orig: 347, 116
+  offset: 4, 0
+  index: -1
+effect/attack/5/5_00023
+  rotate: true
+  xy: 113, 185
+  size: 325, 92
+  orig: 347, 116
+  offset: 4, 18
+  index: -1
+effect/attack/5/5_00024
+  rotate: true
+  xy: 207, 189
+  size: 321, 61
+  orig: 347, 116
+  offset: 7, 30
+  index: -1
+effect/attack/5/5_00026
+  rotate: true
+  xy: 363, 192
+  size: 318, 59
+  orig: 347, 116
+  offset: 10, 28
+  index: -1
+effect/attack/5/5_00028
+  rotate: true
+  xy: 530, 213
+  size: 297, 58
+  orig: 347, 116
+  offset: 26, 27
+  index: -1
+effect/attack/5/5_00030
+  rotate: true
+  xy: 590, 227
+  size: 283, 33
+  orig: 347, 116
+  offset: 30, 45
+  index: -1

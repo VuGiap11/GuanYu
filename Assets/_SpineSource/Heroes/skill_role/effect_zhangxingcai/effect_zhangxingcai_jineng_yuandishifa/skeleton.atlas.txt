@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/skill/8/8_00017
+  rotate: false
+  xy: 376, 488
+  size: 128, 16
+  orig: 247, 80
+  offset: 114, 5
+  index: -1
+effect/skill/8/8_00018
+  rotate: false
+  xy: 2, 431
+  size: 171, 28
+  orig: 247, 80
+  offset: 71, 5
+  index: -1
+effect/skill/8/8_00019
+  rotate: false
+  xy: 2, 461
+  size: 196, 43
+  orig: 247, 80
+  offset: 40, 5
+  index: -1
+effect/skill/8/8_00021
+  rotate: false
+  xy: 200, 444
+  size: 174, 60
+  orig: 247, 80
+  offset: 16, 5
+  index: -1
+effect/skill/8/8_00023
+  rotate: false
+  xy: 175, 374
+  size: 153, 68
+  orig: 247, 80
+  offset: 9, 5
+  index: -1
+effect/skill/8/8_00025
+  rotate: false
+  xy: 2, 358
+  size: 151, 71
+  orig: 247, 80
+  offset: 0, 5
+  index: -1
+effect/skill/8/8_00027
+  rotate: false
+  xy: 376, 421
+  size: 106, 65
+  orig: 247, 80
+  offset: 24, 6
+  index: -1

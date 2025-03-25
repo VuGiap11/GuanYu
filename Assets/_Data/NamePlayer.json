@@ -1,0 +1,356 @@
+{
+"NamePlayerDatas":[
+ {
+  "Name": "Đàm Hà An",
+  "Id": 0
+ },
+ {
+  "Name": "Đinh Bảo An",
+  "Id": 1
+ },
+ {
+  "Name": "Đỗ Ngọc Bảo An",
+  "Id": 2
+ },
+ {
+  "Name": "Hoàng Hà An",
+  "Id": 3
+ },
+ {
+  "Name": "Lê Bảo An",
+  "Id": 4
+ },
+ {
+  "Name": "Lê Mai Hoài An",
+  "Id": 5
+ },
+ {
+  "Name": "Nguyễn Tú An",
+  "Id": 6
+ },
+ {
+  "Name": "Phạm Hoài An",
+  "Id": 7
+ },
+ {
+  "Name": "Phạm Khánh An",
+  "Id": 8
+ },
+ {
+  "Name": "Trần Bảo An",
+  "Id": 9
+ },
+ {
+  "Name": "Vũ Bảo An",
+  "Id": 10
+ },
+ {
+  "Name": "Vũ Bình An",
+  "Id": 0
+ },
+ {
+  "Name": "Bùi Ngọc Bảo Anh",
+  "Id": 1
+ },
+ {
+  "Name": "Bùi Nguyễn Linh Anh",
+  "Id": 2
+ },
+ {
+  "Name": "Dương Thùy Anh",
+  "Id": 3
+ },
+ {
+  "Name": "Đặng Châu Anh",
+  "Id": 4
+ },
+ {
+  "Name": "Đặng Kiều Anh",
+  "Id": 5
+ },
+ {
+  "Name": "Đinh Vũ Quỳnh Anh",
+  "Id": 6
+ },
+ {
+  "Name": "Đỗ Ngọc Bảo Anh",
+  "Id": 7
+ },
+ {
+  "Name": "Hà Minh Anh",
+  "Id": 8
+ },
+ {
+  "Name": "Hoàng Bảo Anh",
+  "Id": 9
+ },
+ {
+  "Name": "Lã Phương Anh",
+  "Id": 10
+ },
+ {
+  "Name": "Lê Minh Anh",
+  "Id": 0
+ },
+ {
+  "Name": "Lê Quỳnh Anh",
+  "Id": 1
+ },
+ {
+  "Name": "Lưu Phương Anh",
+  "Id": 2
+ },
+ {
+  "Name": "Ngô Đinh Diệp Anh",
+  "Id": 3
+ },
+ {
+  "Name": "Ngô Hồng Anh",
+  "Id": 4
+ },
+ {
+  "Name": "Nguyễn Bảo Anh",
+  "Id": 5
+ },
+ {
+  "Name": "Nguyễn Hà Diệu Anh",
+  "Id": 6
+ },
+ {
+  "Name": "Nguyễn Hồng Anh",
+  "Id": 7
+ },
+ {
+  "Name": "Nguyễn Lê Hà Anh",
+  "Id": 8
+ },
+ {
+  "Name": "Nguyễn Minh Anh",
+  "Id": 9
+ },
+ {
+  "Name": "Nguyễn Minh Anh",
+  "Id": 10
+ },
+ {
+  "Name": "Nguyễn Phạm Hoàng Anh",
+  "Id": 0
+ },
+ {
+  "Name": "Nguyễn Phương Anh",
+  "Id": 1
+ },
+ {
+  "Name": "Nguyễn Quỳnh Anh",
+  "Id": 2
+ },
+ {
+  "Name": "Nguyễn Thị Kim Anh",
+  "Id": 3
+ },
+ {
+  "Name": "Nguyễn Thị Quỳnh Anh",
+  "Id": 4
+ },
+ {
+  "Name": "Phạm Diệp Anh",
+  "Id": 5
+ },
+ {
+  "Name": "Phạm Ngọc Anh",
+  "Id": 6
+ },
+ {
+  "Name": "Phạm Nguyễn Hà Anh",
+  "Id": 7
+ },
+ {
+  "Name": "Phạm Phương Anh",
+  "Id": 8
+ },
+ {
+  "Name": "Phan Diệu Anh",
+  "Id": 9
+ },
+ {
+  "Name": "Thẩm Quỳnh Anh",
+  "Id": 10
+ },
+ {
+  "Name": "Trần Ngọc Anh",
+  "Id": 0
+ },
+ {
+  "Name": "Trần Quỳnh Anh",
+  "Id": 0
+ },
+ {
+  "Name": "Trịnh Thùy Anh",
+  "Id": 1
+ },
+ {
+  "Name": "Vũ Lê Bảo Anh",
+  "Id": 1
+ },
+ {
+  "Name": "Vũ Nguyệt Ánh",
+  "Id": 2
+ },
+ {
+  "Name": "Lâm Ngọc Minh Châu",
+  "Id": 2
+ },
+ {
+  "Name": "Đỗ Uyên Chi",
+  "Id": 3
+ },
+ {
+  "Name": "Lại Thuỳ Chi",
+  "Id": 3
+ },
+ {
+  "Name": "Lê Quỳnh Chi",
+  "Id": 4
+ },
+ {
+  "Name": "Lương Ngọc Khánh Chi",
+  "Id": 4
+ },
+ {
+  "Name": "Ngô Thùy Chi",
+  "Id": 5
+ },
+ {
+  "Name": "Nguyễn Ngọc Khánh Chi",
+  "Id": 5
+ },
+ {
+  "Name": "Nguyễn Ngọc Khánh Chi",
+  "Id": 6
+ },
+ {
+  "Name": "Phạm Thuỳ Chi",
+  "Id": 6
+ },
+ {
+  "Name": "Vũ Diệp Chi",
+  "Id": 7
+ },
+ {
+  "Name": "Vũ Lan Chi",
+  "Id": 7
+ },
+ {
+  "Name": "Vũ Lê Tùng Chi",
+  "Id": 8
+ },
+ {
+  "Name": "Đinh Ngọc Diệp",
+  "Id": 8
+ },
+ {
+  "Name": "Đinh Thái Ngọc Diệp",
+  "Id": 9
+ },
+ {
+  "Name": "Lê Ngọc Diệp",
+  "Id": 9
+ },
+ {
+  "Name": "Tạ Ngọc Diệp",
+  "Id": 10
+ },
+ {
+  "Name": "Lê Thùy Dương",
+  "Id": 10
+ },
+ {
+  "Name": "Nguyễn Thùy Dương",
+  "Id": 0
+ },
+ {
+  "Name": "Vũ Hoàng Tâm Đan",
+  "Id": 0
+ },
+ {
+  "Name": "Vũ Linh Đan",
+  "Id": 1
+ },
+ {
+  "Name": "Dương Hương Giang",
+  "Id": 1
+ },
+ {
+  "Name": "Đinh Thu Giang",
+  "Id": 2
+ },
+ {
+  "Name": "Nguyễn Hương Giang",
+  "Id": 2
+ },
+ {
+  "Name": "Vũ Thu Giang",
+  "Id": 3
+ },
+ {
+  "Name": "Bùi Thị Thu Hà",
+  "Id": 3
+ },
+ {
+  "Name": "Nguyễn Khánh Hà",
+  "Id": 4
+ },
+ {
+  "Name": "Đoàn Thị Thuý Hạnh",
+  "Id": 4
+ },
+ {
+  "Name": "Dương Gia Hân",
+  "Id": 5
+ },
+ {
+  "Name": "Nguyễn Bảo Hân",
+  "Id": 5
+ },
+ {
+  "Name": "Tạ Trần Gia Hân",
+  "Id": 6
+ },
+ {
+  "Name": "Trịnh Gia Hân",
+  "Id": 6
+ },
+ {
+  "Name": "Vũ Ngọc Gia Hân",
+  "Id": 7
+ },
+ {
+  "Name": "Trần Thị Quỳnh Hoa",
+  "Id": 7
+ },
+ {
+  "Name": "Vũ Kim Hồng",
+  "Id": 8
+ },
+ {
+  "Name": "Bùi Khánh Huyền",
+  "Id": 8
+ },
+ {
+  "Name": "Phạm Ngọc Hương",
+  "Id": 9
+ },
+ {
+  "Name": "Bùi Thị Ngọc Khánh",
+  "Id": 9
+ },
+ {
+  "Name": "Đoàn Minh Khánh",
+  "Id": 10
+ },
+ {
+  "Name": "Lê Ngân Khánh",
+  "Id": 10
+ }
+]
+}

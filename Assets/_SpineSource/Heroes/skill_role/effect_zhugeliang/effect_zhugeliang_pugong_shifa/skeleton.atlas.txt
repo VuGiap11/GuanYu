@@ -1,0 +1,279 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack-dg/00
+  rotate: false
+  xy: 340, 549
+  size: 101, 119
+  orig: 190, 142
+  offset: 88, 20
+  index: -1
+effect/attack-dg/01
+  rotate: true
+  xy: 305, 699
+  size: 166, 130
+  orig: 190, 142
+  offset: 22, 4
+  index: -1
+effect/attack-dg/02
+  rotate: false
+  xy: 2, 16
+  size: 180, 129
+  orig: 190, 142
+  offset: 6, 3
+  index: -1
+effect/attack-dg/04
+  rotate: false
+  xy: 330, 906
+  size: 176, 115
+  orig: 190, 142
+  offset: 4, 4
+  index: -1
+effect/attack-dg/06
+  rotate: false
+  xy: 437, 678
+  size: 163, 67
+  orig: 190, 142
+  offset: 3, 5
+  index: -1
+effect/attack-dg/09
+  rotate: false
+  xy: 528, 615
+  size: 111, 61
+  orig: 190, 142
+  offset: 3, 13
+  index: -1
+effect/attack-dg/12
+  rotate: false
+  xy: 528, 756
+  size: 100, 49
+  orig: 190, 142
+  offset: 9, 17
+  index: -1
+effect/bz-smoke02/00
+  rotate: false
+  xy: 509, 2
+  size: 90, 21
+  orig: 164, 50
+  offset: 72, 1
+  index: -1
+effect/bz-smoke02/01
+  rotate: false
+  xy: 305, 670
+  size: 108, 27
+  orig: 164, 50
+  offset: 51, 0
+  index: -1
+effect/bz-smoke02/03
+  rotate: false
+  xy: 330, 873
+  size: 122, 31
+  orig: 164, 50
+  offset: 32, 1
+  index: -1
+effect/bz-smoke02/05
+  rotate: false
+  xy: 443, 553
+  size: 129, 38
+  orig: 164, 50
+  offset: 21, 1
+  index: -1
+effect/bz-smoke02/07
+  rotate: false
+  xy: 340, 504
+  size: 136, 43
+  orig: 164, 50
+  offset: 12, 1
+  index: -1
+effect/bz-smoke02/10
+  rotate: false
+  xy: 574, 567
+  size: 114, 46
+  orig: 164, 50
+  offset: 4, 1
+  index: -1
+effect/bz-smoke02/13
+  rotate: false
+  xy: 478, 504
+  size: 113, 47
+  orig: 164, 50
+  offset: 1, 1
+  index: -1
+effect/bz-smoke02/16
+  rotate: false
+  xy: 508, 890
+  size: 111, 47
+  orig: 164, 50
+  offset: 1, 1
+  index: -1
+effect/sf-sg/00
+  rotate: false
+  xy: 603, 829
+  size: 56, 59
+  orig: 91, 88
+  offset: 17, 15
+  index: -1
+effect/sf-sg/03
+  rotate: false
+  xy: 602, 680
+  size: 72, 74
+  orig: 91, 88
+  offset: 8, 7
+  index: -1
+effect/sf-sg/06
+  rotate: false
+  xy: 508, 939
+  size: 80, 82
+  orig: 91, 88
+  offset: 6, 4
+  index: -1
+effect/sf-sg/09
+  rotate: true
+  xy: 590, 943
+  size: 78, 83
+  orig: 91, 88
+  offset: 7, 5
+  index: -1
+effect/sf-sg/12
+  rotate: false
+  xy: 443, 593
+  size: 83, 83
+  orig: 91, 88
+  offset: 6, 4
+  index: -1
+effect/sf-sg/15
+  rotate: true
+  xy: 528, 807
+  size: 81, 73
+  orig: 91, 88
+  offset: 8, 10
+  index: -1
+effect/sf-sg/18
+  rotate: false
+  xy: 641, 618
+  size: 72, 60
+  orig: 91, 88
+  offset: 16, 23
+  index: -1
+effect/xfz/00
+  rotate: false
+  xy: 437, 747
+  size: 89, 124
+  orig: 190, 190
+  offset: 5, 54
+  index: -1
+effect/xfz/01
+  rotate: true
+  xy: 175, 694
+  size: 171, 128
+  orig: 190, 190
+  offset: 6, 58
+  index: -1
+effect/xfz/03
+  rotate: true
+  xy: 2, 319
+  size: 174, 164
+  orig: 190, 190
+  offset: 11, 22
+  index: -1
+effect/xfz/05
+  rotate: false
+  xy: 2, 840
+  size: 171, 181
+  orig: 190, 190
+  offset: 14, 5
+  index: -1
+effect/xfz/07
+  rotate: false
+  xy: 2, 667
+  size: 171, 171
+  orig: 190, 190
+  offset: 9, 10
+  index: -1
+effect/xfz/09
+  rotate: false
+  xy: 2, 495
+  size: 169, 170
+  orig: 190, 190
+  offset: 10, 10
+  index: -1
+effect/xfz/11
+  rotate: false
+  xy: 2, 147
+  size: 166, 170
+  orig: 190, 190
+  offset: 11, 10
+  index: -1
+effect/xfz/13
+  rotate: true
+  xy: 184, 7
+  size: 156, 164
+  orig: 190, 190
+  offset: 17, 13
+  index: -1
+effect/xfz/15
+  rotate: false
+  xy: 175, 867
+  size: 153, 154
+  orig: 190, 190
+  offset: 19, 18
+  index: -1
+effect/xfz/18
+  rotate: false
+  xy: 491, 181
+  size: 157, 157
+  orig: 190, 190
+  offset: 17, 17
+  index: -1
+effect/xfz/21
+  rotate: false
+  xy: 332, 167
+  size: 157, 158
+  orig: 190, 190
+  offset: 17, 16
+  index: -1
+effect/xfz/24
+  rotate: false
+  xy: 350, 7
+  size: 157, 158
+  orig: 190, 190
+  offset: 17, 16
+  index: -1
+effect/xfz/25
+  rotate: false
+  xy: 336, 340
+  size: 157, 158
+  orig: 190, 190
+  offset: 17, 16
+  index: -1
+effect/xfz/26
+  rotate: false
+  xy: 509, 25
+  size: 154, 154
+  orig: 190, 190
+  offset: 18, 18
+  index: -1
+effect/xfz/27
+  rotate: false
+  xy: 170, 165
+  size: 160, 160
+  orig: 190, 190
+  offset: 15, 15
+  index: -1
+effect/xfz/28
+  rotate: false
+  xy: 173, 500
+  size: 165, 165
+  orig: 190, 190
+  offset: 12, 13
+  index: -1
+effect/xfz/29
+  rotate: false
+  xy: 168, 327
+  size: 166, 166
+  orig: 190, 190
+  offset: 12, 12
+  index: -1

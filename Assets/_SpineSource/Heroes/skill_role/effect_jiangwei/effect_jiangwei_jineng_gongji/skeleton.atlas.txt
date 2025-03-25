@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huan_00004
+  rotate: false
+  xy: 584, 534
+  size: 270, 144
+  orig: 325, 163
+  offset: 19, 5
+  index: -1
+effect/huan_00005
+  rotate: false
+  xy: 584, 680
+  size: 272, 153
+  orig: 325, 163
+  offset: 15, 2
+  index: -1
+effect/huan_00006
+  rotate: false
+  xy: 584, 835
+  size: 292, 157
+  orig: 325, 163
+  offset: 11, 6
+  index: -1
+effect/huan_00007
+  rotate: false
+  xy: 584, 400
+  size: 277, 132
+  orig: 325, 163
+  offset: 23, 26
+  index: -1
+effect/huan_00008
+  rotate: false
+  xy: 579, 328
+  size: 280, 70
+  orig: 325, 163
+  offset: 26, 82
+  index: -1
+effect/huan_00009
+  rotate: false
+  xy: 579, 226
+  size: 234, 100
+  orig: 325, 163
+  offset: 87, 44
+  index: -1
+effect/huan_00010
+  rotate: false
+  xy: 579, 113
+  size: 193, 111
+  orig: 325, 163
+  offset: 130, 32
+  index: -1
+effect/jiantou_00000
+  rotate: false
+  xy: 389, 7
+  size: 188, 488
+  orig: 256, 512
+  offset: 21, 16
+  index: -1
+effect/jiantou_00001
+  rotate: false
+  xy: 201, 0
+  size: 186, 495
+  orig: 256, 512
+  offset: 23, 17
+  index: -1
+effect/jiantou_00002
+  rotate: false
+  xy: 205, 497
+  size: 191, 495
+  orig: 256, 512
+  offset: 23, 17
+  index: -1
+effect/jiantou_00003
+  rotate: false
+  xy: 0, 0
+  size: 199, 495
+  orig: 256, 512
+  offset: 22, 17
+  index: -1
+effect/jiantou_00004
+  rotate: false
+  xy: 0, 497
+  size: 203, 495
+  orig: 256, 512
+  offset: 23, 17
+  index: -1
+effect/jiantou_00005
+  rotate: false
+  xy: 398, 497
+  size: 184, 495
+  orig: 256, 512
+  offset: 23, 17
+  index: -1

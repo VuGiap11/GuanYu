@@ -1,0 +1,230 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic/beiguang_00060
+  rotate: false
+  xy: 2, 524
+  size: 177, 222
+  orig: 201, 251
+  offset: 12, 18
+  index: -1
+pic/huomiao1/huomiao1_00000
+  rotate: false
+  xy: 515, 278
+  size: 65, 63
+  orig: 116, 206
+  offset: 27, 15
+  index: -1
+pic/huomiao1/huomiao1_00002
+  rotate: false
+  xy: 2, 29
+  size: 79, 80
+  orig: 116, 206
+  offset: 21, 13
+  index: -1
+pic/huomiao1/huomiao1_00003
+  rotate: false
+  xy: 217, 293
+  size: 95, 114
+  orig: 116, 206
+  offset: 11, 10
+  index: -1
+pic/huomiao1/huomiao1_00005
+  rotate: true
+  xy: 432, 430
+  size: 92, 124
+  orig: 116, 206
+  offset: 13, 22
+  index: -1
+pic/huomiao1/huomiao1_00006
+  rotate: true
+  xy: 515, 343
+  size: 85, 133
+  orig: 116, 206
+  offset: 14, 34
+  index: -1
+pic/huomiao1/huomiao1_00008
+  rotate: false
+  xy: 313, 137
+  size: 83, 136
+  orig: 116, 206
+  offset: 22, 47
+  index: -1
+pic/huomiao1/huomiao1_00009
+  rotate: true
+  xy: 534, 545
+  size: 91, 127
+  orig: 116, 206
+  offset: 15, 63
+  index: -1
+pic/huomiao1/huomiao1_00011
+  rotate: false
+  xy: 2, 111
+  size: 93, 113
+  orig: 116, 206
+  offset: 13, 76
+  index: -1
+pic/huomiao1/huomiao1_00012
+  rotate: false
+  xy: 420, 276
+  size: 93, 98
+  orig: 116, 206
+  offset: 12, 87
+  index: -1
+pic/huomiao1/huomiao1_00014
+  rotate: false
+  xy: 558, 458
+  size: 91, 85
+  orig: 116, 206
+  offset: 16, 100
+  index: -1
+pic/huomiao1/huomiao1_00015
+  rotate: false
+  xy: 663, 567
+  size: 78, 69
+  orig: 116, 206
+  offset: 27, 120
+  index: -1
+pic/huomiao1/huomiao1_00017
+  rotate: false
+  xy: 432, 380
+  size: 48, 48
+  orig: 116, 206
+  offset: 52, 134
+  index: -1
+pic/huomiao2/huomiao2_00000
+  rotate: false
+  xy: 690, 691
+  size: 56, 55
+  orig: 135, 132
+  offset: 30, 19
+  index: -1
+pic/huomiao2/huomiao2_00001
+  rotate: true
+  xy: 83, 30
+  size: 79, 75
+  orig: 135, 132
+  offset: 19, 14
+  index: -1
+pic/huomiao2/huomiao2_00003
+  rotate: false
+  xy: 420, 183
+  size: 110, 91
+  orig: 135, 132
+  offset: 10, 14
+  index: -1
+pic/huomiao2/huomiao2_00005
+  rotate: true
+  xy: 217, 175
+  size: 116, 94
+  orig: 135, 132
+  offset: 8, 14
+  index: -1
+pic/huomiao2/huomiao2_00007
+  rotate: false
+  xy: 314, 275
+  size: 104, 99
+  orig: 135, 132
+  offset: 11, 19
+  index: -1
+pic/huomiao2/huomiao2_00009
+  rotate: false
+  xy: 97, 119
+  size: 93, 105
+  orig: 135, 132
+  offset: 21, 19
+  index: -1
+pic/huomiao2/huomiao2_00011
+  rotate: false
+  xy: 192, 85
+  size: 79, 88
+  orig: 135, 132
+  offset: 29, 37
+  index: -1
+pic/huomiao2/huomiao2_00013
+  rotate: false
+  xy: 532, 183
+  size: 70, 93
+  orig: 135, 132
+  offset: 30, 28
+  index: -1
+pic/huomiao2/huomiao2_00015
+  rotate: true
+  xy: 582, 284
+  size: 57, 85
+  orig: 135, 132
+  offset: 35, 28
+  index: -1
+pic/qidian/qidian_00000
+  rotate: true
+  xy: 2, 408
+  size: 114, 145
+  orig: 142, 206
+  offset: 17, 21
+  index: -1
+pic/qidian/qidian_00002
+  rotate: true
+  xy: 149, 409
+  size: 113, 166
+  orig: 142, 206
+  offset: 18, 8
+  index: -1
+pic/qidian/qidian_00004
+  rotate: true
+  xy: 181, 633
+  size: 113, 163
+  orig: 142, 206
+  offset: 13, 18
+  index: -1
+pic/qidian/qidian_00006
+  rotate: false
+  xy: 110, 237
+  size: 105, 169
+  orig: 142, 206
+  offset: 17, 19
+  index: -1
+pic/qidian/qidian_00008
+  rotate: false
+  xy: 2, 226
+  size: 106, 180
+  orig: 142, 206
+  offset: 16, 16
+  index: -1
+pic/qidian/qidian_00010
+  rotate: true
+  xy: 181, 524
+  size: 107, 163
+  orig: 142, 206
+  offset: 19, 17
+  index: -1
+pic/qidian/qidian_00012
+  rotate: true
+  xy: 524, 638
+  size: 108, 164
+  orig: 142, 206
+  offset: 17, 26
+  index: -1
+pic/qidian/qidian_00014
+  rotate: true
+  xy: 346, 524
+  size: 109, 186
+  orig: 142, 206
+  offset: 16, 13
+  index: -1
+pic/qidian/qidian_00016
+  rotate: true
+  xy: 346, 635
+  size: 111, 176
+  orig: 142, 206
+  offset: 16, 9
+  index: -1
+pic/qidian/qidian_00018
+  rotate: false
+  xy: 317, 376
+  size: 113, 146
+  orig: 142, 206
+  offset: 16, 18
+  index: -1

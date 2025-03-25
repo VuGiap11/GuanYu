@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/attack/chongjibo/chj_00
+  rotate: false
+  xy: 1708, 103
+  size: 315, 414
+  orig: 684, 466
+  offset: 336, 10
+  index: -1
+TX/attack/chongjibo/chj_02
+  rotate: false
+  xy: 1306, 519
+  size: 566, 413
+  orig: 684, 466
+  offset: 96, 14
+  index: -1
+TX/attack/chongjibo/chj_04
+  rotate: false
+  xy: 1306, 934
+  size: 606, 398
+  orig: 684, 466
+  offset: 44, 26
+  index: -1
+TX/attack/chongjibo/chj_06
+  rotate: false
+  xy: 680, 419
+  size: 568, 378
+  orig: 684, 466
+  offset: 75, 35
+  index: -1
+TX/attack/chongjibo/chj_08
+  rotate: false
+  xy: 1, 418
+  size: 597, 342
+  orig: 684, 466
+  offset: 44, 44
+  index: -1
+TX/attack/chongjibo/chj_10
+  rotate: false
+  xy: 600, 173
+  size: 452, 244
+  orig: 684, 466
+  offset: 76, 97
+  index: -1
+TX/attack/guangshu/gus_00
+  rotate: false
+  xy: 1874, 804
+  size: 94, 87
+  orig: 828, 696
+  offset: 213, 407
+  index: -1
+TX/attack/guangshu/gus_02
+  rotate: false
+  xy: 1250, 127
+  size: 456, 390
+  orig: 828, 696
+  offset: 203, 146
+  index: -1
+TX/attack/guangshu/gus_04
+  rotate: false
+  xy: 1, 1355
+  size: 690, 587
+  orig: 828, 696
+  offset: 62, 42
+  index: -1
+TX/attack/guangshu/gus_06
+  rotate: false
+  xy: 693, 1352
+  size: 685, 590
+  orig: 828, 696
+  offset: 64, 40
+  index: -1
+TX/attack/guangshu/gus_08
+  rotate: false
+  xy: 1, 762
+  size: 677, 591
+  orig: 828, 696
+  offset: 69, 39
+  index: -1
+TX/attack/guangshu/gus_10
+  rotate: false
+  xy: 1380, 1334
+  size: 662, 608
+  orig: 828, 696
+  offset: 79, 38
+  index: -1
+TX/attack/guangshu/gus_12
+  rotate: false
+  xy: 680, 799
+  size: 624, 551
+  orig: 828, 696
+  offset: 99, 54
+  index: -1
+TX/attack/kuosanhuichen/huc_00
+  rotate: false
+  xy: 1, 6
+  size: 395, 120
+  orig: 500, 163
+  offset: 48, 18
+  index: -1
+TX/attack/kuosanhuichen/huc_02
+  rotate: true
+  xy: 1054, 1
+  size: 416, 127
+  orig: 500, 163
+  offset: 38, 15
+  index: -1
+TX/attack/kuosanhuichen/huc_04
+  rotate: true
+  xy: 1914, 893
+  size: 439, 133
+  orig: 500, 163
+  offset: 27, 13
+  index: -1
+TX/attack/kuosanhuichen/huc_06
+  rotate: false
+  xy: 483, 33
+  size: 460, 138
+  orig: 500, 163
+  offset: 18, 12
+  index: -1
+TX/attack/kuosanhuichen/huc_08
+  rotate: false
+  xy: 1, 128
+  size: 480, 143
+  orig: 500, 163
+  offset: 9, 10
+  index: -1
+TX/attack/kuosanhuichen/huc_10
+  rotate: false
+  xy: 1, 273
+  size: 490, 143
+  orig: 500, 163
+  offset: 7, 11
+  index: -1
